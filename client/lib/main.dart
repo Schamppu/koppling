@@ -1,7 +1,10 @@
 import 'package:client/features/authentication/widgets/pages/page_auth.dart';
+import 'package:client/features/networking/functions/networking.dart';
 import 'package:flutter/material.dart';
 
-void main() {
+Future<void> main() async {
+  final response = await net.get('/');
+  print('Response data: ${response.data}');
   runApp(const MyApp());
 }
 

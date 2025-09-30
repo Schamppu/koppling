@@ -1,6 +1,8 @@
 import 'package:client/features/networking/functions/urls.dart';
 import 'package:dio/dio.dart';
 
+Networking get net => Networking();
+
 /// Networking is a Dio singleton wrapper for making HTTP requests.
 class Networking {
   Networking._privateConstructor();
@@ -16,10 +18,6 @@ class Networking {
       baseUrl: devBaseUrl,
       connectTimeout: const Duration(seconds: 10),
       receiveTimeout: const Duration(seconds: 10),
-      headers: {
-        'Content-Type': 'application/json',
-        'Accept': 'application/json',
-      },
     ),
   );
 
