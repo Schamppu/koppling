@@ -1,25 +1,53 @@
-import 'package:client/features/authentication/widgets/pages/page_auth.dart';
-import 'package:client/features/networking/functions/networking.dart';
+import 'package:client/features/authentication/manager/auth_manager.dart';
+import 'package:client/features/navigation/router/router.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:toastification/toastification.dart';
+
+bool hasInitializedManagers = false;
 
 Future<void> main() async {
-  final response = await net.get('/');
-  print('Response data: ${response.data}');
-  runApp(const MyApp());
+  runApp(const ProviderScope(child: KopplingApp()));
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class KopplingApp extends StatelessWidget {
+  const KopplingApp({super.key});
 
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Koppling',
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+    return EagerProviderInitialization(
+      child: ToastificationWrapper(
+        config: const ToastificationConfig(),
+        child: MaterialApp.router(
+          title: 'Koppling',
+          theme: ThemeData(
+            colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+          ),
+          routerConfig: KopplingRouter().router,
+        ),
       ),
-      home: const PageAuth(),
     );
+  }
+}
+
+class EagerProviderInitialization extends ConsumerWidget {
+  const EagerProviderInitialization({super.key, required this.child});
+  final Widget child;
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    // Initialize the providers eagerly
+    managerInit(ref);
+    return child;
+  }
+}
+
+Future<void> managerInit(WidgetRef ref) async {
+  if (hasInitializedManagers == false) {
+    hasInitializedManagers = true;
+    Future.delayed(Duration.zero, () async {
+      auth.init(ref);
+    });
   }
 }

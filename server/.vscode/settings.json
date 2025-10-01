@@ -1,0 +1,16 @@
+{
+    "cmake.ignoreCMakeListsMissing": true,
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.expand": false,
+    "explorer.fileNesting.patterns": {
+        "*.dart": "$(capture).g.dart, $(capture).freezed.dart, $(capture).mapper.dart, $(capture).json.dart"
+    },
+    "dart-barrel-file-generator.defaultBarrelName": "barrel_file",
+    "dart-barrel-file-generator.excludeFileList": [
+        "**/**.mapper.dart"
+    ],
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "dart.previewFlutterUiGuides": true
+}

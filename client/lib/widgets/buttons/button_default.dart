@@ -9,10 +9,12 @@ class ButtonDefault extends ConsumerWidget {
     this.label,
     this.icon,
     this.paddingSize = PaddingSize.medium,
+    required this.onPressed,
   });
   final String? label;
   final IconData? icon;
   final PaddingSize paddingSize;
+  final VoidCallback onPressed;
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
@@ -25,7 +27,7 @@ class ButtonDefault extends ConsumerWidget {
         padding: EdgeInsets.zero,
         shadowColor: Colors.transparent,
       ),
-      onPressed: () {},
+      onPressed: () => onPressed(),
       child: Padding(
         padding: EdgeInsets.all(
           paddingSize == PaddingSize.small

@@ -1,5 +1,11 @@
 import 'package:flutter/material.dart';
 
+KopplingTheme get ktheme => KopplingTheme(
+  fonts: KopplingFonts(),
+  colors: KopplingColors(),
+  shadows: KopplingShadows(),
+);
+
 extension KopplingThemeExtension on ThemeData {
   KopplingTheme get theme =>
       extension<KopplingTheme>() ??
@@ -13,7 +19,7 @@ extension KopplingThemeExtension on ThemeData {
 class KopplingFonts {
   KopplingFonts();
   final titleFont = TextStyle(
-    fontSize: 48,
+    fontSize: 40,
     fontWeight: FontWeight.bold,
     color: KopplingColors().title,
     letterSpacing: 6,
@@ -27,6 +33,7 @@ class KopplingFonts {
     fontSize: 16,
     color: KopplingColors().onPrimary,
   );
+  final onError = TextStyle(fontSize: 16, color: KopplingColors().onError);
   final highlightItalic = TextStyle(
     fontSize: 16,
     fontStyle: FontStyle.italic,
@@ -47,6 +54,9 @@ class KopplingColors {
   final fieldBackground = const Color.fromARGB(255, 246, 210, 255);
   final buttonBackground = const Color.fromARGB(255, 217, 94, 255);
   final onButton = Colors.white;
+  final error = const Color.fromARGB(255, 177, 54, 54);
+  final onError = Colors.white;
+  final lightError = const Color.fromARGB(255, 255, 164, 164);
 }
 
 class KopplingShadows {

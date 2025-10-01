@@ -1,5 +1,7 @@
 import 'package:client/features/networking/functions/urls.dart';
+import 'package:client/features/toasts/functions/toast_functions.dart';
 import 'package:dio/dio.dart';
+import 'package:flutter/material.dart';
 
 Networking get net => Networking();
 
@@ -30,7 +32,8 @@ class Networking {
       return response;
     } on DioException catch (e) {
       // Handle error
-      print('DioException: ${e.message}');
+      final body = e.response?.data;
+      showError(title: 'Error', message: body, icon: Icons.error);
       rethrow;
     }
   }
@@ -41,7 +44,8 @@ class Networking {
       return response;
     } on DioException catch (e) {
       // Handle error
-      print('DioException: ${e.message}');
+      final body = e.response?.data;
+      showError(title: 'Error', message: body, icon: Icons.error);
       rethrow;
     }
   }

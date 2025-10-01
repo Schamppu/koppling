@@ -1,0 +1,10246 @@
+[
+  {
+    "id": 1,
+    "koppling": "Circus animals",
+    "words": [
+      {
+        "word": "en elefant",
+        "forms": [
+          "elefanten",
+          "elefanter",
+          "elefanterna"
+        ],
+        "english": "an elephant"
+      },
+      {
+        "word": "en apa",
+        "forms": [
+          "apan",
+          "apor",
+          "aporna"
+        ],
+        "english": "an ape"
+      },
+      {
+        "word": "ett lejon",
+        "forms": [
+          "lejonet",
+          "lejon",
+          "lejonen"
+        ],
+        "english": "a lion"
+      },
+      {
+        "word": "en delfin",
+        "forms": [
+          "delfinen",
+          "delfiner",
+          "delfinerna"
+        ],
+        "english": "a dolphin"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "koppling": "Finnish innovations",
+    "words": [
+      {
+        "word": "en kärringkånk",
+        "forms": [
+          "kärringkånken",
+          "kärringkånk",
+          "kärringkånkna"
+        ],
+        "english": "wife carrying"
+      },
+      {
+        "word": "ett sms",
+        "forms": [
+          "sms:et",
+          "sms:en",
+          "sms:na"
+        ],
+        "english": "a text message"
+      },
+      {
+        "word": "ett AIV-foder",
+        "forms": [
+          "AIV-fodret",
+          "AIV-foder",
+          "AIV-foderna"
+        ],
+        "english": "AIV fodder"
+      },
+      {
+        "word": "en moderskapsförpackning",
+        "forms": [
+          "moderskapsförpackningen",
+          "moderskapsförpackningar",
+          "moderskapsförpackningarna"
+        ],
+        "english": "a maternity package"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "koppling": "Kitchen items",
+    "words": [
+      {
+        "word": "en kniv",
+        "forms": [
+          "kniven",
+          "knivar",
+          "knivarna"
+        ],
+        "english": "a knife"
+      },
+      {
+        "word": "en gaffel",
+        "forms": [
+          "gaffeln",
+          "gafflar",
+          "gafflarna"
+        ],
+        "english": "a fork"
+      },
+      {
+        "word": "en kastrull",
+        "forms": [
+          "kastrullen",
+          "kastruller",
+          "kastrullerna"
+        ],
+        "english": "a saucepan"
+      },
+      {
+        "word": "ett glas",
+        "forms": [
+          "glaset",
+          "glas",
+          "glasen"
+        ],
+        "english": "a glass"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "koppling": "Weather phenomena",
+    "words": [
+      {
+        "word": "ett åskväder",
+        "forms": [
+          "åskvädret",
+          "åskväder",
+          "åskvädren"
+        ],
+        "english": "a thunderstorm"
+      },
+      {
+        "word": "en regnbåge",
+        "forms": [
+          "regnbågen",
+          "regnbågar",
+          "regnbågarna"
+        ],
+        "english": "a rainbow"
+      },
+      {
+        "word": "en hagelstorm",
+        "forms": [
+          "hagelstormen",
+          "hagelstormar",
+          "hagelstormarna"
+        ],
+        "english": "a hailstorm"
+      },
+      {
+        "word": "en snöflinga",
+        "forms": [
+          "snöflingan",
+          "snöflingor",
+          "snöflingorna"
+        ],
+        "english": "a snowflake"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "koppling": "Musical instruments",
+    "words": [
+      {
+        "word": "en gitarr",
+        "forms": [
+          "gitarren",
+          "gitarrer",
+          "gitarrerna"
+        ],
+        "english": "a guitar"
+      },
+      {
+        "word": "ett piano",
+        "forms": [
+          "pianot",
+          "pianon",
+          "pianona"
+        ],
+        "english": "a piano"
+      },
+      {
+        "word": "en fiol",
+        "forms": [
+          "fiolen",
+          "fioler",
+          "fiolerna"
+        ],
+        "english": "a violin"
+      },
+      {
+        "word": "en trumma",
+        "forms": [
+          "trumman",
+          "trummor",
+          "trummorna"
+        ],
+        "english": "a drum"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "koppling": "Fantasy creatures",
+    "words": [
+      {
+        "word": "en drake",
+        "forms": [
+          "draken",
+          "drakar",
+          "drakarna"
+        ],
+        "english": "a dragon"
+      },
+      {
+        "word": "en älva",
+        "forms": [
+          "älvan",
+          "älvor",
+          "älvorna"
+        ],
+        "english": "a fairy"
+      },
+      {
+        "word": "ett troll",
+        "forms": [
+          "trollet",
+          "troll",
+          "trollen"
+        ],
+        "english": "a troll"
+      },
+      {
+        "word": "en kentaur",
+        "forms": [
+          "kentauren",
+          "kentaurer",
+          "kentaurerna"
+        ],
+        "english": "a centaur"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "koppling": "Sports",
+    "words": [
+      {
+        "word": "en fotboll",
+        "forms": [
+          "fotbollen",
+          "fotbollar",
+          "fotbollarna"
+        ],
+        "english": "a football"
+      },
+      {
+        "word": "en skridsko",
+        "forms": [
+          "skridskon",
+          "skridskor",
+          "skridskorna"
+        ],
+        "english": "an ice skate"
+      },
+      {
+        "word": "ett racket",
+        "forms": [
+          "racketen",
+          "racketar",
+          "racketarna"
+        ],
+        "english": "a racket"
+      },
+      {
+        "word": "en hjälm",
+        "forms": [
+          "hjälmen",
+          "hjälmar",
+          "hjälmarna"
+        ],
+        "english": "a helmet"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "koppling": "Outer space",
+    "words": [
+      {
+        "word": "en planet",
+        "forms": [
+          "planeten",
+          "planeter",
+          "planeterna"
+        ],
+        "english": "a planet"
+      },
+      {
+        "word": "en stjärna",
+        "forms": [
+          "stjärnan",
+          "stjärnor",
+          "stjärnorna"
+        ],
+        "english": "a star"
+      },
+      {
+        "word": "ett svart hål",
+        "forms": [
+          "svarta hålet",
+          "svarta hål",
+          "svarta hålen"
+        ],
+        "english": "a black hole"
+      },
+      {
+        "word": "en galax",
+        "forms": [
+          "galaxen",
+          "galaxer",
+          "galaxerna"
+        ],
+        "english": "a galaxy"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "koppling": "Colors",
+    "words": [
+      {
+        "word": "en färg",
+        "forms": [
+          "färgen",
+          "färger",
+          "färgerna"
+        ],
+        "english": "a color"
+      },
+      {
+        "word": "en nyans",
+        "forms": [
+          "nyansen",
+          "nyanser",
+          "nyanserna"
+        ],
+        "english": "a shade"
+      },
+      {
+        "word": "ett spektrum",
+        "forms": [
+          "spektrumet",
+          "spektra",
+          "spektra"
+        ],
+        "english": "a spectrum"
+      },
+      {
+        "word": "en regnbågsfärg",
+        "forms": [
+          "regnbågsfärgen",
+          "regnbågsfärger",
+          "regnbågsfärgerna"
+        ],
+        "english": "a rainbow color"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "koppling": "Professions",
+    "words": [
+      {
+        "word": "en läkare",
+        "forms": [
+          "läkaren",
+          "läkare",
+          "läkarna"
+        ],
+        "english": "a doctor"
+      },
+      {
+        "word": "en lärare",
+        "forms": [
+          "läraren",
+          "lärare",
+          "lärarna"
+        ],
+        "english": "a teacher"
+      },
+      {
+        "word": "en snickare",
+        "forms": [
+          "snickaren",
+          "snickare",
+          "snickarna"
+        ],
+        "english": "a carpenter"
+      },
+      {
+        "word": "en brandman",
+        "forms": [
+          "brandmannen",
+          "brandmän",
+          "brandmännen"
+        ],
+        "english": "a firefighter"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "koppling": "Sea creatures",
+    "words": [
+      {
+        "word": "en sjöhäst",
+        "forms": [
+          "sjöhästen",
+          "sjöhästar",
+          "sjöhästarna"
+        ],
+        "english": "a seahorse"
+      },
+      {
+        "word": "en bläckfisk",
+        "forms": [
+          "bläckfisken",
+          "bläckfiskar",
+          "bläckfiskarna"
+        ],
+        "english": "an octopus"
+      },
+      {
+        "word": "en manet",
+        "forms": [
+          "maneten",
+          "maneter",
+          "maneterna"
+        ],
+        "english": "a jellyfish"
+      },
+      {
+        "word": "en sjöborre",
+        "forms": [
+          "sjöborren",
+          "sjöborrar",
+          "sjöborrarna"
+        ],
+        "english": "a sea urchin"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "koppling": "Abstract nouns",
+    "words": [
+      {
+        "word": "en förväntan",
+        "forms": [
+          "förväntan",
+          "förväntningar",
+          "förväntningarna"
+        ],
+        "english": "an expectation"
+      },
+      {
+        "word": "en besvikelse",
+        "forms": [
+          "besvikelsen",
+          "besvikelser",
+          "besvikelserna"
+        ],
+        "english": "a disappointment"
+      },
+      {
+        "word": "ett medvetande",
+        "forms": [
+          "medvetandet",
+          "medvetanden",
+          "medvetandena"
+        ],
+        "english": "a consciousness"
+      },
+      {
+        "word": "en tillfredsställelse",
+        "forms": [
+          "tillfredsställelsen",
+          "tillfredsställelser",
+          "tillfredsställelserna"
+        ],
+        "english": "a satisfaction"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "koppling": "Swedish compounds",
+    "words": [
+      {
+        "word": "ett kylskåp",
+        "forms": [
+          "kylskåpet",
+          "kylskåp",
+          "kylskåpen"
+        ],
+        "english": "a refrigerator"
+      },
+      {
+        "word": "en skottkärra",
+        "forms": [
+          "skottkärran",
+          "skottkärror",
+          "skottkärrorna"
+        ],
+        "english": "a wheelbarrow"
+      },
+      {
+        "word": "ett paraplyfodral",
+        "forms": [
+          "paraplyfodralet",
+          "paraplyfodral",
+          "paraplyfodralen"
+        ],
+        "english": "an umbrella case"
+      },
+      {
+        "word": "en nagelsax",
+        "forms": [
+          "nagelsaxen",
+          "nagelsaxar",
+          "nagelsaxarna"
+        ],
+        "english": "a nail clipper"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "koppling": "Mythology",
+    "words": [
+      {
+        "word": "en åskgud",
+        "forms": [
+          "åskguden",
+          "åskgudar",
+          "åskgudarna"
+        ],
+        "english": "a thunder god"
+      },
+      {
+        "word": "en valkyria",
+        "forms": [
+          "valkyrien",
+          "valkyrior",
+          "valkyriorna"
+        ],
+        "english": "a valkyrie"
+      },
+      {
+        "word": "ett underverk",
+        "forms": [
+          "underverket",
+          "underverk",
+          "underverken"
+        ],
+        "english": "a miracle / wonder"
+      },
+      {
+        "word": "en skepnad",
+        "forms": [
+          "skepnaden",
+          "skepnader",
+          "skepnaderna"
+        ],
+        "english": "a shape / guise"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "koppling": "Rare animals",
+    "words": [
+      {
+        "word": "en myrslok",
+        "forms": [
+          "myrsloken",
+          "myrslokar",
+          "myrslokarna"
+        ],
+        "english": "an anteater"
+      },
+      {
+        "word": "en sengångare",
+        "forms": [
+          "sengångaren",
+          "sengångare",
+          "sengångarna"
+        ],
+        "english": "a sloth"
+      },
+      {
+        "word": "ett näbbdjur",
+        "forms": [
+          "näbbdjuret",
+          "näbbdjur",
+          "näbbdjuren"
+        ],
+        "english": "a platypus"
+      },
+      {
+        "word": "en jordsvin",
+        "forms": [
+          "jordsvinet",
+          "jordsvin",
+          "jordsvinen"
+        ],
+        "english": "an aardvark"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "koppling": "Emotions",
+    "words": [
+      {
+        "word": "en ängslan",
+        "forms": [
+          "ängslan",
+          "ängslor",
+          "ängslorna"
+        ],
+        "english": "an anxiety / worry"
+      },
+      {
+        "word": "ett begär",
+        "forms": [
+          "begäret",
+          "begär",
+          "begären"
+        ],
+        "english": "a desire / craving"
+      },
+      {
+        "word": "en vrede",
+        "forms": [
+          "vreden",
+          "vredesutbrott",
+          "vredesutbrotten"
+        ],
+        "english": "an anger / wrath"
+      },
+      {
+        "word": "ett lugn",
+        "forms": [
+          "lugnet",
+          "lugn",
+          "lugnen"
+        ],
+        "english": "a calmness"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "koppling": "Unusual foods",
+    "words": [
+      {
+        "word": "en surströmming",
+        "forms": [
+          "surströmmingen",
+          "surströmmingar",
+          "surströmmingarna"
+        ],
+        "english": "a fermented herring"
+      },
+      {
+        "word": "ett renkött",
+        "forms": [
+          "renköttet",
+          "renkött",
+          "renkötten"
+        ],
+        "english": "reindeer meat"
+      },
+      {
+        "word": "en hjortron",
+        "forms": [
+          "hjortronet",
+          "hjortron",
+          "hjortronen"
+        ],
+        "english": "a cloudberry"
+      },
+      {
+        "word": "ett knäckebröd",
+        "forms": [
+          "knäckebrödet",
+          "knäckebröd",
+          "knäckebröden"
+        ],
+        "english": "a crispbread"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "koppling": "Geography",
+    "words": [
+      {
+        "word": "ett vattenfall",
+        "forms": [
+          "vattenfallet",
+          "vattenfall",
+          "vattenfallen"
+        ],
+        "english": "a waterfall"
+      },
+      {
+        "word": "en halvö",
+        "forms": [
+          "halvön",
+          "halvöar",
+          "halvöarna"
+        ],
+        "english": "a peninsula"
+      },
+      {
+        "word": "en arkipelag",
+        "forms": [
+          "arkipelagen",
+          "arkipelager",
+          "arkipelagerna"
+        ],
+        "english": "an archipelago"
+      },
+      {
+        "word": "ett sund",
+        "forms": [
+          "sundet",
+          "sund",
+          "sunden"
+        ],
+        "english": "a strait"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "koppling": "Literary words",
+    "words": [
+      {
+        "word": "en skildring",
+        "forms": [
+          "skildringen",
+          "skildringar",
+          "skildringarna"
+        ],
+        "english": "a depiction"
+      },
+      {
+        "word": "ett epos",
+        "forms": [
+          "eposet",
+          "epos",
+          "eposen"
+        ],
+        "english": "an epic"
+      },
+      {
+        "word": "en metafor",
+        "forms": [
+          "metaforen",
+          "metaforer",
+          "metaforerna"
+        ],
+        "english": "a metaphor"
+      },
+      {
+        "word": "en versrad",
+        "forms": [
+          "versraden",
+          "versrader",
+          "versraderna"
+        ],
+        "english": "a line of verse"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "koppling": "Medicine",
+    "words": [
+      {
+        "word": "ett recept",
+        "forms": [
+          "receptet",
+          "recept",
+          "recepten"
+        ],
+        "english": "a prescription"
+      },
+      {
+        "word": "en spruta",
+        "forms": [
+          "sprutan",
+          "sprutor",
+          "sprutorna"
+        ],
+        "english": "a syringe"
+      },
+      {
+        "word": "en operation",
+        "forms": [
+          "operationen",
+          "operationer",
+          "operationerna"
+        ],
+        "english": "a surgery"
+      },
+      {
+        "word": "ett blodprov",
+        "forms": [
+          "blodprovet",
+          "blodprov",
+          "blodproven"
+        ],
+        "english": "a blood test"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "koppling": "Technology",
+    "words": [
+      {
+        "word": "en algoritm",
+        "forms": [
+          "algoritmen",
+          "algoritmer",
+          "algoritmerna"
+        ],
+        "english": "an algorithm"
+      },
+      {
+        "word": "ett nätverk",
+        "forms": [
+          "nätverket",
+          "nätverk",
+          "nätverken"
+        ],
+        "english": "a network"
+      },
+      {
+        "word": "en databas",
+        "forms": [
+          "databasen",
+          "databaser",
+          "databaserna"
+        ],
+        "english": "a database"
+      },
+      {
+        "word": "ett gränssnitt",
+        "forms": [
+          "gränssnittet",
+          "gränssnitt",
+          "gränssnitten"
+        ],
+        "english": "an interface"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "koppling": "Philosophy",
+    "words": [
+      {
+        "word": "en existens",
+        "forms": [
+          "existensen",
+          "existenser",
+          "existenserna"
+        ],
+        "english": "an existence"
+      },
+      {
+        "word": "ett väsen",
+        "forms": [
+          "väsendet",
+          "väsen",
+          "väsendena"
+        ],
+        "english": "an essence / being"
+      },
+      {
+        "word": "en sanning",
+        "forms": [
+          "sanningen",
+          "sanningar",
+          "sanningarna"
+        ],
+        "english": "a truth"
+      },
+      {
+        "word": "en frihet",
+        "forms": [
+          "friheten",
+          "friheter",
+          "friheterna"
+        ],
+        "english": "a freedom"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "koppling": "Architecture",
+    "words": [
+      {
+        "word": "en katedral",
+        "forms": [
+          "katedralen",
+          "katedraler",
+          "katedralerna"
+        ],
+        "english": "a cathedral"
+      },
+      {
+        "word": "ett torn",
+        "forms": [
+          "tornet",
+          "torn",
+          "tornen"
+        ],
+        "english": "a tower"
+      },
+      {
+        "word": "en bro",
+        "forms": [
+          "bron",
+          "broar",
+          "broarna"
+        ],
+        "english": "a bridge"
+      },
+      {
+        "word": "en slottsmur",
+        "forms": [
+          "slottsmuren",
+          "slottsmurar",
+          "slottsmurarna"
+        ],
+        "english": "a castle wall"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "koppling": "Birds",
+    "words": [
+      {
+        "word": "en hackspett",
+        "forms": [
+          "hackspetten",
+          "hackspettar",
+          "hackspettarna"
+        ],
+        "english": "a woodpecker"
+      },
+      {
+        "word": "en trana",
+        "forms": [
+          "tranan",
+          "tranor",
+          "tranorna"
+        ],
+        "english": "a crane (bird)"
+      },
+      {
+        "word": "en örn",
+        "forms": [
+          "örnen",
+          "örnar",
+          "örnarna"
+        ],
+        "english": "an eagle"
+      },
+      {
+        "word": "en näktergal",
+        "forms": [
+          "näktergalen",
+          "näktergalar",
+          "näktergalarna"
+        ],
+        "english": "a nightingale"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "koppling": "Poetic nature words",
+    "words": [
+      {
+        "word": "en solnedgång",
+        "forms": [
+          "solnedgången",
+          "solnedgångar",
+          "solnedgångarna"
+        ],
+        "english": "a sunset"
+      },
+      {
+        "word": "ett månljus",
+        "forms": [
+          "månljuset",
+          "månljus",
+          "månljusen"
+        ],
+        "english": "a moonlight"
+      },
+      {
+        "word": "en vindil",
+        "forms": [
+          "vindilen",
+          "vindilar",
+          "vindilarna"
+        ],
+        "english": "a gust of wind"
+      },
+      {
+        "word": "ett regnfall",
+        "forms": [
+          "regnfallet",
+          "regnfall",
+          "regnfallen"
+        ],
+        "english": "a rainfall"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "koppling": "Complicated compounds",
+    "words": [
+      {
+        "word": "ett vägguttag",
+        "forms": [
+          "vägguttaget",
+          "vägguttag",
+          "vägguttagen"
+        ],
+        "english": "a wall socket"
+      },
+      {
+        "word": "en fjärrkontroll",
+        "forms": [
+          "fjärrkontrollen",
+          "fjärrkontroller",
+          "fjärrkontrollerna"
+        ],
+        "english": "a remote control"
+      },
+      {
+        "word": "ett bokmärke",
+        "forms": [
+          "bokmärket",
+          "bokmärken",
+          "bokmärkena"
+        ],
+        "english": "a bookmark"
+      },
+      {
+        "word": "en ficklampa",
+        "forms": [
+          "ficklampan",
+          "ficklampor",
+          "ficklamporna"
+        ],
+        "english": "a flashlight"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "koppling": "Philosophical concepts",
+    "words": [
+      {
+        "word": "en illusion",
+        "forms": [
+          "illusionen",
+          "illusioner",
+          "illusionerna"
+        ],
+        "english": "an illusion"
+      },
+      {
+        "word": "ett minne",
+        "forms": [
+          "minnet",
+          "minnen",
+          "minnena"
+        ],
+        "english": "a memory"
+      },
+      {
+        "word": "en insikt",
+        "forms": [
+          "insikten",
+          "insikter",
+          "insikterna"
+        ],
+        "english": "an insight"
+      },
+      {
+        "word": "ett öde",
+        "forms": [
+          "ödet",
+          "öden",
+          "ödena"
+        ],
+        "english": "a fate"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "koppling": "Nordic mythology",
+    "words": [
+      {
+        "word": "en jätte",
+        "forms": [
+          "jätten",
+          "jättar",
+          "jättarna"
+        ],
+        "english": "a giant"
+      },
+      {
+        "word": "en norn",
+        "forms": [
+          "nornan",
+          "nornor",
+          "nornorna"
+        ],
+        "english": "a Norn (fate goddess)"
+      },
+      {
+        "word": "en världsträd",
+        "forms": [
+          "världsträdet",
+          "världsträd",
+          "världsträden"
+        ],
+        "english": "a world tree"
+      },
+      {
+        "word": "en asagud",
+        "forms": [
+          "asaguden",
+          "asagudar",
+          "asagudarna"
+        ],
+        "english": "an Æsir god"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "koppling": "Uncommon tools",
+    "words": [
+      {
+        "word": "en skiftnyckel",
+        "forms": [
+          "skiftnyckeln",
+          "skiftnycklar",
+          "skiftnycklarna"
+        ],
+        "english": "an adjustable spanner"
+      },
+      {
+        "word": "ett städ",
+        "forms": [
+          "städet",
+          "städ",
+          "städen"
+        ],
+        "english": "an anvil"
+      },
+      {
+        "word": "en fogsvans",
+        "forms": [
+          "fogsvansen",
+          "fogsvansar",
+          "fogsvansarna"
+        ],
+        "english": "a handsaw"
+      },
+      {
+        "word": "en hovtång",
+        "forms": [
+          "hovtången",
+          "hovtänger",
+          "hovtängerna"
+        ],
+        "english": "a pincers"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "koppling": "Ocean words",
+    "words": [
+      {
+        "word": "en våg",
+        "forms": [
+          "vågen",
+          "vågor",
+          "vågorna"
+        ],
+        "english": "a wave"
+      },
+      {
+        "word": "ett djup",
+        "forms": [
+          "djupet",
+          "djup",
+          "djupen"
+        ],
+        "english": "a depth"
+      },
+      {
+        "word": "en ström",
+        "forms": [
+          "strömmen",
+          "strömmar",
+          "strömmarna"
+        ],
+        "english": "a current"
+      },
+      {
+        "word": "ett rev",
+        "forms": [
+          "revet",
+          "rev",
+          "reven"
+        ],
+        "english": "a reef"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "koppling": "Old-fashioned words",
+    "words": [
+      {
+        "word": "en vädur",
+        "forms": [
+          "väduren",
+          "vädurar",
+          "vädurarna"
+        ],
+        "english": "a ram (archaic)"
+      },
+      {
+        "word": "en spira",
+        "forms": [
+          "spiran",
+          "spiror",
+          "spirorna"
+        ],
+        "english": "a scepter"
+      },
+      {
+        "word": "ett skrå",
+        "forms": [
+          "skråt",
+          "skrår",
+          "skrårna"
+        ],
+        "english": "a guild"
+      },
+      {
+        "word": "en härskare",
+        "forms": [
+          "härskaren",
+          "härskare",
+          "härskarna"
+        ],
+        "english": "a ruler"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "koppling": "Psychology",
+    "words": [
+      {
+        "word": "en dröm",
+        "forms": [
+          "drömmen",
+          "drömmar",
+          "drömmarna"
+        ],
+        "english": "a dream"
+      },
+      {
+        "word": "ett trauma",
+        "forms": [
+          "traumat",
+          "trauman",
+          "traumana"
+        ],
+        "english": "a trauma"
+      },
+      {
+        "word": "en hallucination",
+        "forms": [
+          "hallucinationen",
+          "hallucinationer",
+          "hallucinationerna"
+        ],
+        "english": "a hallucination"
+      },
+      {
+        "word": "en instinkt",
+        "forms": [
+          "instinkten",
+          "instinkter",
+          "instinkterna"
+        ],
+        "english": "an instinct"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "koppling": "Archaic / old Swedish",
+    "words": [
+      {
+        "word": "en kåpa",
+        "forms": [
+          "kåpan",
+          "kåpor",
+          "kåporna"
+        ],
+        "english": "a cloak / cowl"
+      },
+      {
+        "word": "ett fäbod",
+        "forms": [
+          "fäboden",
+          "fäbodar",
+          "fäbodarna"
+        ],
+        "english": "a summer pasture hut"
+      },
+      {
+        "word": "en härbärge",
+        "forms": [
+          "härbärget",
+          "härbärgen",
+          "härbärgena"
+        ],
+        "english": "a shelter / hospice"
+      },
+      {
+        "word": "en svärdsman",
+        "forms": [
+          "svärdsmannen",
+          "svärdsmän",
+          "svärdsmännen"
+        ],
+        "english": "a swordsman"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "koppling": "Super long compounds",
+    "words": [
+      {
+        "word": "en självständighetsförklaring",
+        "forms": [
+          "självständighetsförklaringen",
+          "självständighetsförklaringar",
+          "självständighetsförklaringarna"
+        ],
+        "english": "a declaration of independence"
+      },
+      {
+        "word": "ett försäkringsbolagskontor",
+        "forms": [
+          "försäkringsbolagskontoret",
+          "försäkringsbolagskontor",
+          "försäkringsbolagskontoren"
+        ],
+        "english": "an insurance company office"
+      },
+      {
+        "word": "en arbetsskyddsbestämmelse",
+        "forms": [
+          "arbetsskyddsbestämmelsen",
+          "arbetsskyddsbestämmelser",
+          "arbetsskyddsbestämmelserna"
+        ],
+        "english": "an occupational safety regulation"
+      },
+      {
+        "word": "ett kommunikationsministerieutskott",
+        "forms": [
+          "kommunikationsministerieutskottet",
+          "kommunikationsministerieutskott",
+          "kommunikationsministerieutskotten"
+        ],
+        "english": "a communications ministry committee"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "koppling": "Dialect words",
+    "words": [
+      {
+        "word": "en mesost",
+        "forms": [
+          "mesosten",
+          "mesostar",
+          "mesostarna"
+        ],
+        "english": "a whey cheese (dialectal)"
+      },
+      {
+        "word": "ett tjällossning",
+        "forms": [
+          "tjällossningen",
+          "tjällossningar",
+          "tjällossningarna"
+        ],
+        "english": "a thaw (Norrland dialect)"
+      },
+      {
+        "word": "en bönhas",
+        "forms": [
+          "bönhasen",
+          "bönhasar",
+          "bönhasarna"
+        ],
+        "english": "a bungler / unskilled worker"
+      },
+      {
+        "word": "en skrålla",
+        "forms": [
+          "skrållan",
+          "skrållor",
+          "skrållorna"
+        ],
+        "english": "a small wooden sled (dialect)"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "koppling": "Philosophical/academic terms",
+    "words": [
+      {
+        "word": "en företeelse",
+        "forms": [
+          "företeelsen",
+          "företeelser",
+          "företeelserna"
+        ],
+        "english": "a phenomenon"
+      },
+      {
+        "word": "ett axiom",
+        "forms": [
+          "axiomet",
+          "axiom",
+          "axiomen"
+        ],
+        "english": "an axiom"
+      },
+      {
+        "word": "en diskurs",
+        "forms": [
+          "diskursen",
+          "diskurser",
+          "diskurserna"
+        ],
+        "english": "a discourse"
+      },
+      {
+        "word": "ett paradigm",
+        "forms": [
+          "paradigmet",
+          "paradigm",
+          "paradigmen"
+        ],
+        "english": "a paradigm"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "koppling": "Legal terms",
+    "words": [
+      {
+        "word": "en lagstiftning",
+        "forms": [
+          "lagstiftningen",
+          "lagstiftningar",
+          "lagstiftningarna"
+        ],
+        "english": "a legislation"
+      },
+      {
+        "word": "ett rättsväsen",
+        "forms": [
+          "rättsväsendet",
+          "rättsväsen",
+          "rättsväsendena"
+        ],
+        "english": "a judicial system"
+      },
+      {
+        "word": "en domstol",
+        "forms": [
+          "domstolen",
+          "domstolar",
+          "domstolarna"
+        ],
+        "english": "a court"
+      },
+      {
+        "word": "en rättighet",
+        "forms": [
+          "rättigheten",
+          "rättigheter",
+          "rättigheterna"
+        ],
+        "english": "a right (legal)"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "koppling": "Untranslatable Swedish",
+    "words": [
+      {
+        "word": "en lagom",
+        "forms": [
+          "lagomen",
+          "lagomer",
+          "lagomerna"
+        ],
+        "english": "a just-rightness (untranslatable)"
+      },
+      {
+        "word": "en fika",
+        "forms": [
+          "fikan",
+          "fikapauser",
+          "fikapauserna"
+        ],
+        "english": "a coffee break"
+      },
+      {
+        "word": "ett smultronställe",
+        "forms": [
+          "smultronstället",
+          "smultronställen",
+          "smultronställena"
+        ],
+        "english": "a hidden gem / favorite place"
+      },
+      {
+        "word": "en vårkänsla",
+        "forms": [
+          "vårkänslan",
+          "vårkänslor",
+          "vårkänslorna"
+        ],
+        "english": "a springtime feeling"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "koppling": "Old literature words",
+    "words": [
+      {
+        "word": "en förtrollning",
+        "forms": [
+          "förtrollningen",
+          "förtrollningar",
+          "förtrollningarna"
+        ],
+        "english": "an enchantment"
+      },
+      {
+        "word": "en ridderlighet",
+        "forms": [
+          "ridderligheten",
+          "ridderligheter",
+          "ridderligheterna"
+        ],
+        "english": "a chivalry"
+      },
+      {
+        "word": "ett skråpuk",
+        "forms": [
+          "skråpuket",
+          "skråpuk",
+          "skråpuken"
+        ],
+        "english": "a goblin (archaic word)"
+      },
+      {
+        "word": "en vedermöda",
+        "forms": [
+          "vedermödan",
+          "vedermödor",
+          "vedermödorna"
+        ],
+        "english": "a hardship / ordeal"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "koppling": "Obscure natural things",
+    "words": [
+      {
+        "word": "en daggdroppe",
+        "forms": [
+          "daggdroppen",
+          "daggdroppar",
+          "daggdropparna"
+        ],
+        "english": "a dewdrop"
+      },
+      {
+        "word": "ett isflak",
+        "forms": [
+          "isflaket",
+          "isflak",
+          "isflaken"
+        ],
+        "english": "an ice floe"
+      },
+      {
+        "word": "en fjällbjörk",
+        "forms": [
+          "fjällbjörken",
+          "fjällbjörkar",
+          "fjällbjörkarna"
+        ],
+        "english": "a mountain birch"
+      },
+      {
+        "word": "ett myrland",
+        "forms": [
+          "myrlandet",
+          "myrland",
+          "myrlanden"
+        ],
+        "english": "a bogland"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "koppling": "Things that disappear",
+    "words": [
+      {
+        "word": "en skugga",
+        "forms": [
+          "skuggan",
+          "skuggor",
+          "skuggorna"
+        ],
+        "english": "a shadow"
+      },
+      {
+        "word": "ett eko",
+        "forms": [
+          "ekot",
+          "ekon",
+          "ekona"
+        ],
+        "english": "an echo"
+      },
+      {
+        "word": "en rök",
+        "forms": [
+          "röken",
+          "rökar",
+          "rökarna"
+        ],
+        "english": "a smoke"
+      },
+      {
+        "word": "en dröm",
+        "forms": [
+          "drömmen",
+          "drömmar",
+          "drömmarna"
+        ],
+        "english": "a dream"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "koppling": "Silent things",
+    "words": [
+      {
+        "word": "en fjäder",
+        "forms": [
+          "fjädern",
+          "fjädrar",
+          "fjädrarna"
+        ],
+        "english": "a feather"
+      },
+      {
+        "word": "ett moln",
+        "forms": [
+          "molnet",
+          "moln",
+          "molnen"
+        ],
+        "english": "a cloud"
+      },
+      {
+        "word": "en snö",
+        "forms": [
+          "snön",
+          "snöar",
+          "snöarna"
+        ],
+        "english": "a snow"
+      },
+      {
+        "word": "ett ljus",
+        "forms": [
+          "ljuset",
+          "ljus",
+          "ljusen"
+        ],
+        "english": "a light"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "koppling": "Movements of time",
+    "words": [
+      {
+        "word": "en sekund",
+        "forms": [
+          "sekunden",
+          "sekunder",
+          "sekunderna"
+        ],
+        "english": "a second"
+      },
+      {
+        "word": "en gryning",
+        "forms": [
+          "gryningen",
+          "gryningar",
+          "gryningarna"
+        ],
+        "english": "a dawn"
+      },
+      {
+        "word": "en kväll",
+        "forms": [
+          "kvällen",
+          "kvällar",
+          "kvällarna"
+        ],
+        "english": "an evening"
+      },
+      {
+        "word": "ett århundrade",
+        "forms": [
+          "århundradet",
+          "århundraden",
+          "århundradena"
+        ],
+        "english": "a century"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "koppling": "Fragile things",
+    "words": [
+      {
+        "word": "ett glas",
+        "forms": [
+          "glaset",
+          "glas",
+          "glasen"
+        ],
+        "english": "a glass"
+      },
+      {
+        "word": "en bubbla",
+        "forms": [
+          "bubblan",
+          "bubblor",
+          "bubblorna"
+        ],
+        "english": "a bubble"
+      },
+      {
+        "word": "ett löv",
+        "forms": [
+          "lövet",
+          "löv",
+          "löven"
+        ],
+        "english": "a leaf"
+      },
+      {
+        "word": "en relation",
+        "forms": [
+          "relationen",
+          "relationer",
+          "relationerna"
+        ],
+        "english": "a relationship"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "koppling": "Things that wait",
+    "words": [
+      {
+        "word": "ett frö",
+        "forms": [
+          "fröet",
+          "frön",
+          "fröna"
+        ],
+        "english": "a seed"
+      },
+      {
+        "word": "en bok",
+        "forms": [
+          "boken",
+          "böcker",
+          "böckerna"
+        ],
+        "english": "a book"
+      },
+      {
+        "word": "en buss",
+        "forms": [
+          "bussen",
+          "bussar",
+          "bussarna"
+        ],
+        "english": "a bus"
+      },
+      {
+        "word": "ett brev",
+        "forms": [
+          "brevet",
+          "brev",
+          "breven"
+        ],
+        "english": "a letter"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "koppling": "Invisible forces",
+    "words": [
+      {
+        "word": "en vind",
+        "forms": [
+          "vinden",
+          "vindar",
+          "vindarna"
+        ],
+        "english": "a wind"
+      },
+      {
+        "word": "en tanke",
+        "forms": [
+          "tanken",
+          "tankar",
+          "tankarna"
+        ],
+        "english": "a thought"
+      },
+      {
+        "word": "en känsla",
+        "forms": [
+          "känslan",
+          "känslor",
+          "känslorna"
+        ],
+        "english": "a feeling"
+      },
+      {
+        "word": "en gravitation",
+        "forms": [
+          "gravitationen",
+          "gravitationer",
+          "gravitationerna"
+        ],
+        "english": "a gravity"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "koppling": "Things that spread",
+    "words": [
+      {
+        "word": "ett rykte",
+        "forms": [
+          "ryktet",
+          "rykten",
+          "ryktena"
+        ],
+        "english": "a rumor"
+      },
+      {
+        "word": "en eld",
+        "forms": [
+          "elden",
+          "eldar",
+          "eldarna"
+        ],
+        "english": "a fire"
+      },
+      {
+        "word": "ett virus",
+        "forms": [
+          "viruset",
+          "virus",
+          "virusen"
+        ],
+        "english": "a virus"
+      },
+      {
+        "word": "en glädje",
+        "forms": [
+          "glädjen",
+          "glädjer",
+          "glädjerna"
+        ],
+        "english": "a joy"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "koppling": "Borders",
+    "words": [
+      {
+        "word": "en gräns",
+        "forms": [
+          "gränsen",
+          "gränser",
+          "gränserna"
+        ],
+        "english": "a border"
+      },
+      {
+        "word": "ett staket",
+        "forms": [
+          "staketet",
+          "staket",
+          "staketen"
+        ],
+        "english": "a fence"
+      },
+      {
+        "word": "en strand",
+        "forms": [
+          "stranden",
+          "stränder",
+          "stränderna"
+        ],
+        "english": "a shore"
+      },
+      {
+        "word": "ett ögonlock",
+        "forms": [
+          "ögonlocket",
+          "ögonlock",
+          "ögonlocken"
+        ],
+        "english": "an eyelid"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "koppling": "Things that pretend",
+    "words": [
+      {
+        "word": "en mask",
+        "forms": [
+          "masken",
+          "masker",
+          "maskerna"
+        ],
+        "english": "a mask"
+      },
+      {
+        "word": "ett skådespel",
+        "forms": [
+          "skådespelet",
+          "skådespel",
+          "skådespelen"
+        ],
+        "english": "a play / spectacle"
+      },
+      {
+        "word": "en fasad",
+        "forms": [
+          "fasaden",
+          "fasader",
+          "fasaderna"
+        ],
+        "english": "a facade"
+      },
+      {
+        "word": "ett eko",
+        "forms": [
+          "ekot",
+          "ekon",
+          "ekona"
+        ],
+        "english": "an echo"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "koppling": "Halfway states",
+    "words": [
+      {
+        "word": "en gryning",
+        "forms": [
+          "gryningen",
+          "gryningar",
+          "gryningarna"
+        ],
+        "english": "a dawn"
+      },
+      {
+        "word": "en skymning",
+        "forms": [
+          "skymningen",
+          "skymningar",
+          "skymningarna"
+        ],
+        "english": "a dusk"
+      },
+      {
+        "word": "ett töväder",
+        "forms": [
+          "tövädret",
+          "töväder",
+          "tövädren"
+        ],
+        "english": "a thaw"
+      },
+      {
+        "word": "en väntan",
+        "forms": [
+          "väntan",
+          "väntor",
+          "väntorna"
+        ],
+        "english": "a waiting"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "koppling": "Things that guard secrets",
+    "words": [
+      {
+        "word": "ett kassaskåp",
+        "forms": [
+          "kassaskåpet",
+          "kassaskåp",
+          "kassaskåpen"
+        ],
+        "english": "a safe"
+      },
+      {
+        "word": "en dagbok",
+        "forms": [
+          "dagboken",
+          "dagböcker",
+          "dagböckerna"
+        ],
+        "english": "a diary"
+      },
+      {
+        "word": "ett skrin",
+        "forms": [
+          "skrinet",
+          "skrin",
+          "skrinen"
+        ],
+        "english": "a casket / small chest"
+      },
+      {
+        "word": "ett hjärta",
+        "forms": [
+          "hjärtat",
+          "hjärtan",
+          "hjärtana"
+        ],
+        "english": "a heart"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "koppling": "Things that break silence",
+    "words": [
+      {
+        "word": "ett åskknall",
+        "forms": [
+          "åskknallet",
+          "åskknallar",
+          "åskknallarna"
+        ],
+        "english": "a thunderclap"
+      },
+      {
+        "word": "en applåd",
+        "forms": [
+          "applåden",
+          "applåder",
+          "applåderna"
+        ],
+        "english": "an applause"
+      },
+      {
+        "word": "ett skrik",
+        "forms": [
+          "skriket",
+          "skrik",
+          "skriken"
+        ],
+        "english": "a scream"
+      },
+      {
+        "word": "en fanfar",
+        "forms": [
+          "fanfaren",
+          "fanfarer",
+          "fanfarerna"
+        ],
+        "english": "a fanfare"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "koppling": "Things that linger",
+    "words": [
+      {
+        "word": "en doft",
+        "forms": [
+          "doften",
+          "dofter",
+          "dofterna"
+        ],
+        "english": "a scent"
+      },
+      {
+        "word": "ett minne",
+        "forms": [
+          "minnet",
+          "minnen",
+          "minnena"
+        ],
+        "english": "a memory"
+      },
+      {
+        "word": "en melodi",
+        "forms": [
+          "melodin",
+          "melodier",
+          "melodierna"
+        ],
+        "english": "a melody"
+      },
+      {
+        "word": "ett avtryck",
+        "forms": [
+          "avtrycket",
+          "avtryck",
+          "avtrycken"
+        ],
+        "english": "an imprint"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "koppling": "Things that move without walking",
+    "words": [
+      {
+        "word": "en våg",
+        "forms": [
+          "vågen",
+          "vågor",
+          "vågorna"
+        ],
+        "english": "a wave"
+      },
+      {
+        "word": "ett moln",
+        "forms": [
+          "molnet",
+          "moln",
+          "molnen"
+        ],
+        "english": "a cloud"
+      },
+      {
+        "word": "en tanke",
+        "forms": [
+          "tanken",
+          "tankar",
+          "tankarna"
+        ],
+        "english": "a thought"
+      },
+      {
+        "word": "ett rykte",
+        "forms": [
+          "ryktet",
+          "rykten",
+          "ryktena"
+        ],
+        "english": "a rumor"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "koppling": "Things that circle",
+    "words": [
+      {
+        "word": "en planet",
+        "forms": [
+          "planeten",
+          "planeter",
+          "planeterna"
+        ],
+        "english": "a planet"
+      },
+      {
+        "word": "ett hjul",
+        "forms": [
+          "hjulet",
+          "hjul",
+          "hjulen"
+        ],
+        "english": "a wheel"
+      },
+      {
+        "word": "en dans",
+        "forms": [
+          "dansen",
+          "danser",
+          "danserna"
+        ],
+        "english": "a dance"
+      },
+      {
+        "word": "ett rykte",
+        "forms": [
+          "ryktet",
+          "rykten",
+          "ryktena"
+        ],
+        "english": "a rumor"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "koppling": "Things that bind",
+    "words": [
+      {
+        "word": "ett rep",
+        "forms": [
+          "repet",
+          "rep",
+          "repen"
+        ],
+        "english": "a rope"
+      },
+      {
+        "word": "ett löfte",
+        "forms": [
+          "löftet",
+          "löften",
+          "löftena"
+        ],
+        "english": "a promise"
+      },
+      {
+        "word": "en ring",
+        "forms": [
+          "ringen",
+          "ringar",
+          "ringarna"
+        ],
+        "english": "a ring"
+      },
+      {
+        "word": "ett kontrakt",
+        "forms": [
+          "kontraktet",
+          "kontrakt",
+          "kontrakten"
+        ],
+        "english": "a contract"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "koppling": "Things that vanish",
+    "words": [
+      {
+        "word": "försvinna",
+        "forms": [
+          "försvinner",
+          "försvann",
+          "försvunnit"
+        ],
+        "english": "to disappear"
+      },
+      {
+        "word": "en skugga",
+        "forms": [
+          "skuggan",
+          "skuggor",
+          "skuggorna"
+        ],
+        "english": "a shadow"
+      },
+      {
+        "word": "smälta",
+        "forms": [
+          "smälter",
+          "smälte",
+          "smält"
+        ],
+        "english": "to melt"
+      },
+      {
+        "word": "ett minne",
+        "forms": [
+          "minnet",
+          "minnen",
+          "minnena"
+        ],
+        "english": "a memory"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "koppling": "Things that bind together",
+    "words": [
+      {
+        "word": "knyta",
+        "forms": [
+          "knyter",
+          "knöt",
+          "knutit"
+        ],
+        "english": "to tie"
+      },
+      {
+        "word": "ett löfte",
+        "forms": [
+          "löftet",
+          "löften",
+          "löftena"
+        ],
+        "english": "a promise"
+      },
+      {
+        "word": "förenas",
+        "forms": [
+          "förenas",
+          "förenades",
+          "förenats"
+        ],
+        "english": "to unite"
+      },
+      {
+        "word": "en ring",
+        "forms": [
+          "ringen",
+          "ringar",
+          "ringarna"
+        ],
+        "english": "a ring"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "koppling": "Things that move quietly",
+    "words": [
+      {
+        "word": "smyga",
+        "forms": [
+          "smyger",
+          "smög",
+          "smugit"
+        ],
+        "english": "to sneak"
+      },
+      {
+        "word": "ett moln",
+        "forms": [
+          "molnet",
+          "moln",
+          "molnen"
+        ],
+        "english": "a cloud"
+      },
+      {
+        "word": "glida",
+        "forms": [
+          "glider",
+          "gled",
+          "glidit"
+        ],
+        "english": "to glide"
+      },
+      {
+        "word": "en fjäder",
+        "forms": [
+          "fjädern",
+          "fjädrar",
+          "fjädrarna"
+        ],
+        "english": "a feather"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "koppling": "Things that end suddenly",
+    "words": [
+      {
+        "word": "stanna",
+        "forms": [
+          "stannar",
+          "stannade",
+          "stannat"
+        ],
+        "english": "to stop"
+      },
+      {
+        "word": "en dröm",
+        "forms": [
+          "drömmen",
+          "drömmar",
+          "drömmarna"
+        ],
+        "english": "a dream"
+      },
+      {
+        "word": "släcka",
+        "forms": [
+          "släcker",
+          "släckte",
+          "släckt"
+        ],
+        "english": "to extinguish"
+      },
+      {
+        "word": "ett skratt",
+        "forms": [
+          "skrattet",
+          "skratt",
+          "skratten"
+        ],
+        "english": "a laugh"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "koppling": "Things that echo",
+    "words": [
+      {
+        "word": "ropa",
+        "forms": [
+          "ropar",
+          "ropade",
+          "ropat"
+        ],
+        "english": "to call / shout"
+      },
+      {
+        "word": "ett eko",
+        "forms": [
+          "ekot",
+          "ekon",
+          "ekona"
+        ],
+        "english": "an echo"
+      },
+      {
+        "word": "skratta",
+        "forms": [
+          "skrattar",
+          "skrattade",
+          "skrattat"
+        ],
+        "english": "to laugh"
+      },
+      {
+        "word": "en sång",
+        "forms": [
+          "sången",
+          "sånger",
+          "sångerna"
+        ],
+        "english": "a song"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "koppling": "Things that fade",
+    "words": [
+      {
+        "word": "blekna",
+        "forms": [
+          "bleknar",
+          "bleknade",
+          "bleknat"
+        ],
+        "english": "to fade"
+      },
+      {
+        "word": "ett minne",
+        "forms": [
+          "minnet",
+          "minnen",
+          "minnena"
+        ],
+        "english": "a memory"
+      },
+      {
+        "word": "tona",
+        "forms": [
+          "tonar",
+          "tonade",
+          "tonat"
+        ],
+        "english": "to fade (sound)"
+      },
+      {
+        "word": "en färg",
+        "forms": [
+          "färgen",
+          "färger",
+          "färgerna"
+        ],
+        "english": "a color"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "koppling": "Things that hide",
+    "words": [
+      {
+        "word": "gömma",
+        "forms": [
+          "gömmer",
+          "gömde",
+          "gömt"
+        ],
+        "english": "to hide"
+      },
+      {
+        "word": "en mask",
+        "forms": [
+          "masken",
+          "masker",
+          "maskerna"
+        ],
+        "english": "a mask"
+      },
+      {
+        "word": "dölja",
+        "forms": [
+          "döljer",
+          "d dolde",
+          "dolt"
+        ],
+        "english": "to conceal"
+      },
+      {
+        "word": "en dimma",
+        "forms": [
+          "dimman",
+          "dimmor",
+          "dimmorna"
+        ],
+        "english": "a fog"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "koppling": "Things that connect",
+    "words": [
+      {
+        "word": "bygga",
+        "forms": [
+          "bygger",
+          "byggde",
+          "byggt"
+        ],
+        "english": "to build"
+      },
+      {
+        "word": "en bro",
+        "forms": [
+          "bron",
+          "broar",
+          "broarna"
+        ],
+        "english": "a bridge"
+      },
+      {
+        "word": "samla",
+        "forms": [
+          "samlar",
+          "samlade",
+          "samlat"
+        ],
+        "english": "to gather"
+      },
+      {
+        "word": "ett nätverk",
+        "forms": [
+          "nätverket",
+          "nätverk",
+          "nätverken"
+        ],
+        "english": "a network"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "koppling": "Things that cut",
+    "words": [
+      {
+        "word": "skära",
+        "forms": [
+          "skär",
+          "skar",
+          "skurit"
+        ],
+        "english": "to cut"
+      },
+      {
+        "word": "en sax",
+        "forms": [
+          "saxen",
+          "saxar",
+          "saxarna"
+        ],
+        "english": "a scissors"
+      },
+      {
+        "word": "hugga",
+        "forms": [
+          "hugger",
+          "högg",
+          "huggit"
+        ],
+        "english": "to chop"
+      },
+      {
+        "word": "ett svärd",
+        "forms": [
+          "svärdet",
+          "svärd",
+          "svärden"
+        ],
+        "english": "a sword"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "koppling": "Things that heal",
+    "words": [
+      {
+        "word": "läka",
+        "forms": [
+          "läker",
+          "läkte",
+          "läkt"
+        ],
+        "english": "to heal"
+      },
+      {
+        "word": "en vila",
+        "forms": [
+          "vilan",
+          "vilor",
+          "vilorna"
+        ],
+        "english": "a rest"
+      },
+      {
+        "word": "trösta",
+        "forms": [
+          "tröstar",
+          "tröstade",
+          "tröstat"
+        ],
+        "english": "to comfort"
+      },
+      {
+        "word": "ett läkemedel",
+        "forms": [
+          "läkemedlet",
+          "läkemedel",
+          "läkemedlen"
+        ],
+        "english": "a medicine"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "koppling": "Things that fall",
+    "words": [
+      {
+        "word": "falla",
+        "forms": [
+          "faller",
+          "föll",
+          "fallit"
+        ],
+        "english": "to fall"
+      },
+      {
+        "word": "en droppe",
+        "forms": [
+          "droppen",
+          "droppar",
+          "dropparna"
+        ],
+        "english": "a drop"
+      },
+      {
+        "word": "snubbla",
+        "forms": [
+          "snubblar",
+          "snubblade",
+          "snubblat"
+        ],
+        "english": "to stumble"
+      },
+      {
+        "word": "ett löv",
+        "forms": [
+          "lövet",
+          "löv",
+          "löven"
+        ],
+        "english": "a leaf"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "koppling": "Things that burn",
+    "words": [
+      {
+        "word": "brinna",
+        "forms": [
+          "brinner",
+          "brann",
+          "brunnit"
+        ],
+        "english": "to burn"
+      },
+      {
+        "word": "en låga",
+        "forms": [
+          "lågan",
+          "lågorna",
+          "lågorna"
+        ],
+        "english": "a flame"
+      },
+      {
+        "word": "glöda",
+        "forms": [
+          "glöder",
+          "glödde",
+          "glött"
+        ],
+        "english": "to glow"
+      },
+      {
+        "word": "ett ljus",
+        "forms": [
+          "ljuset",
+          "ljus",
+          "ljusen"
+        ],
+        "english": "a candle/light"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "koppling": "Whispers of the night",
+    "words": [
+      {
+        "word": "mörk",
+        "forms": [
+          "mörkt",
+          "mörka",
+          "mörkare"
+        ],
+        "english": "dark"
+      },
+      {
+        "word": "smyga",
+        "forms": [
+          "smyger",
+          "smög",
+          "smugit"
+        ],
+        "english": "to sneak"
+      },
+      {
+        "word": "en uggla",
+        "forms": [
+          "ugglan",
+          "ugglor",
+          "ugglorna"
+        ],
+        "english": "an owl"
+      },
+      {
+        "word": "tyst",
+        "forms": [
+          "tyst",
+          "tysta",
+          "tystare"
+        ],
+        "english": "silent"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "koppling": "Almost alive",
+    "words": [
+      {
+        "word": "darra",
+        "forms": [
+          "darrar",
+          "darrade",
+          "darrat"
+        ],
+        "english": "to tremble"
+      },
+      {
+        "word": "en skugga",
+        "forms": [
+          "skuggan",
+          "skuggor",
+          "skuggorna"
+        ],
+        "english": "a shadow"
+      },
+      {
+        "word": "blek",
+        "forms": [
+          "blekt",
+          "bleka",
+          "blekare"
+        ],
+        "english": "pale"
+      },
+      {
+        "word": "susande",
+        "forms": [
+          "susande"
+        ],
+        "english": "whispering / rustling"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "koppling": "Promises that crack",
+    "words": [
+      {
+        "word": "ett glas",
+        "forms": [
+          "glaset",
+          "glas",
+          "glasen"
+        ],
+        "english": "a glass"
+      },
+      {
+        "word": "lova",
+        "forms": [
+          "lovar",
+          "lovade",
+          "lovat"
+        ],
+        "english": "to promise"
+      },
+      {
+        "word": "brusten",
+        "forms": [
+          "brustet",
+          "brustna",
+          "mer brusten"
+        ],
+        "english": "broken / shattered"
+      },
+      {
+        "word": "ett hjärta",
+        "forms": [
+          "hjärtat",
+          "hjärtan",
+          "hjärtana"
+        ],
+        "english": "a heart"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "koppling": "Carried by the wind",
+    "words": [
+      {
+        "word": "flyga",
+        "forms": [
+          "flyger",
+          "flög",
+          "flugit"
+        ],
+        "english": "to fly"
+      },
+      {
+        "word": "ett löv",
+        "forms": [
+          "lövet",
+          "löv",
+          "löven"
+        ],
+        "english": "a leaf"
+      },
+      {
+        "word": "lätt",
+        "forms": [
+          "lätt",
+          "lätta",
+          "lättare"
+        ],
+        "english": "light / easy"
+      },
+      {
+        "word": "en fjäder",
+        "forms": [
+          "fjädern",
+          "fjädrar",
+          "fjädrarna"
+        ],
+        "english": "a feather"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "koppling": "What refuses to stay",
+    "words": [
+      {
+        "word": "rinna",
+        "forms": [
+          "rinner",
+          "rann",
+          "runnit"
+        ],
+        "english": "to flow"
+      },
+      {
+        "word": "en dröm",
+        "forms": [
+          "drömmen",
+          "drömmar",
+          "drömmarna"
+        ],
+        "english": "a dream"
+      },
+      {
+        "word": "försvinna",
+        "forms": [
+          "försvinner",
+          "försvann",
+          "försvunnit"
+        ],
+        "english": "to disappear"
+      },
+      {
+        "word": "flyktig",
+        "forms": [
+          "flyktigt",
+          "flyktiga",
+          "mer flyktig"
+        ],
+        "english": "fleeting"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "koppling": "When silence breaks",
+    "words": [
+      {
+        "word": "skrik",
+        "forms": [
+          "skriket",
+          "skrik",
+          "skriken"
+        ],
+        "english": "a scream"
+      },
+      {
+        "word": "skratta",
+        "forms": [
+          "skrattar",
+          "skrattade",
+          "skrattat"
+        ],
+        "english": "to laugh"
+      },
+      {
+        "word": "plötslig",
+        "forms": [
+          "plötsligt",
+          "plötsliga",
+          "mer plötslig"
+        ],
+        "english": "sudden"
+      },
+      {
+        "word": "dunka",
+        "forms": [
+          "dunkar",
+          "dunkade",
+          "dunkat"
+        ],
+        "english": "to thump"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "koppling": "Waiting without moving",
+    "words": [
+      {
+        "word": "stå",
+        "forms": [
+          "står",
+          "stod",
+          "stått"
+        ],
+        "english": "to stand"
+      },
+      {
+        "word": "ett frö",
+        "forms": [
+          "fröet",
+          "frön",
+          "fröna"
+        ],
+        "english": "a seed"
+      },
+      {
+        "word": "orörlig",
+        "forms": [
+          "orörligt",
+          "orörliga",
+          "mer orörlig"
+        ],
+        "english": "motionless"
+      },
+      {
+        "word": "vänta",
+        "forms": [
+          "väntar",
+          "väntade",
+          "väntat"
+        ],
+        "english": "to wait"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "koppling": "Smiles in disguise",
+    "words": [
+      {
+        "word": "le",
+        "forms": [
+          "ler",
+          "log",
+          "lett"
+        ],
+        "english": "to smile"
+      },
+      {
+        "word": "ironisk",
+        "forms": [
+          "ironiskt",
+          "ironiska",
+          "mer ironisk"
+        ],
+        "english": "ironic"
+      },
+      {
+        "word": "ett skämt",
+        "forms": [
+          "skämtet",
+          "skämt",
+          "skämten"
+        ],
+        "english": "a joke"
+      },
+      {
+        "word": "dölja",
+        "forms": [
+          "döljer",
+          "dolde",
+          "dolt"
+        ],
+        "english": "to conceal"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "koppling": "Dreams with teeth",
+    "words": [
+      {
+        "word": "bita",
+        "forms": [
+          "biter",
+          "bet",
+          "bitit"
+        ],
+        "english": "to bite"
+      },
+      {
+        "word": "en dröm",
+        "forms": [
+          "drömmen",
+          "drömmar",
+          "drömmarna"
+        ],
+        "english": "a dream"
+      },
+      {
+        "word": "vass",
+        "forms": [
+          "vasst",
+          "vassa",
+          "vassare"
+        ],
+        "english": "sharp"
+      },
+      {
+        "word": "ett leende",
+        "forms": [
+          "leendet",
+          "leenden",
+          "leendena"
+        ],
+        "english": "a smile"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "koppling": "Colors that bite",
+    "words": [
+      {
+        "word": "röd",
+        "forms": [
+          "rött",
+          "röda",
+          "rödare"
+        ],
+        "english": "red"
+      },
+      {
+        "word": "bränna",
+        "forms": [
+          "bränner",
+          "brände",
+          "bränt"
+        ],
+        "english": "to burn"
+      },
+      {
+        "word": "en hetta",
+        "forms": [
+          "hettan",
+          "hettor",
+          "hettorna"
+        ],
+        "english": "a heat"
+      },
+      {
+        "word": "stickande",
+        "forms": [
+          "stickande"
+        ],
+        "english": "stinging"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "koppling": "Laughter in the dark",
+    "words": [
+      {
+        "word": "skratta",
+        "forms": [
+          "skrattar",
+          "skrattade",
+          "skrattat"
+        ],
+        "english": "to laugh"
+      },
+      {
+        "word": "mörk",
+        "forms": [
+          "mörkt",
+          "mörka",
+          "mörkare"
+        ],
+        "english": "dark"
+      },
+      {
+        "word": "ett eko",
+        "forms": [
+          "ekot",
+          "ekon",
+          "ekona"
+        ],
+        "english": "an echo"
+      },
+      {
+        "word": "hemlig",
+        "forms": [
+          "hemligt",
+          "hemliga",
+          "mer hemlig"
+        ],
+        "english": "secret"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "koppling": "Hands full of silence",
+    "words": [
+      {
+        "word": "hålla",
+        "forms": [
+          "håller",
+          "höll",
+          "hållit"
+        ],
+        "english": "to hold"
+      },
+      {
+        "word": "en hand",
+        "forms": [
+          "handen",
+          "händer",
+          "händerna"
+        ],
+        "english": "a hand"
+      },
+      {
+        "word": "tyst",
+        "forms": [
+          "tyst",
+          "tysta",
+          "tystare"
+        ],
+        "english": "quiet"
+      },
+      {
+        "word": "en sten",
+        "forms": [
+          "stenen",
+          "stenar",
+          "stenarna"
+        ],
+        "english": "a stone"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "koppling": "Shadows that remember",
+    "words": [
+      {
+        "word": "en skugga",
+        "forms": [
+          "skuggan",
+          "skuggor",
+          "skuggorna"
+        ],
+        "english": "a shadow"
+      },
+      {
+        "word": "minnas",
+        "forms": [
+          "minns",
+          "mindes",
+          "mints"
+        ],
+        "english": "to remember"
+      },
+      {
+        "word": "gammal",
+        "forms": [
+          "gammalt",
+          "gamla",
+          "äldre"
+        ],
+        "english": "old"
+      },
+      {
+        "word": "ett spår",
+        "forms": [
+          "spåret",
+          "spår",
+          "spåren"
+        ],
+        "english": "a trace"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "koppling": "Breath made visible",
+    "words": [
+      {
+        "word": "andas",
+        "forms": [
+          "andas",
+          "andades",
+          "andats"
+        ],
+        "english": "to breathe"
+      },
+      {
+        "word": "en dimma",
+        "forms": [
+          "dimman",
+          "dimmor",
+          "dimmorna"
+        ],
+        "english": "a fog"
+      },
+      {
+        "word": "kall",
+        "forms": [
+          "kallt",
+          "kalla",
+          "kallare"
+        ],
+        "english": "cold"
+      },
+      {
+        "word": "ett fönster",
+        "forms": [
+          "fönstret",
+          "fönster",
+          "fönstren"
+        ],
+        "english": "a window"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "koppling": "Songs without sound",
+    "words": [
+      {
+        "word": "sjunga",
+        "forms": [
+          "sjunger",
+          "sjöng",
+          "sjungit"
+        ],
+        "english": "to sing"
+      },
+      {
+        "word": "stum",
+        "forms": [
+          "stumt",
+          "stuma",
+          "stummare"
+        ],
+        "english": "mute"
+      },
+      {
+        "word": "en dikt",
+        "forms": [
+          "dikten",
+          "dikter",
+          "dikterna"
+        ],
+        "english": "a poem"
+      },
+      {
+        "word": "en rörelse",
+        "forms": [
+          "rörelsen",
+          "rörelser",
+          "rörelserna"
+        ],
+        "english": "a movement"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "koppling": "Fire that forgets",
+    "words": [
+      {
+        "word": "brinna",
+        "forms": [
+          "brinner",
+          "brann",
+          "brunnit"
+        ],
+        "english": "to burn"
+      },
+      {
+        "word": "glömma",
+        "forms": [
+          "glömmer",
+          "glömde",
+          "glömt"
+        ],
+        "english": "to forget"
+      },
+      {
+        "word": "ett kol",
+        "forms": [
+          "kolet",
+          "kol",
+          "kolen"
+        ],
+        "english": "a coal"
+      },
+      {
+        "word": "svart",
+        "forms": [
+          "svart",
+          "svarta",
+          "svartare"
+        ],
+        "english": "black"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "koppling": "Dreams that taste of iron",
+    "words": [
+      {
+        "word": "drömma",
+        "forms": [
+          "drömmer",
+          "drömde",
+          "drömt"
+        ],
+        "english": "to dream"
+      },
+      {
+        "word": "ett blod",
+        "forms": [
+          "blodet",
+          "blod",
+          "bloden"
+        ],
+        "english": "blood"
+      },
+      {
+        "word": "bitter",
+        "forms": [
+          "bittert",
+          "bittra",
+          "bitterare"
+        ],
+        "english": "bitter"
+      },
+      {
+        "word": "en metall",
+        "forms": [
+          "metallen",
+          "metaller",
+          "metallerna"
+        ],
+        "english": "a metal"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "koppling": "Rain that remembers",
+    "words": [
+      {
+        "word": "regna",
+        "forms": [
+          "regnar",
+          "regnade",
+          "regnat"
+        ],
+        "english": "to rain"
+      },
+      {
+        "word": "ett minne",
+        "forms": [
+          "minnet",
+          "minnen",
+          "minnena"
+        ],
+        "english": "a memory"
+      },
+      {
+        "word": "våt",
+        "forms": [
+          "vått",
+          "våta",
+          "våtare"
+        ],
+        "english": "wet"
+      },
+      {
+        "word": "en droppe",
+        "forms": [
+          "droppen",
+          "droppar",
+          "dropparna"
+        ],
+        "english": "a drop"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "koppling": "Eyes that wander",
+    "words": [
+      {
+        "word": "se",
+        "forms": [
+          "ser",
+          "såg",
+          "sett"
+        ],
+        "english": "to see"
+      },
+      {
+        "word": "ett öga",
+        "forms": [
+          "ögat",
+          "ögon",
+          "ögonen"
+        ],
+        "english": "an eye"
+      },
+      {
+        "word": "vilsen",
+        "forms": [
+          "vilsent",
+          "vilsna",
+          "mer vilsen"
+        ],
+        "english": "lost / adrift"
+      },
+      {
+        "word": "vandra",
+        "forms": [
+          "vandrar",
+          "vandrade",
+          "vandrat"
+        ],
+        "english": "to wander"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "koppling": "Stones that speak",
+    "words": [
+      {
+        "word": "en sten",
+        "forms": [
+          "stenen",
+          "stenar",
+          "stenarna"
+        ],
+        "english": "a stone"
+      },
+      {
+        "word": "tala",
+        "forms": [
+          "talar",
+          "talade",
+          "talat"
+        ],
+        "english": "to speak"
+      },
+      {
+        "word": "gammal",
+        "forms": [
+          "gammalt",
+          "gamla",
+          "äldre"
+        ],
+        "english": "old"
+      },
+      {
+        "word": "ett eko",
+        "forms": [
+          "ekot",
+          "ekon",
+          "ekona"
+        ],
+        "english": "an echo"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "koppling": "Fire that sings",
+    "words": [
+      {
+        "word": "brinna",
+        "forms": [
+          "brinner",
+          "brann",
+          "brunnit"
+        ],
+        "english": "to burn"
+      },
+      {
+        "word": "sjunga",
+        "forms": [
+          "sjunger",
+          "sjöng",
+          "sjungit"
+        ],
+        "english": "to sing"
+      },
+      {
+        "word": "het",
+        "forms": [
+          "hett",
+          "heta",
+          "hetare"
+        ],
+        "english": "hot"
+      },
+      {
+        "word": "en gnista",
+        "forms": [
+          "gnistan",
+          "gnistor",
+          "gnistorna"
+        ],
+        "english": "a spark"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "koppling": "Words with wings",
+    "words": [
+      {
+        "word": "tala",
+        "forms": [
+          "talar",
+          "talade",
+          "talat"
+        ],
+        "english": "to speak"
+      },
+      {
+        "word": "ett brev",
+        "forms": [
+          "brevet",
+          "brev",
+          "breven"
+        ],
+        "english": "a letter"
+      },
+      {
+        "word": "flyga",
+        "forms": [
+          "flyger",
+          "flög",
+          "flugit"
+        ],
+        "english": "to fly"
+      },
+      {
+        "word": "fri",
+        "forms": [
+          "fritt",
+          "fria",
+          "friare"
+        ],
+        "english": "free"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "koppling": "Silence that glows",
+    "words": [
+      {
+        "word": "tyst",
+        "forms": [
+          "tyst",
+          "tysta",
+          "tystare"
+        ],
+        "english": "quiet"
+      },
+      {
+        "word": "ett ljus",
+        "forms": [
+          "ljuset",
+          "ljus",
+          "ljusen"
+        ],
+        "english": "a light"
+      },
+      {
+        "word": "glöda",
+        "forms": [
+          "glöder",
+          "glödde",
+          "glött"
+        ],
+        "english": "to glow"
+      },
+      {
+        "word": "mjuk",
+        "forms": [
+          "mjukt",
+          "mjuka",
+          "mjukare"
+        ],
+        "english": "soft"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "koppling": "Paths that forget their steps",
+    "words": [
+      {
+        "word": "en stig",
+        "forms": [
+          "stigen",
+          "stigar",
+          "stigarna"
+        ],
+        "english": "a path"
+      },
+      {
+        "word": "glömma",
+        "forms": [
+          "glömmer",
+          "glömde",
+          "glömt"
+        ],
+        "english": "to forget"
+      },
+      {
+        "word": "tom",
+        "forms": [
+          "tomt",
+          "tomma",
+          "tommare"
+        ],
+        "english": "empty"
+      },
+      {
+        "word": "gå",
+        "forms": [
+          "går",
+          "gick",
+          "gått"
+        ],
+        "english": "to walk"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "koppling": "Cold companions",
+    "words": [
+      {
+        "word": "snö",
+        "forms": [
+          "snön",
+          "snöar",
+          "snöarna"
+        ],
+        "english": "snow"
+      },
+      {
+        "word": "is",
+        "forms": [
+          "isen",
+          "isar",
+          "isarna"
+        ],
+        "english": "ice"
+      },
+      {
+        "word": "frysa",
+        "forms": [
+          "fryser",
+          "frös",
+          "frusit"
+        ],
+        "english": "to freeze"
+      },
+      {
+        "word": "kall",
+        "forms": [
+          "kallt",
+          "kalla",
+          "kallare"
+        ],
+        "english": "cold"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "koppling": "Waiting places",
+    "words": [
+      {
+        "word": "ett torg",
+        "forms": [
+          "torget",
+          "torg",
+          "torgen"
+        ],
+        "english": "a square"
+      },
+      {
+        "word": "en station",
+        "forms": [
+          "stationen",
+          "stationer",
+          "stationerna"
+        ],
+        "english": "a station"
+      },
+      {
+        "word": "sitta",
+        "forms": [
+          "sitter",
+          "satt",
+          "suttit"
+        ],
+        "english": "to sit"
+      },
+      {
+        "word": "vänta",
+        "forms": [
+          "väntar",
+          "väntade",
+          "väntat"
+        ],
+        "english": "to wait"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "koppling": "Quiet movements",
+    "words": [
+      {
+        "word": "smyga",
+        "forms": [
+          "smyger",
+          "smög",
+          "smugit"
+        ],
+        "english": "to sneak"
+      },
+      {
+        "word": "glida",
+        "forms": [
+          "glider",
+          "gled",
+          "glidit"
+        ],
+        "english": "to glide"
+      },
+      {
+        "word": "en katt",
+        "forms": [
+          "katten",
+          "katter",
+          "katterna"
+        ],
+        "english": "a cat"
+      },
+      {
+        "word": "tyst",
+        "forms": [
+          "tyst",
+          "tysta",
+          "tystare"
+        ],
+        "english": "quiet"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "koppling": "Short moments",
+    "words": [
+      {
+        "word": "en sekund",
+        "forms": [
+          "sekunden",
+          "sekunder",
+          "sekunderna"
+        ],
+        "english": "a second"
+      },
+      {
+        "word": "ett ögonblick",
+        "forms": [
+          "ögonblicket",
+          "ögonblick",
+          "ögonblicken"
+        ],
+        "english": "a moment"
+      },
+      {
+        "word": "snabb",
+        "forms": [
+          "snabbt",
+          "snabba",
+          "snabbare"
+        ],
+        "english": "fast"
+      },
+      {
+        "word": "passera",
+        "forms": [
+          "passerar",
+          "passerade",
+          "passerat"
+        ],
+        "english": "to pass"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "koppling": "Carried things",
+    "words": [
+      {
+        "word": "en väska",
+        "forms": [
+          "väskan",
+          "väskor",
+          "väskorna"
+        ],
+        "english": "a bag"
+      },
+      {
+        "word": "en korg",
+        "forms": [
+          "korgen",
+          "korgar",
+          "korgarna"
+        ],
+        "english": "a basket"
+      },
+      {
+        "word": "bära",
+        "forms": [
+          "bär",
+          "bar",
+          "burit"
+        ],
+        "english": "to carry"
+      },
+      {
+        "word": "tung",
+        "forms": [
+          "tungt",
+          "tunga",
+          "tyngre"
+        ],
+        "english": "heavy"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "koppling": "Fragile sounds",
+    "words": [
+      {
+        "word": "ett glas",
+        "forms": [
+          "glaset",
+          "glas",
+          "glasen"
+        ],
+        "english": "a glass"
+      },
+      {
+        "word": "knäcka",
+        "forms": [
+          "knäcker",
+          "knäckte",
+          "knäckt"
+        ],
+        "english": "to crack"
+      },
+      {
+        "word": "bräcklig",
+        "forms": [
+          "bräckligt",
+          "bräckliga",
+          "mer bräcklig"
+        ],
+        "english": "fragile"
+      },
+      {
+        "word": "ett skratt",
+        "forms": [
+          "skrattet",
+          "skratt",
+          "skratten"
+        ],
+        "english": "a laugh"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "koppling": "Slow changes",
+    "words": [
+      {
+        "word": "växa",
+        "forms": [
+          "växer",
+          "växte",
+          "vuxit"
+        ],
+        "english": "to grow"
+      },
+      {
+        "word": "en skägg",
+        "forms": [
+          "skägget",
+          "skägg",
+          "skäggen"
+        ],
+        "english": "a beard"
+      },
+      {
+        "word": "grå",
+        "forms": [
+          "grått",
+          "gråa",
+          "gråare"
+        ],
+        "english": "grey"
+      },
+      {
+        "word": "förändras",
+        "forms": [
+          "förändras",
+          "förändrades",
+          "förändrats"
+        ],
+        "english": "to change"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "koppling": "Light in the dark",
+    "words": [
+      {
+        "word": "ett ljus",
+        "forms": [
+          "ljuset",
+          "ljus",
+          "ljusen"
+        ],
+        "english": "a light / candle"
+      },
+      {
+        "word": "blinka",
+        "forms": [
+          "blinkar",
+          "blinkade",
+          "blinkat"
+        ],
+        "english": "to blink / twinkle"
+      },
+      {
+        "word": "klar",
+        "forms": [
+          "klart",
+          "klara",
+          "klarare"
+        ],
+        "english": "bright / clear"
+      },
+      {
+        "word": "en stjärna",
+        "forms": [
+          "stjärnan",
+          "stjärnor",
+          "stjärnorna"
+        ],
+        "english": "a star"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "koppling": "Morning rituals",
+    "words": [
+      {
+        "word": "vakna",
+        "forms": [
+          "vaknar",
+          "vaknade",
+          "vaknat"
+        ],
+        "english": "to wake up"
+      },
+      {
+        "word": "en kopp",
+        "forms": [
+          "koppen",
+          "koppar",
+          "kopparna"
+        ],
+        "english": "a cup"
+      },
+      {
+        "word": "trött",
+        "forms": [
+          "trött",
+          "trötta",
+          "tröttare"
+        ],
+        "english": "tired"
+      },
+      {
+        "word": "en sol",
+        "forms": [
+          "solen",
+          "solar",
+          "solarna"
+        ],
+        "english": "a sun"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "koppling": "Heavy endings",
+    "words": [
+      {
+        "word": "slut",
+        "forms": [
+          "slutet",
+          "slut",
+          "sluten"
+        ],
+        "english": "an end"
+      },
+      {
+        "word": "falla",
+        "forms": [
+          "faller",
+          "föll",
+          "fallit"
+        ],
+        "english": "to fall"
+      },
+      {
+        "word": "tung",
+        "forms": [
+          "tungt",
+          "tunga",
+          "tyngre"
+        ],
+        "english": "heavy"
+      },
+      {
+        "word": "mörk",
+        "forms": [
+          "mörkt",
+          "mörka",
+          "mörkare"
+        ],
+        "english": "dark"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "koppling": "Small joys",
+    "words": [
+      {
+        "word": "le",
+        "forms": [
+          "ler",
+          "log",
+          "lett"
+        ],
+        "english": "to smile"
+      },
+      {
+        "word": "en blomma",
+        "forms": [
+          "blomman",
+          "blommor",
+          "blommorna"
+        ],
+        "english": "a flower"
+      },
+      {
+        "word": "söt",
+        "forms": [
+          "sött",
+          "söta",
+          "sötare"
+        ],
+        "english": "sweet"
+      },
+      {
+        "word": "ett skratt",
+        "forms": [
+          "skrattet",
+          "skratt",
+          "skratten"
+        ],
+        "english": "a laugh"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "koppling": "Running out",
+    "words": [
+      {
+        "word": "slut",
+        "forms": [
+          "slutet",
+          "slut",
+          "sluten"
+        ],
+        "english": "finished / end"
+      },
+      {
+        "word": "tömma",
+        "forms": [
+          "tömmer",
+          "tömde",
+          "tömt"
+        ],
+        "english": "to empty"
+      },
+      {
+        "word": "en flaska",
+        "forms": [
+          "flaskan",
+          "flaskor",
+          "flaskorna"
+        ],
+        "english": "a bottle"
+      },
+      {
+        "word": "tom",
+        "forms": [
+          "tomt",
+          "tomma",
+          "tommare"
+        ],
+        "english": "empty"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "koppling": "Sudden changes",
+    "words": [
+      {
+        "word": "ändra",
+        "forms": [
+          "ändrar",
+          "ändrade",
+          "ändrat"
+        ],
+        "english": "to change"
+      },
+      {
+        "word": "plötslig",
+        "forms": [
+          "plötsligt",
+          "plötsliga",
+          "mer plötslig"
+        ],
+        "english": "sudden"
+      },
+      {
+        "word": "ett oväder",
+        "forms": [
+          "ovädret",
+          "oväder",
+          "ovädren"
+        ],
+        "english": "a storm"
+      },
+      {
+        "word": "chocka",
+        "forms": [
+          "chockar",
+          "chockade",
+          "chockat"
+        ],
+        "english": "to shock"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "koppling": "Quiet companions",
+    "words": [
+      {
+        "word": "en bok",
+        "forms": [
+          "boken",
+          "böcker",
+          "böckerna"
+        ],
+        "english": "a book"
+      },
+      {
+        "word": "en katt",
+        "forms": [
+          "katten",
+          "katter",
+          "katterna"
+        ],
+        "english": "a cat"
+      },
+      {
+        "word": "lugna",
+        "forms": [
+          "lugnar",
+          "lugnade",
+          "lugnats"
+        ],
+        "english": "to calm"
+      },
+      {
+        "word": "still",
+        "forms": [
+          "stilla",
+          "stilla",
+          "stillare"
+        ],
+        "english": "still / quiet"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "koppling": "Lost and found",
+    "words": [
+      {
+        "word": "hitta",
+        "forms": [
+          "hittar",
+          "hittade",
+          "hittat"
+        ],
+        "english": "to find"
+      },
+      {
+        "word": "tappa",
+        "forms": [
+          "tappar",
+          "tappade",
+          "tappat"
+        ],
+        "english": "to lose"
+      },
+      {
+        "word": "vilsen",
+        "forms": [
+          "vilsent",
+          "vilsna",
+          "mer vilsen"
+        ],
+        "english": "lost / confused"
+      },
+      {
+        "word": "en nyckel",
+        "forms": [
+          "nyckeln",
+          "nycklar",
+          "nycklarna"
+        ],
+        "english": "a key"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "koppling": "Fast movements",
+    "words": [
+      {
+        "word": "springa",
+        "forms": [
+          "springer",
+          "sprang",
+          "sprungit"
+        ],
+        "english": "to run"
+      },
+      {
+        "word": "snabb",
+        "forms": [
+          "snabbt",
+          "snabba",
+          "snabbare"
+        ],
+        "english": "fast"
+      },
+      {
+        "word": "en bil",
+        "forms": [
+          "bilen",
+          "bilar",
+          "bilarna"
+        ],
+        "english": "a car"
+      },
+      {
+        "word": "jaga",
+        "forms": [
+          "jagar",
+          "jagade",
+          "jagat"
+        ],
+        "english": "to chase"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "koppling": "Storm warnings",
+    "words": [
+      {
+        "word": "ett moln",
+        "forms": [
+          "molnet",
+          "moln",
+          "molnen"
+        ],
+        "english": "a cloud"
+      },
+      {
+        "word": "tjuta",
+        "forms": [
+          "tjuter",
+          "tjöt",
+          "tjutit"
+        ],
+        "english": "to howl"
+      },
+      {
+        "word": "en siren",
+        "forms": [
+          "sirenen",
+          "sirener",
+          "sirenerna"
+        ],
+        "english": "a siren"
+      },
+      {
+        "word": "hotfull",
+        "forms": [
+          "hotfullt",
+          "hotfulla",
+          "mer hotfull"
+        ],
+        "english": "menacing"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "koppling": "Quiet confidence",
+    "words": [
+      {
+        "word": "lugna",
+        "forms": [
+          "lugnar",
+          "lugnade",
+          "lugnats"
+        ],
+        "english": "to calm"
+      },
+      {
+        "word": "trygg",
+        "forms": [
+          "tryggt",
+          "trygga",
+          "tryggare"
+        ],
+        "english": "secure"
+      },
+      {
+        "word": "en blick",
+        "forms": [
+          "blicken",
+          "blickar",
+          "blickarna"
+        ],
+        "english": "a glance"
+      },
+      {
+        "word": "nicka",
+        "forms": [
+          "nickar",
+          "nickade",
+          "nickat"
+        ],
+        "english": "to nod"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "koppling": "Hidden signals",
+    "words": [
+      {
+        "word": "blinka",
+        "forms": [
+          "blinkar",
+          "blinkade",
+          "blinkat"
+        ],
+        "english": "to blink"
+      },
+      {
+        "word": "en kod",
+        "forms": [
+          "koden",
+          "koder",
+          "koderna"
+        ],
+        "english": "a code"
+      },
+      {
+        "word": "tyst",
+        "forms": [
+          "tyst",
+          "tysta",
+          "tystare"
+        ],
+        "english": "quiet"
+      },
+      {
+        "word": "en vink",
+        "forms": [
+          "vinken",
+          "vinkar",
+          "vinkarna"
+        ],
+        "english": "a hint"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "koppling": "On the edge",
+    "words": [
+      {
+        "word": "en kant",
+        "forms": [
+          "kanten",
+          "kanter",
+          "kanterna"
+        ],
+        "english": "an edge"
+      },
+      {
+        "word": "skära",
+        "forms": [
+          "skär",
+          "skar",
+          "skurit"
+        ],
+        "english": "to cut"
+      },
+      {
+        "word": "vass",
+        "forms": [
+          "vasst",
+          "vassa",
+          "vassare"
+        ],
+        "english": "sharp"
+      },
+      {
+        "word": "balansera",
+        "forms": [
+          "balanserar",
+          "balanserade",
+          "balanserat"
+        ],
+        "english": "to balance"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "koppling": "Warm welcomes",
+    "words": [
+      {
+        "word": "välkomna",
+        "forms": [
+          "välkomnar",
+          "välkomnade",
+          "välkomnat"
+        ],
+        "english": "to welcome"
+      },
+      {
+        "word": "varm",
+        "forms": [
+          "varmt",
+          "varma",
+          "varmare"
+        ],
+        "english": "warm"
+      },
+      {
+        "word": "en famn",
+        "forms": [
+          "famnen",
+          "famnAR",
+          "famnARNA"
+        ],
+        "english": "an embrace"
+      },
+      {
+        "word": "ett hem",
+        "forms": [
+          "hemmet",
+          "hem",
+          "hemmen"
+        ],
+        "english": "a home"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "koppling": "Borrowed time",
+    "words": [
+      {
+        "word": "låna",
+        "forms": [
+          "lånar",
+          "lånade",
+          "lånat"
+        ],
+        "english": "to borrow"
+      },
+      {
+        "word": "tillfällig",
+        "forms": [
+          "tillfälligt",
+          "tillfälliga",
+          "mer tillfällig"
+        ],
+        "english": "temporary"
+      },
+      {
+        "word": "en klocka",
+        "forms": [
+          "klockan",
+          "klockor",
+          "klockorna"
+        ],
+        "english": "a clock"
+      },
+      {
+        "word": "ticka",
+        "forms": [
+          "tickar",
+          "tickade",
+          "tickat"
+        ],
+        "english": "to tick"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "koppling": "Second chances",
+    "words": [
+      {
+        "word": "förlåta",
+        "forms": [
+          "förlåter",
+          "förlät",
+          "förlåtit"
+        ],
+        "english": "to forgive"
+      },
+      {
+        "word": "en chans",
+        "forms": [
+          "chansen",
+          "chanser",
+          "chanserna"
+        ],
+        "english": "a chance"
+      },
+      {
+        "word": "en omstart",
+        "forms": [
+          "omstarten",
+          "omstarter",
+          "omstarterna"
+        ],
+        "english": "a restart"
+      },
+      {
+        "word": "ny",
+        "forms": [
+          "nytt",
+          "nya",
+          "nyare"
+        ],
+        "english": "new"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "koppling": "Under pressure",
+    "words": [
+      {
+        "word": "pressa",
+        "forms": [
+          "pressar",
+          "pressade",
+          "pressat"
+        ],
+        "english": "to press"
+      },
+      {
+        "word": "ett tryck",
+        "forms": [
+          "trycket",
+          "tryck",
+          "trycken"
+        ],
+        "english": "a pressure"
+      },
+      {
+        "word": "stressad",
+        "forms": [
+          "stressat",
+          "stressade",
+          "mer stressad"
+        ],
+        "english": "stressed"
+      },
+      {
+        "word": "koka",
+        "forms": [
+          "kokar",
+          "kokade",
+          "kokat"
+        ],
+        "english": "to boil"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "koppling": "At the table",
+    "words": [
+      {
+        "word": "en tallrik",
+        "forms": [
+          "tallriken",
+          "tallrikar",
+          "tallrikarna"
+        ],
+        "english": "a plate"
+      },
+      {
+        "word": "äta",
+        "forms": [
+          "äter",
+          "åt",
+          "ätit"
+        ],
+        "english": "to eat"
+      },
+      {
+        "word": "hungrig",
+        "forms": [
+          "hungrigt",
+          "hungriga",
+          "hungrigare"
+        ],
+        "english": "hungry"
+      },
+      {
+        "word": "en gaffel",
+        "forms": [
+          "gaffeln",
+          "gafflar",
+          "gafflarna"
+        ],
+        "english": "a fork"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "koppling": "At the beach",
+    "words": [
+      {
+        "word": "simma",
+        "forms": [
+          "simmar",
+          "simmade",
+          "simmat"
+        ],
+        "english": "to swim"
+      },
+      {
+        "word": "en våg",
+        "forms": [
+          "vågen",
+          "vågor",
+          "vågorna"
+        ],
+        "english": "a wave"
+      },
+      {
+        "word": "sandig",
+        "forms": [
+          "sandigt",
+          "sandiga",
+          "mer sandig"
+        ],
+        "english": "sandy"
+      },
+      {
+        "word": "en strand",
+        "forms": [
+          "stranden",
+          "stränder",
+          "stränderna"
+        ],
+        "english": "a beach"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "koppling": "In the city",
+    "words": [
+      {
+        "word": "en gata",
+        "forms": [
+          "gatan",
+          "gator",
+          "gatorna"
+        ],
+        "english": "a street"
+      },
+      {
+        "word": "en buss",
+        "forms": [
+          "bussen",
+          "bussar",
+          "bussarna"
+        ],
+        "english": "a bus"
+      },
+      {
+        "word": "trång",
+        "forms": [
+          "trångt",
+          "trånga",
+          "trängre"
+        ],
+        "english": "crowded / narrow"
+      },
+      {
+        "word": "gå",
+        "forms": [
+          "går",
+          "gick",
+          "gått"
+        ],
+        "english": "to walk"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "koppling": "At school",
+    "words": [
+      {
+        "word": "en lärare",
+        "forms": [
+          "läraren",
+          "lärare",
+          "lärarna"
+        ],
+        "english": "a teacher"
+      },
+      {
+        "word": "plugga",
+        "forms": [
+          "pluggar",
+          "pluggade",
+          "pluggat"
+        ],
+        "english": "to study"
+      },
+      {
+        "word": "en bok",
+        "forms": [
+          "boken",
+          "böcker",
+          "böckerna"
+        ],
+        "english": "a book"
+      },
+      {
+        "word": "trött",
+        "forms": [
+          "trött",
+          "trötta",
+          "tröttare"
+        ],
+        "english": "tired"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "koppling": "In the forest",
+    "words": [
+      {
+        "word": "en gran",
+        "forms": [
+          "granen",
+          "granar",
+          "granarna"
+        ],
+        "english": "a spruce"
+      },
+      {
+        "word": "en svamp",
+        "forms": [
+          "svampen",
+          "svampar",
+          "svamparna"
+        ],
+        "english": "a mushroom"
+      },
+      {
+        "word": "plocka",
+        "forms": [
+          "plockar",
+          "plockade",
+          "plockat"
+        ],
+        "english": "to pick"
+      },
+      {
+        "word": "grön",
+        "forms": [
+          "grönt",
+          "gröna",
+          "grönare"
+        ],
+        "english": "green"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "koppling": "At the hospital",
+    "words": [
+      {
+        "word": "en läkare",
+        "forms": [
+          "läkaren",
+          "läkare",
+          "läkarna"
+        ],
+        "english": "a doctor"
+      },
+      {
+        "word": "ett sjukhus",
+        "forms": [
+          "sjukhuset",
+          "sjukhus",
+          "sjukhusen"
+        ],
+        "english": "a hospital"
+      },
+      {
+        "word": "sjuk",
+        "forms": [
+          "sjukt",
+          "sjuka",
+          "sjukare"
+        ],
+        "english": "sick"
+      },
+      {
+        "word": "bota",
+        "forms": [
+          "botar",
+          "botade",
+          "botat"
+        ],
+        "english": "to cure"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "koppling": "On the road",
+    "words": [
+      {
+        "word": "köra",
+        "forms": [
+          "kör",
+          "körde",
+          "kört"
+        ],
+        "english": "to drive"
+      },
+      {
+        "word": "en bil",
+        "forms": [
+          "bilen",
+          "bilar",
+          "bilarna"
+        ],
+        "english": "a car"
+      },
+      {
+        "word": "snabb",
+        "forms": [
+          "snabbt",
+          "snabba",
+          "snabbare"
+        ],
+        "english": "fast"
+      },
+      {
+        "word": "en väg",
+        "forms": [
+          "vägen",
+          "vägar",
+          "vägarna"
+        ],
+        "english": "a road"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "koppling": "At the party",
+    "words": [
+      {
+        "word": "dansa",
+        "forms": [
+          "dansar",
+          "dansade",
+          "dansat"
+        ],
+        "english": "to dance"
+      },
+      {
+        "word": "hög",
+        "forms": [
+          "högt",
+          "höga",
+          "högre"
+        ],
+        "english": "loud / high"
+      },
+      {
+        "word": "en vän",
+        "forms": [
+          "vännen",
+          "vänner",
+          "vännerna"
+        ],
+        "english": "a friend"
+      },
+      {
+        "word": "en sång",
+        "forms": [
+          "sången",
+          "sånger",
+          "sångerna"
+        ],
+        "english": "a song"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "koppling": "In the kitchen",
+    "words": [
+      {
+        "word": "en kastrull",
+        "forms": [
+          "kastrullen",
+          "kastruller",
+          "kastrullerna"
+        ],
+        "english": "a pot"
+      },
+      {
+        "word": "koka",
+        "forms": [
+          "kokar",
+          "kokade",
+          "kokat"
+        ],
+        "english": "to boil"
+      },
+      {
+        "word": "varm",
+        "forms": [
+          "varmt",
+          "varma",
+          "varmare"
+        ],
+        "english": "warm"
+      },
+      {
+        "word": "en kniv",
+        "forms": [
+          "kniven",
+          "knivar",
+          "knivarna"
+        ],
+        "english": "a knife"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "koppling": "Feeling tired",
+    "words": [
+      {
+        "word": "gäspa",
+        "forms": [
+          "gäspar",
+          "gäspade",
+          "gäspat"
+        ],
+        "english": "to yawn"
+      },
+      {
+        "word": "trött",
+        "forms": [
+          "trött",
+          "trötta",
+          "tröttare"
+        ],
+        "english": "tired"
+      },
+      {
+        "word": "sova",
+        "forms": [
+          "sover",
+          "sov",
+          "sovit"
+        ],
+        "english": "to sleep"
+      },
+      {
+        "word": "en säng",
+        "forms": [
+          "sängen",
+          "sängar",
+          "sängarna"
+        ],
+        "english": "a bed"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "koppling": "Sports day",
+    "words": [
+      {
+        "word": "springa",
+        "forms": [
+          "springer",
+          "sprang",
+          "sprungit"
+        ],
+        "english": "to run"
+      },
+      {
+        "word": "en boll",
+        "forms": [
+          "bollen",
+          "bollar",
+          "bollarna"
+        ],
+        "english": "a ball"
+      },
+      {
+        "word": "snabb",
+        "forms": [
+          "snabbt",
+          "snabba",
+          "snabbare"
+        ],
+        "english": "fast"
+      },
+      {
+        "word": "spela",
+        "forms": [
+          "spelar",
+          "spelade",
+          "spelat"
+        ],
+        "english": "to play"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "koppling": "Winter day",
+    "words": [
+      {
+        "word": "snöa",
+        "forms": [
+          "snöar",
+          "snöade",
+          "snöat"
+        ],
+        "english": "to snow"
+      },
+      {
+        "word": "kall",
+        "forms": [
+          "kallt",
+          "kalla",
+          "kallare"
+        ],
+        "english": "cold"
+      },
+      {
+        "word": "en mössa",
+        "forms": [
+          "mössan",
+          "mössor",
+          "mössorna"
+        ],
+        "english": "a hat"
+      },
+      {
+        "word": "en is",
+        "forms": [
+          "isen",
+          "isar",
+          "isarna"
+        ],
+        "english": "ice"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "koppling": "Shopping trip",
+    "words": [
+      {
+        "word": "köpa",
+        "forms": [
+          "köper",
+          "köpte",
+          "köpt"
+        ],
+        "english": "to buy"
+      },
+      {
+        "word": "en butik",
+        "forms": [
+          "butiken",
+          "butiker",
+          "butikerna"
+        ],
+        "english": "a shop"
+      },
+      {
+        "word": "dyr",
+        "forms": [
+          "dyrt",
+          "dyra",
+          "dyrare"
+        ],
+        "english": "expensive"
+      },
+      {
+        "word": "en kassa",
+        "forms": [
+          "kassan",
+          "kassor",
+          "kassorna"
+        ],
+        "english": "a checkout"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "koppling": "At the lake",
+    "words": [
+      {
+        "word": "ett vatten",
+        "forms": [
+          "vattnet",
+          "vatten",
+          "vattnen"
+        ],
+        "english": "water"
+      },
+      {
+        "word": "bada",
+        "forms": [
+          "badar",
+          "badade",
+          "badat"
+        ],
+        "english": "to bathe / swim"
+      },
+      {
+        "word": "blöt",
+        "forms": [
+          "blött",
+          "blöta",
+          "blötare"
+        ],
+        "english": "wet"
+      },
+      {
+        "word": "en båt",
+        "forms": [
+          "båten",
+          "båtar",
+          "båtarna"
+        ],
+        "english": "a boat"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "koppling": "A good meal",
+    "words": [
+      {
+        "word": "en soppa",
+        "forms": [
+          "soppan",
+          "soppor",
+          "sopporna"
+        ],
+        "english": "a soup"
+      },
+      {
+        "word": "dofta",
+        "forms": [
+          "doftar",
+          "doftade",
+          "doftat"
+        ],
+        "english": "to smell (nice)"
+      },
+      {
+        "word": "mätt",
+        "forms": [
+          "mätt",
+          "mätta",
+          "mättare"
+        ],
+        "english": "full (after eating)"
+      },
+      {
+        "word": "en middag",
+        "forms": [
+          "middagen",
+          "middagar",
+          "middagarna"
+        ],
+        "english": "a dinner"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "koppling": "Music time",
+    "words": [
+      {
+        "word": "sjunga",
+        "forms": [
+          "sjunger",
+          "sjöng",
+          "sjungit"
+        ],
+        "english": "to sing"
+      },
+      {
+        "word": "en gitarr",
+        "forms": [
+          "gitarren",
+          "gitarrer",
+          "gitarrerna"
+        ],
+        "english": "a guitar"
+      },
+      {
+        "word": "ljudlig",
+        "forms": [
+          "ljudligt",
+          "ljudliga",
+          "mer ljudlig"
+        ],
+        "english": "loud"
+      },
+      {
+        "word": "spela",
+        "forms": [
+          "spelar",
+          "spelade",
+          "spelat"
+        ],
+        "english": "to play"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "koppling": "Holiday feelings",
+    "words": [
+      {
+        "word": "resa",
+        "forms": [
+          "reser",
+          "reste",
+          "rest"
+        ],
+        "english": "to travel"
+      },
+      {
+        "word": "ledig",
+        "forms": [
+          "ledigt",
+          "lediga",
+          "ledigare"
+        ],
+        "english": "free / off work"
+      },
+      {
+        "word": "en solstol",
+        "forms": [
+          "solstolen",
+          "solstolar",
+          "solstolarna"
+        ],
+        "english": "a sun chair"
+      },
+      {
+        "word": "slappna av",
+        "forms": [
+          "slappnar av",
+          "slappnade av",
+          "slappnat av"
+        ],
+        "english": "to relax"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "koppling": "On the farm",
+    "words": [
+      {
+        "word": "en ko",
+        "forms": [
+          "kon",
+          "kor",
+          "korna"
+        ],
+        "english": "a cow"
+      },
+      {
+        "word": "mjölka",
+        "forms": [
+          "mjölkar",
+          "mjölkade",
+          "mjölkat"
+        ],
+        "english": "to milk"
+      },
+      {
+        "word": "en hage",
+        "forms": [
+          "hagen",
+          "hagar",
+          "hagarna"
+        ],
+        "english": "a pasture"
+      },
+      {
+        "word": "lantlig",
+        "forms": [
+          "lantligt",
+          "lantliga",
+          "mer lantlig"
+        ],
+        "english": "rural"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "koppling": "Angry moments",
+    "words": [
+      {
+        "word": "arg",
+        "forms": [
+          "argt",
+          "arga",
+          "argare"
+        ],
+        "english": "angry"
+      },
+      {
+        "word": "skrika",
+        "forms": [
+          "skriker",
+          "skrek",
+          "skrikit"
+        ],
+        "english": "to shout"
+      },
+      {
+        "word": "slå",
+        "forms": [
+          "slår",
+          "slog",
+          "slagit"
+        ],
+        "english": "to hit"
+      },
+      {
+        "word": "ett bråk",
+        "forms": [
+          "bråket",
+          "bråk",
+          "bråken"
+        ],
+        "english": "a fight"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "koppling": "Happy moments",
+    "words": [
+      {
+        "word": "glad",
+        "forms": [
+          "glatt",
+          "glada",
+          "gladare"
+        ],
+        "english": "happy"
+      },
+      {
+        "word": "le",
+        "forms": [
+          "ler",
+          "log",
+          "lett"
+        ],
+        "english": "to smile"
+      },
+      {
+        "word": "ett firande",
+        "forms": [
+          "firandet",
+          "firanden",
+          "firandena"
+        ],
+        "english": "a celebration"
+      },
+      {
+        "word": "sjunga",
+        "forms": [
+          "sjunger",
+          "sjöng",
+          "sjungit"
+        ],
+        "english": "to sing"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "koppling": "At the park",
+    "words": [
+      {
+        "word": "en bänk",
+        "forms": [
+          "bänken",
+          "bänkar",
+          "bänkarna"
+        ],
+        "english": "a bench"
+      },
+      {
+        "word": "leka",
+        "forms": [
+          "leker",
+          "lekte",
+          "lekt"
+        ],
+        "english": "to play"
+      },
+      {
+        "word": "grön",
+        "forms": [
+          "grönt",
+          "gröna",
+          "grönare"
+        ],
+        "english": "green"
+      },
+      {
+        "word": "en fontän",
+        "forms": [
+          "fontänen",
+          "fontäner",
+          "fontänerna"
+        ],
+        "english": "a fountain"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "koppling": "Feeling cold",
+    "words": [
+      {
+        "word": "frysa",
+        "forms": [
+          "fryser",
+          "frös",
+          "frusit"
+        ],
+        "english": "to freeze"
+      },
+      {
+        "word": "kall",
+        "forms": [
+          "kallt",
+          "kalla",
+          "kallare"
+        ],
+        "english": "cold"
+      },
+      {
+        "word": "en jacka",
+        "forms": [
+          "jackan",
+          "jackor",
+          "jackorna"
+        ],
+        "english": "a jacket"
+      },
+      {
+        "word": "skaka",
+        "forms": [
+          "skakar",
+          "skakade",
+          "skakat"
+        ],
+        "english": "to shake"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "koppling": "At the cinema",
+    "words": [
+      {
+        "word": "en film",
+        "forms": [
+          "filmen",
+          "filmer",
+          "filmerna"
+        ],
+        "english": "a movie"
+      },
+      {
+        "word": "mörk",
+        "forms": [
+          "mörkt",
+          "mörka",
+          "mörkare"
+        ],
+        "english": "dark"
+      },
+      {
+        "word": "titta",
+        "forms": [
+          "tittar",
+          "tittade",
+          "tittat"
+        ],
+        "english": "to watch"
+      },
+      {
+        "word": "en popcorn",
+        "forms": [
+          "popcornen",
+          "popcorn",
+          "popcornen"
+        ],
+        "english": "a popcorn"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "koppling": "On the mountain",
+    "words": [
+      {
+        "word": "klättra",
+        "forms": [
+          "klättrar",
+          "klättrade",
+          "klättrat"
+        ],
+        "english": "to climb"
+      },
+      {
+        "word": "hög",
+        "forms": [
+          "högt",
+          "höga",
+          "högre"
+        ],
+        "english": "high"
+      },
+      {
+        "word": "en sten",
+        "forms": [
+          "stenen",
+          "stenar",
+          "stenarna"
+        ],
+        "english": "a stone"
+      },
+      {
+        "word": "en topp",
+        "forms": [
+          "toppen",
+          "toppar",
+          "topparna"
+        ],
+        "english": "a peak"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "koppling": "In the rain",
+    "words": [
+      {
+        "word": "regna",
+        "forms": [
+          "regnar",
+          "regnade",
+          "regnat"
+        ],
+        "english": "to rain"
+      },
+      {
+        "word": "blöt",
+        "forms": [
+          "blött",
+          "blöta",
+          "blötare"
+        ],
+        "english": "wet"
+      },
+      {
+        "word": "ett paraply",
+        "forms": [
+          "paraplyet",
+          "paraplyer",
+          "paraplyerna"
+        ],
+        "english": "an umbrella"
+      },
+      {
+        "word": "en gata",
+        "forms": [
+          "gatan",
+          "gator",
+          "gatorna"
+        ],
+        "english": "a street"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "koppling": "At the playground",
+    "words": [
+      {
+        "word": "en rutschkana",
+        "forms": [
+          "rutschkanan",
+          "rutschkanor",
+          "rutschkanorna"
+        ],
+        "english": "a slide"
+      },
+      {
+        "word": "en gunga",
+        "forms": [
+          "gungan",
+          "gungor",
+          "gungorna"
+        ],
+        "english": "a swing"
+      },
+      {
+        "word": "leka",
+        "forms": [
+          "leker",
+          "lekte",
+          "lekt"
+        ],
+        "english": "to play"
+      },
+      {
+        "word": "glad",
+        "forms": [
+          "glatt",
+          "glada",
+          "gladare"
+        ],
+        "english": "happy"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "koppling": "At the office",
+    "words": [
+      {
+        "word": "ett skrivbord",
+        "forms": [
+          "skrivbordet",
+          "skrivbord",
+          "skrivborden"
+        ],
+        "english": "a desk"
+      },
+      {
+        "word": "skriva",
+        "forms": [
+          "skriver",
+          "skrev",
+          "skrivit"
+        ],
+        "english": "to write"
+      },
+      {
+        "word": "stressad",
+        "forms": [
+          "stressat",
+          "stressade",
+          "mer stressad"
+        ],
+        "english": "stressed"
+      },
+      {
+        "word": "ett möte",
+        "forms": [
+          "mötet",
+          "möten",
+          "mötena"
+        ],
+        "english": "a meeting"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "koppling": "On the train",
+    "words": [
+      {
+        "word": "en biljett",
+        "forms": [
+          "biljetten",
+          "biljetter",
+          "biljetterna"
+        ],
+        "english": "a ticket"
+      },
+      {
+        "word": "sitta",
+        "forms": [
+          "sitter",
+          "satt",
+          "suttit"
+        ],
+        "english": "to sit"
+      },
+      {
+        "word": "resa",
+        "forms": [
+          "reser",
+          "reste",
+          "rest"
+        ],
+        "english": "to travel"
+      },
+      {
+        "word": "trång",
+        "forms": [
+          "trångt",
+          "trånga",
+          "trängre"
+        ],
+        "english": "crowded / narrow"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "koppling": "At the market",
+    "words": [
+      {
+        "word": "en frukt",
+        "forms": [
+          "frukten",
+          "frukter",
+          "frukterna"
+        ],
+        "english": "a fruit"
+      },
+      {
+        "word": "en grönsak",
+        "forms": [
+          "grönsaken",
+          "grönsaker",
+          "grönsakerna"
+        ],
+        "english": "a vegetable"
+      },
+      {
+        "word": "köpa",
+        "forms": [
+          "köper",
+          "köpte",
+          "köpt"
+        ],
+        "english": "to buy"
+      },
+      {
+        "word": "billig",
+        "forms": [
+          "billigt",
+          "billiga",
+          "billigare"
+        ],
+        "english": "cheap"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "koppling": "In the sky",
+    "words": [
+      {
+        "word": "en fågel",
+        "forms": [
+          "fågeln",
+          "fåglar",
+          "fåglarna"
+        ],
+        "english": "a bird"
+      },
+      {
+        "word": "flyga",
+        "forms": [
+          "flyger",
+          "flög",
+          "flugit"
+        ],
+        "english": "to fly"
+      },
+      {
+        "word": "blå",
+        "forms": [
+          "blått",
+          "blåa",
+          "blåare"
+        ],
+        "english": "blue"
+      },
+      {
+        "word": "ett moln",
+        "forms": [
+          "molnet",
+          "moln",
+          "molnen"
+        ],
+        "english": "a cloud"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "koppling": "In the garden",
+    "words": [
+      {
+        "word": "en blomma",
+        "forms": [
+          "blomman",
+          "blommor",
+          "blommorna"
+        ],
+        "english": "a flower"
+      },
+      {
+        "word": "plantera",
+        "forms": [
+          "planterar",
+          "planterade",
+          "planterat"
+        ],
+        "english": "to plant"
+      },
+      {
+        "word": "grön",
+        "forms": [
+          "grönt",
+          "gröna",
+          "grönare"
+        ],
+        "english": "green"
+      },
+      {
+        "word": "en spade",
+        "forms": [
+          "spaden",
+          "spadar",
+          "spadarna"
+        ],
+        "english": "a spade"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "koppling": "Feeling scared",
+    "words": [
+      {
+        "word": "rädd",
+        "forms": [
+          "rädd",
+          "rädda",
+          "räddare"
+        ],
+        "english": "afraid"
+      },
+      {
+        "word": "skaka",
+        "forms": [
+          "skakar",
+          "skakade",
+          "skakat"
+        ],
+        "english": "to shake"
+      },
+      {
+        "word": "en skugga",
+        "forms": [
+          "skuggan",
+          "skuggor",
+          "skuggorna"
+        ],
+        "english": "a shadow"
+      },
+      {
+        "word": "ropa",
+        "forms": [
+          "ropar",
+          "ropade",
+          "ropat"
+        ],
+        "english": "to shout"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "koppling": "At the airport",
+    "words": [
+      {
+        "word": "en resväska",
+        "forms": [
+          "resväskan",
+          "resväskor",
+          "resväskorna"
+        ],
+        "english": "a suitcase"
+      },
+      {
+        "word": "flyga",
+        "forms": [
+          "flyger",
+          "flög",
+          "flugit"
+        ],
+        "english": "to fly"
+      },
+      {
+        "word": "en gate",
+        "forms": [
+          "gaten",
+          "gater",
+          "gaterna"
+        ],
+        "english": "a gate"
+      },
+      {
+        "word": "vänta",
+        "forms": [
+          "väntar",
+          "väntade",
+          "väntat"
+        ],
+        "english": "to wait"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "koppling": "Feeling hungry",
+    "words": [
+      {
+        "word": "hungrig",
+        "forms": [
+          "hungrigt",
+          "hungriga",
+          "hungrigare"
+        ],
+        "english": "hungry"
+      },
+      {
+        "word": "äta",
+        "forms": [
+          "äter",
+          "åt",
+          "ätit"
+        ],
+        "english": "to eat"
+      },
+      {
+        "word": "en smörgås",
+        "forms": [
+          "smörgåsen",
+          "smörgåsar",
+          "smörgåsarna"
+        ],
+        "english": "a sandwich"
+      },
+      {
+        "word": "en mage",
+        "forms": [
+          "magen",
+          "magar",
+          "magarna"
+        ],
+        "english": "a stomach"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "koppling": "At the library",
+    "words": [
+      {
+        "word": "en bok",
+        "forms": [
+          "boken",
+          "böcker",
+          "böckerna"
+        ],
+        "english": "a book"
+      },
+      {
+        "word": "läsa",
+        "forms": [
+          "läser",
+          "läste",
+          "läst"
+        ],
+        "english": "to read"
+      },
+      {
+        "word": "tyst",
+        "forms": [
+          "tyst",
+          "tysta",
+          "tystare"
+        ],
+        "english": "quiet"
+      },
+      {
+        "word": "en stol",
+        "forms": [
+          "stolen",
+          "stolar",
+          "stolarna"
+        ],
+        "english": "a chair"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "koppling": "At the wedding",
+    "words": [
+      {
+        "word": "en brud",
+        "forms": [
+          "bruden",
+          "brudar",
+          "brudarna"
+        ],
+        "english": "a bride"
+      },
+      {
+        "word": "en ring",
+        "forms": [
+          "ringen",
+          "ringar",
+          "ringarna"
+        ],
+        "english": "a ring"
+      },
+      {
+        "word": "gifta sig",
+        "forms": [
+          "gifter sig",
+          "gifte sig",
+          "gift sig"
+        ],
+        "english": "to marry"
+      },
+      {
+        "word": "vit",
+        "forms": [
+          "vitt",
+          "vita",
+          "vitare"
+        ],
+        "english": "white"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "koppling": "At the zoo",
+    "words": [
+      {
+        "word": "en apa",
+        "forms": [
+          "apan",
+          "apor",
+          "aporna"
+        ],
+        "english": "a monkey"
+      },
+      {
+        "word": "ett lejon",
+        "forms": [
+          "lejonet",
+          "lejon",
+          "lejonen"
+        ],
+        "english": "a lion"
+      },
+      {
+        "word": "titta",
+        "forms": [
+          "tittar",
+          "tittade",
+          "tittat"
+        ],
+        "english": "to look"
+      },
+      {
+        "word": "högljudd",
+        "forms": [
+          "högljutt",
+          "högljudda",
+          "mer högljudd"
+        ],
+        "english": "loud"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "koppling": "At the hospital room",
+    "words": [
+      {
+        "word": "en patient",
+        "forms": [
+          "patienten",
+          "patienter",
+          "patienterna"
+        ],
+        "english": "a patient"
+      },
+      {
+        "word": "sova",
+        "forms": [
+          "sover",
+          "sov",
+          "sovit"
+        ],
+        "english": "to sleep"
+      },
+      {
+        "word": "svag",
+        "forms": [
+          "svagt",
+          "svaga",
+          "svagare"
+        ],
+        "english": "weak"
+      },
+      {
+        "word": "ett dropp",
+        "forms": [
+          "droppet",
+          "dropp",
+          "droppen"
+        ],
+        "english": "an IV drip"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "koppling": "In the classroom",
+    "words": [
+      {
+        "word": "en tavla",
+        "forms": [
+          "tavlan",
+          "tavlor",
+          "tavlorna"
+        ],
+        "english": "a board"
+      },
+      {
+        "word": "skriva",
+        "forms": [
+          "skriver",
+          "skrev",
+          "skrivit"
+        ],
+        "english": "to write"
+      },
+      {
+        "word": "räcka upp",
+        "forms": [
+          "räcker upp",
+          "räckte upp",
+          "räckt upp"
+        ],
+        "english": "to raise (hand)"
+      },
+      {
+        "word": "en elev",
+        "forms": [
+          "eleven",
+          "elever",
+          "eleverna"
+        ],
+        "english": "a pupil"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "koppling": "At the party",
+    "words": [
+      {
+        "word": "dansa",
+        "forms": [
+          "dansar",
+          "dansade",
+          "dansat"
+        ],
+        "english": "to dance"
+      },
+      {
+        "word": "musik",
+        "forms": [
+          "musiken",
+          "musiker",
+          "musikerna"
+        ],
+        "english": "music"
+      },
+      {
+        "word": "glad",
+        "forms": [
+          "glatt",
+          "glada",
+          "gladare"
+        ],
+        "english": "happy"
+      },
+      {
+        "word": "ett glas",
+        "forms": [
+          "glaset",
+          "glas",
+          "glasen"
+        ],
+        "english": "a glass"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "koppling": "In the countryside",
+    "words": [
+      {
+        "word": "en äng",
+        "forms": [
+          "ängen",
+          "ängar",
+          "ängarna"
+        ],
+        "english": "a meadow"
+      },
+      {
+        "word": "ett hus",
+        "forms": [
+          "huset",
+          "hus",
+          "husen"
+        ],
+        "english": "a house"
+      },
+      {
+        "word": "tyst",
+        "forms": [
+          "tyst",
+          "tysta",
+          "tystare"
+        ],
+        "english": "quiet"
+      },
+      {
+        "word": "en ko",
+        "forms": [
+          "kon",
+          "kor",
+          "korna"
+        ],
+        "english": "a cow"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "koppling": "In the night",
+    "words": [
+      {
+        "word": "mörk",
+        "forms": [
+          "mörkt",
+          "mörka",
+          "mörkare"
+        ],
+        "english": "dark"
+      },
+      {
+        "word": "sova",
+        "forms": [
+          "sover",
+          "sov",
+          "sovit"
+        ],
+        "english": "to sleep"
+      },
+      {
+        "word": "en måne",
+        "forms": [
+          "månen",
+          "månar",
+          "månarna"
+        ],
+        "english": "a moon"
+      },
+      {
+        "word": "tyst",
+        "forms": [
+          "tyst",
+          "tysta",
+          "tystare"
+        ],
+        "english": "silent"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "koppling": "At the bakery",
+    "words": [
+      {
+        "word": "ett bröd",
+        "forms": [
+          "brödet",
+          "bröd",
+          "bröden"
+        ],
+        "english": "a bread"
+      },
+      {
+        "word": "baka",
+        "forms": [
+          "bakar",
+          "bakade",
+          "bakat"
+        ],
+        "english": "to bake"
+      },
+      {
+        "word": "söt",
+        "forms": [
+          "sött",
+          "söta",
+          "sötare"
+        ],
+        "english": "sweet"
+      },
+      {
+        "word": "en kaka",
+        "forms": [
+          "kakan",
+          "kakor",
+          "kakorna"
+        ],
+        "english": "a cake"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "koppling": "At the concert",
+    "words": [
+      {
+        "word": "sjunga",
+        "forms": [
+          "sjunger",
+          "sjöng",
+          "sjungit"
+        ],
+        "english": "to sing"
+      },
+      {
+        "word": "en scen",
+        "forms": [
+          "scenen",
+          "scener",
+          "scenerna"
+        ],
+        "english": "a stage"
+      },
+      {
+        "word": "hög",
+        "forms": [
+          "högt",
+          "höga",
+          "högre"
+        ],
+        "english": "loud / high"
+      },
+      {
+        "word": "en publik",
+        "forms": [
+          "publiken",
+          "publiker",
+          "publikerna"
+        ],
+        "english": "an audience"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "koppling": "Noisy moments",
+    "words": [
+      {
+        "word": "skrika",
+        "forms": [
+          "skriker",
+          "skrek",
+          "skrikit"
+        ],
+        "english": "to scream"
+      },
+      {
+        "word": "högljudd",
+        "forms": [
+          "högljutt",
+          "högljudda",
+          "mer högljudd"
+        ],
+        "english": "loud"
+      },
+      {
+        "word": "ett skratt",
+        "forms": [
+          "skrattet",
+          "skratt",
+          "skratten"
+        ],
+        "english": "a laugh"
+      },
+      {
+        "word": "dunka",
+        "forms": [
+          "dunkar",
+          "dunkade",
+          "dunkat"
+        ],
+        "english": "to thump"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "koppling": "Hot things",
+    "words": [
+      {
+        "word": "en eld",
+        "forms": [
+          "elden",
+          "eldar",
+          "eldarna"
+        ],
+        "english": "a fire"
+      },
+      {
+        "word": "bränna",
+        "forms": [
+          "bränner",
+          "brände",
+          "bränt"
+        ],
+        "english": "to burn"
+      },
+      {
+        "word": "het",
+        "forms": [
+          "hett",
+          "heta",
+          "hetare"
+        ],
+        "english": "hot"
+      },
+      {
+        "word": "en sol",
+        "forms": [
+          "solen",
+          "solar",
+          "solarna"
+        ],
+        "english": "a sun"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "koppling": "Round shapes",
+    "words": [
+      {
+        "word": "en cirkel",
+        "forms": [
+          "cirkeln",
+          "cirklar",
+          "cirklarna"
+        ],
+        "english": "a circle"
+      },
+      {
+        "word": "ett hjul",
+        "forms": [
+          "hjulet",
+          "hjul",
+          "hjulen"
+        ],
+        "english": "a wheel"
+      },
+      {
+        "word": "rund",
+        "forms": [
+          "runt",
+          "runda",
+          "rundare"
+        ],
+        "english": "round"
+      },
+      {
+        "word": "en boll",
+        "forms": [
+          "bollen",
+          "bollar",
+          "bollarna"
+        ],
+        "english": "a ball"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "koppling": "Sleepy times",
+    "words": [
+      {
+        "word": "gäspa",
+        "forms": [
+          "gäspar",
+          "gäspade",
+          "gäspat"
+        ],
+        "english": "to yawn"
+      },
+      {
+        "word": "en kudde",
+        "forms": [
+          "kudden",
+          "kuddar",
+          "kuddarna"
+        ],
+        "english": "a pillow"
+      },
+      {
+        "word": "trött",
+        "forms": [
+          "trött",
+          "trötta",
+          "tröttare"
+        ],
+        "english": "tired"
+      },
+      {
+        "word": "sova",
+        "forms": [
+          "sover",
+          "sov",
+          "sovit"
+        ],
+        "english": "to sleep"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "koppling": "Things that grow",
+    "words": [
+      {
+        "word": "växa",
+        "forms": [
+          "växer",
+          "växte",
+          "vuxit"
+        ],
+        "english": "to grow"
+      },
+      {
+        "word": "en blomma",
+        "forms": [
+          "blomman",
+          "blommor",
+          "blommorna"
+        ],
+        "english": "a flower"
+      },
+      {
+        "word": "ett träd",
+        "forms": [
+          "trädet",
+          "träd",
+          "träden"
+        ],
+        "english": "a tree"
+      },
+      {
+        "word": "grön",
+        "forms": [
+          "grönt",
+          "gröna",
+          "grönare"
+        ],
+        "english": "green"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "koppling": "Fast actions",
+    "words": [
+      {
+        "word": "springa",
+        "forms": [
+          "springer",
+          "sprang",
+          "sprungit"
+        ],
+        "english": "to run"
+      },
+      {
+        "word": "snabb",
+        "forms": [
+          "snabbt",
+          "snabba",
+          "snabbare"
+        ],
+        "english": "fast"
+      },
+      {
+        "word": "jaga",
+        "forms": [
+          "jagar",
+          "jagade",
+          "jagat"
+        ],
+        "english": "to chase"
+      },
+      {
+        "word": "ett lopp",
+        "forms": [
+          "loppet",
+          "lopp",
+          "loppen"
+        ],
+        "english": "a race"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "koppling": "Cold things",
+    "words": [
+      {
+        "word": "isig",
+        "forms": [
+          "isigt",
+          "isiga",
+          "mer isig"
+        ],
+        "english": "icy"
+      },
+      {
+        "word": "frysa",
+        "forms": [
+          "fryser",
+          "frös",
+          "frusit"
+        ],
+        "english": "to freeze"
+      },
+      {
+        "word": "snö",
+        "forms": [
+          "snön",
+          "snöar",
+          "snöarna"
+        ],
+        "english": "snow"
+      },
+      {
+        "word": "kall",
+        "forms": [
+          "kallt",
+          "kalla",
+          "kallare"
+        ],
+        "english": "cold"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "koppling": "Sharp things",
+    "words": [
+      {
+        "word": "en kniv",
+        "forms": [
+          "kniven",
+          "knivar",
+          "knivarna"
+        ],
+        "english": "a knife"
+      },
+      {
+        "word": "skära",
+        "forms": [
+          "skär",
+          "skar",
+          "skurit"
+        ],
+        "english": "to cut"
+      },
+      {
+        "word": "spetsig",
+        "forms": [
+          "spetsigt",
+          "spetsiga",
+          "mer spetsig"
+        ],
+        "english": "pointed"
+      },
+      {
+        "word": "ett svärd",
+        "forms": [
+          "svärdet",
+          "svärd",
+          "svärden"
+        ],
+        "english": "a sword"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "koppling": "Things with wheels",
+    "words": [
+      {
+        "word": "en cykel",
+        "forms": [
+          "cykeln",
+          "cyklar",
+          "cyklarna"
+        ],
+        "english": "a bicycle"
+      },
+      {
+        "word": "köra",
+        "forms": [
+          "kör",
+          "körde",
+          "kört"
+        ],
+        "english": "to drive"
+      },
+      {
+        "word": "en vagn",
+        "forms": [
+          "vagnen",
+          "vagnar",
+          "vagnarna"
+        ],
+        "english": "a cart"
+      },
+      {
+        "word": "rulla",
+        "forms": [
+          "rullar",
+          "rullade",
+          "rullat"
+        ],
+        "english": "to roll"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "koppling": "Quiet things",
+    "words": [
+      {
+        "word": "tyst",
+        "forms": [
+          "tyst",
+          "tysta",
+          "tystare"
+        ],
+        "english": "quiet"
+      },
+      {
+        "word": "en bok",
+        "forms": [
+          "boken",
+          "böcker",
+          "böckerna"
+        ],
+        "english": "a book"
+      },
+      {
+        "word": "sitta",
+        "forms": [
+          "sitter",
+          "satt",
+          "suttit"
+        ],
+        "english": "to sit"
+      },
+      {
+        "word": "stilla",
+        "forms": [
+          "stilla",
+          "stilla",
+          "stillare"
+        ],
+        "english": "still"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "koppling": "Heavy things",
+    "words": [
+      {
+        "word": "tung",
+        "forms": [
+          "tungt",
+          "tunga",
+          "tyngre"
+        ],
+        "english": "heavy"
+      },
+      {
+        "word": "bära",
+        "forms": [
+          "bär",
+          "bar",
+          "burit"
+        ],
+        "english": "to carry"
+      },
+      {
+        "word": "en sten",
+        "forms": [
+          "stenen",
+          "stenar",
+          "stenarna"
+        ],
+        "english": "a stone"
+      },
+      {
+        "word": "lyfta",
+        "forms": [
+          "lyfter",
+          "lyfte",
+          "lyft"
+        ],
+        "english": "to lift"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "koppling": "Bright things",
+    "words": [
+      {
+        "word": "ett ljus",
+        "forms": [
+          "ljuset",
+          "ljus",
+          "ljusen"
+        ],
+        "english": "a light"
+      },
+      {
+        "word": "klar",
+        "forms": [
+          "klart",
+          "klara",
+          "klarare"
+        ],
+        "english": "bright / clear"
+      },
+      {
+        "word": "blinka",
+        "forms": [
+          "blinkar",
+          "blinkade",
+          "blinkat"
+        ],
+        "english": "to blink"
+      },
+      {
+        "word": "en stjärna",
+        "forms": [
+          "stjärnan",
+          "stjärnor",
+          "stjärnorna"
+        ],
+        "english": "a star"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "koppling": "Sweet things",
+    "words": [
+      {
+        "word": "söt",
+        "forms": [
+          "sött",
+          "söta",
+          "sötare"
+        ],
+        "english": "sweet"
+      },
+      {
+        "word": "en kaka",
+        "forms": [
+          "kakan",
+          "kakor",
+          "kakorna"
+        ],
+        "english": "a cookie"
+      },
+      {
+        "word": "ett godis",
+        "forms": [
+          "godiset",
+          "godis",
+          "godisen"
+        ],
+        "english": "a candy"
+      },
+      {
+        "word": "en glass",
+        "forms": [
+          "glassen",
+          "glassar",
+          "glassarna"
+        ],
+        "english": "an ice cream"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "koppling": "Things that open",
+    "words": [
+      {
+        "word": "öppna",
+        "forms": [
+          "öppnar",
+          "öppnade",
+          "öppnat"
+        ],
+        "english": "to open"
+      },
+      {
+        "word": "en dörr",
+        "forms": [
+          "dörren",
+          "dörrar",
+          "dörrarna"
+        ],
+        "english": "a door"
+      },
+      {
+        "word": "en bok",
+        "forms": [
+          "boken",
+          "böcker",
+          "böckerna"
+        ],
+        "english": "a book"
+      },
+      {
+        "word": "ett fönster",
+        "forms": [
+          "fönstret",
+          "fönster",
+          "fönstren"
+        ],
+        "english": "a window"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "koppling": "Flying things",
+    "words": [
+      {
+        "word": "flyga",
+        "forms": [
+          "flyger",
+          "flög",
+          "flugit"
+        ],
+        "english": "to fly"
+      },
+      {
+        "word": "en fågel",
+        "forms": [
+          "fågeln",
+          "fåglar",
+          "fåglarna"
+        ],
+        "english": "a bird"
+      },
+      {
+        "word": "ett flygplan",
+        "forms": [
+          "flygplanet",
+          "flygplan",
+          "flygplanen"
+        ],
+        "english": "an airplane"
+      },
+      {
+        "word": "lätt",
+        "forms": [
+          "lätt",
+          "lätta",
+          "lättare"
+        ],
+        "english": "light (not heavy)"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "koppling": "Noisy places",
+    "words": [
+      {
+        "word": "ropa",
+        "forms": [
+          "ropar",
+          "ropade",
+          "ropat"
+        ],
+        "english": "to shout"
+      },
+      {
+        "word": "en marknad",
+        "forms": [
+          "marknaden",
+          "marknader",
+          "marknaderna"
+        ],
+        "english": "a market"
+      },
+      {
+        "word": "livlig",
+        "forms": [
+          "livligt",
+          "livliga",
+          "mer livlig"
+        ],
+        "english": "lively"
+      },
+      {
+        "word": "en publik",
+        "forms": [
+          "publiken",
+          "publiker",
+          "publikerna"
+        ],
+        "english": "an audience"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "koppling": "Dark things",
+    "words": [
+      {
+        "word": "mörk",
+        "forms": [
+          "mörkt",
+          "mörka",
+          "mörkare"
+        ],
+        "english": "dark"
+      },
+      {
+        "word": "en natt",
+        "forms": [
+          "natten",
+          "nätter",
+          "nätterna"
+        ],
+        "english": "a night"
+      },
+      {
+        "word": "en skugga",
+        "forms": [
+          "skuggan",
+          "skuggor",
+          "skuggorna"
+        ],
+        "english": "a shadow"
+      },
+      {
+        "word": "släcka",
+        "forms": [
+          "släcker",
+          "släckte",
+          "släckt"
+        ],
+        "english": "to turn off (a light)"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "koppling": "Things that break",
+    "words": [
+      {
+        "word": "gå sönder",
+        "forms": [
+          "går sönder",
+          "gick sönder",
+          "gått sönder"
+        ],
+        "english": "to break"
+      },
+      {
+        "word": "ett glas",
+        "forms": [
+          "glaset",
+          "glas",
+          "glasen"
+        ],
+        "english": "a glass"
+      },
+      {
+        "word": "trasig",
+        "forms": [
+          "trasigt",
+          "trasiga",
+          "mer trasig"
+        ],
+        "english": "broken"
+      },
+      {
+        "word": "en tallrik",
+        "forms": [
+          "tallriken",
+          "tallrikar",
+          "tallrikarna"
+        ],
+        "english": "a plate"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "koppling": "Things with keys",
+    "words": [
+      {
+        "word": "en nyckel",
+        "forms": [
+          "nyckeln",
+          "nycklar",
+          "nycklarna"
+        ],
+        "english": "a key"
+      },
+      {
+        "word": "låsa",
+        "forms": [
+          "låser",
+          "låsde",
+          "låst"
+        ],
+        "english": "to lock"
+      },
+      {
+        "word": "ett piano",
+        "forms": [
+          "pianot",
+          "pianon",
+          "pianona"
+        ],
+        "english": "a piano"
+      },
+      {
+        "word": "öppna",
+        "forms": [
+          "öppnar",
+          "öppnade",
+          "öppnat"
+        ],
+        "english": "to open"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "koppling": "Things that shine",
+    "words": [
+      {
+        "word": "skina",
+        "forms": [
+          "skiner",
+          "sken",
+          "skinit"
+        ],
+        "english": "to shine"
+      },
+      {
+        "word": "en stjärna",
+        "forms": [
+          "stjärnan",
+          "stjärnor",
+          "stjärnorna"
+        ],
+        "english": "a star"
+      },
+      {
+        "word": "ett ljus",
+        "forms": [
+          "ljuset",
+          "ljus",
+          "ljusen"
+        ],
+        "english": "a light"
+      },
+      {
+        "word": "glänsande",
+        "forms": [
+          "glänsande",
+          "glänsande",
+          "mest glänsande"
+        ],
+        "english": "shiny"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "koppling": "Quick actions",
+    "words": [
+      {
+        "word": "springa",
+        "forms": [
+          "springer",
+          "sprang",
+          "sprungit"
+        ],
+        "english": "to run"
+      },
+      {
+        "word": "snabb",
+        "forms": [
+          "snabbt",
+          "snabba",
+          "snabbare"
+        ],
+        "english": "fast"
+      },
+      {
+        "word": "blinka",
+        "forms": [
+          "blinkar",
+          "blinkade",
+          "blinkat"
+        ],
+        "english": "to blink"
+      },
+      {
+        "word": "rusa",
+        "forms": [
+          "rusar",
+          "rusade",
+          "rusat"
+        ],
+        "english": "to rush"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "koppling": "Things to wear",
+    "words": [
+      {
+        "word": "en jacka",
+        "forms": [
+          "jackan",
+          "jackor",
+          "jackorna"
+        ],
+        "english": "a jacket"
+      },
+      {
+        "word": "ett par skor",
+        "forms": [
+          "skorna",
+          "skor",
+          "skorna"
+        ],
+        "english": "a pair of shoes"
+      },
+      {
+        "word": "klä på sig",
+        "forms": [
+          "klär på sig",
+          "klädde på sig",
+          "klätt på sig"
+        ],
+        "english": "to get dressed"
+      },
+      {
+        "word": "varm",
+        "forms": [
+          "varmt",
+          "varma",
+          "varmare"
+        ],
+        "english": "warm"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "koppling": "Things with water",
+    "words": [
+      {
+        "word": "simma",
+        "forms": [
+          "simmar",
+          "simmade",
+          "simmat"
+        ],
+        "english": "to swim"
+      },
+      {
+        "word": "ett hav",
+        "forms": [
+          "havet",
+          "hav",
+          "haven"
+        ],
+        "english": "a sea"
+      },
+      {
+        "word": "en sjö",
+        "forms": [
+          "sjön",
+          "sjöar",
+          "sjöarna"
+        ],
+        "english": "a lake"
+      },
+      {
+        "word": "blöt",
+        "forms": [
+          "blött",
+          "blöta",
+          "blötare"
+        ],
+        "english": "wet"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "koppling": "Things that hurt",
+    "words": [
+      {
+        "word": "ont",
+        "forms": [
+          "ont",
+          "onda",
+          "värre ont"
+        ],
+        "english": "pain"
+      },
+      {
+        "word": "slå",
+        "forms": [
+          "slår",
+          "slog",
+          "slagit"
+        ],
+        "english": "to hit"
+      },
+      {
+        "word": "en tagg",
+        "forms": [
+          "taggen",
+          "taggar",
+          "taggarna"
+        ],
+        "english": "a thorn"
+      },
+      {
+        "word": "skada",
+        "forms": [
+          "skadar",
+          "skadade",
+          "skadat"
+        ],
+        "english": "to injure"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "koppling": "Sweet taste",
+    "words": [
+      {
+        "word": "söt",
+        "forms": [
+          "sött",
+          "söta",
+          "sötare"
+        ],
+        "english": "sweet"
+      },
+      {
+        "word": "en kaka",
+        "forms": [
+          "kakan",
+          "kakor",
+          "kakorna"
+        ],
+        "english": "a cookie"
+      },
+      {
+        "word": "en honung",
+        "forms": [
+          "honungen",
+          "honungar",
+          "honungarna"
+        ],
+        "english": "a honey"
+      },
+      {
+        "word": "ett godis",
+        "forms": [
+          "godiset",
+          "godis",
+          "godisen"
+        ],
+        "english": "a candy"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "koppling": "Opening and closing",
+    "words": [
+      {
+        "word": "öppna",
+        "forms": [
+          "öppnar",
+          "öppnade",
+          "öppnat"
+        ],
+        "english": "to open"
+      },
+      {
+        "word": "stänga",
+        "forms": [
+          "stänger",
+          "stängde",
+          "stängt"
+        ],
+        "english": "to close"
+      },
+      {
+        "word": "en dörr",
+        "forms": [
+          "dörren",
+          "dörrar",
+          "dörrarna"
+        ],
+        "english": "a door"
+      },
+      {
+        "word": "ett fönster",
+        "forms": [
+          "fönstret",
+          "fönster",
+          "fönstren"
+        ],
+        "english": "a window"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "koppling": "Up in the air",
+    "words": [
+      {
+        "word": "flyga",
+        "forms": [
+          "flyger",
+          "flög",
+          "flugit"
+        ],
+        "english": "to fly"
+      },
+      {
+        "word": "en fågel",
+        "forms": [
+          "fågeln",
+          "fåglar",
+          "fåglarna"
+        ],
+        "english": "a bird"
+      },
+      {
+        "word": "ett moln",
+        "forms": [
+          "molnet",
+          "moln",
+          "molnen"
+        ],
+        "english": "a cloud"
+      },
+      {
+        "word": "ett flygplan",
+        "forms": [
+          "flygplanet",
+          "flygplan",
+          "flygplanen"
+        ],
+        "english": "an airplane"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "koppling": "Crowded moments",
+    "words": [
+      {
+        "word": "trång",
+        "forms": [
+          "trångt",
+          "trånga",
+          "trängre"
+        ],
+        "english": "crowded / narrow"
+      },
+      {
+        "word": "en kö",
+        "forms": [
+          "kön",
+          "köer",
+          "köerna"
+        ],
+        "english": "a queue"
+      },
+      {
+        "word": "trycka",
+        "forms": [
+          "trycker",
+          "tryckte",
+          "tryckt"
+        ],
+        "english": "to push"
+      },
+      {
+        "word": "en folkmassa",
+        "forms": [
+          "folkmassan",
+          "folkmassor",
+          "folkmassorna"
+        ],
+        "english": "a crowd"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "koppling": "Shadows and darkness",
+    "words": [
+      {
+        "word": "mörk",
+        "forms": [
+          "mörkt",
+          "mörka",
+          "mörkare"
+        ],
+        "english": "dark"
+      },
+      {
+        "word": "en skugga",
+        "forms": [
+          "skuggan",
+          "skuggor",
+          "skuggorna"
+        ],
+        "english": "a shadow"
+      },
+      {
+        "word": "en natt",
+        "forms": [
+          "natten",
+          "nätter",
+          "nätterna"
+        ],
+        "english": "a night"
+      },
+      {
+        "word": "släcka",
+        "forms": [
+          "släcker",
+          "släckte",
+          "släckt"
+        ],
+        "english": "to turn off (a light)"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "koppling": "Fragile objects",
+    "words": [
+      {
+        "word": "ett glas",
+        "forms": [
+          "glaset",
+          "glas",
+          "glasen"
+        ],
+        "english": "a glass"
+      },
+      {
+        "word": "en spegel",
+        "forms": [
+          "spegeln",
+          "speglar",
+          "speglarna"
+        ],
+        "english": "a mirror"
+      },
+      {
+        "word": "krossa",
+        "forms": [
+          "krossar",
+          "krossade",
+          "krossat"
+        ],
+        "english": "to smash"
+      },
+      {
+        "word": "bräcklig",
+        "forms": [
+          "bräckligt",
+          "bräckliga",
+          "mer bräcklig"
+        ],
+        "english": "fragile"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "koppling": "Locked away",
+    "words": [
+      {
+        "word": "en nyckel",
+        "forms": [
+          "nyckeln",
+          "nycklar",
+          "nycklarna"
+        ],
+        "english": "a key"
+      },
+      {
+        "word": "låsa",
+        "forms": [
+          "låser",
+          "låsde",
+          "låst"
+        ],
+        "english": "to lock"
+      },
+      {
+        "word": "ett skåp",
+        "forms": [
+          "skåpet",
+          "skåp",
+          "skåpen"
+        ],
+        "english": "a cupboard/locker"
+      },
+      {
+        "word": "hemlig",
+        "forms": [
+          "hemligt",
+          "hemliga",
+          "hemligare"
+        ],
+        "english": "secret"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "koppling": "Shiny surfaces",
+    "words": [
+      {
+        "word": "glänsa",
+        "forms": [
+          "glänser",
+          "glänste",
+          "glänst"
+        ],
+        "english": "to shine"
+      },
+      {
+        "word": "en metall",
+        "forms": [
+          "metallen",
+          "metaller",
+          "metallerna"
+        ],
+        "english": "a metal"
+      },
+      {
+        "word": "blanka",
+        "forms": [
+          "blanka",
+          "blanka",
+          "blankare"
+        ],
+        "english": "glossy"
+      },
+      {
+        "word": "ett smycke",
+        "forms": [
+          "smycket",
+          "smycken",
+          "smyckena"
+        ],
+        "english": "a jewel"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "koppling": "Sudden speed",
+    "words": [
+      {
+        "word": "rusa",
+        "forms": [
+          "rusar",
+          "rusade",
+          "rusat"
+        ],
+        "english": "to rush"
+      },
+      {
+        "word": "snabb",
+        "forms": [
+          "snabbt",
+          "snabba",
+          "snabbare"
+        ],
+        "english": "fast"
+      },
+      {
+        "word": "en blixt",
+        "forms": [
+          "blixten",
+          "blixtar",
+          "blixtarna"
+        ],
+        "english": "a lightning"
+      },
+      {
+        "word": "skynda",
+        "forms": [
+          "skyndar",
+          "skyndade",
+          "skyndat"
+        ],
+        "english": "to hurry"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "koppling": "Clothes and warmth",
+    "words": [
+      {
+        "word": "en jacka",
+        "forms": [
+          "jackan",
+          "jackor",
+          "jackorna"
+        ],
+        "english": "a jacket"
+      },
+      {
+        "word": "ett par handskar",
+        "forms": [
+          "handskarna",
+          "handskar",
+          "handskarna"
+        ],
+        "english": "a pair of gloves"
+      },
+      {
+        "word": "ta på sig",
+        "forms": [
+          "tar på sig",
+          "tog på sig",
+          "tagit på sig"
+        ],
+        "english": "to put on"
+      },
+      {
+        "word": "varm",
+        "forms": [
+          "varmt",
+          "varma",
+          "varmare"
+        ],
+        "english": "warm"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "koppling": "Water everywhere",
+    "words": [
+      {
+        "word": "simma",
+        "forms": [
+          "simmar",
+          "simmade",
+          "simmat"
+        ],
+        "english": "to swim"
+      },
+      {
+        "word": "en sjö",
+        "forms": [
+          "sjön",
+          "sjöar",
+          "sjöarna"
+        ],
+        "english": "a lake"
+      },
+      {
+        "word": "ett regn",
+        "forms": [
+          "regnet",
+          "regn",
+          "regnen"
+        ],
+        "english": "a rain"
+      },
+      {
+        "word": "blöt",
+        "forms": [
+          "blött",
+          "blöta",
+          "blötare"
+        ],
+        "english": "wet"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "koppling": "Painful encounters",
+    "words": [
+      {
+        "word": "slå",
+        "forms": [
+          "slår",
+          "slog",
+          "slagit"
+        ],
+        "english": "to hit"
+      },
+      {
+        "word": "en tagg",
+        "forms": [
+          "taggen",
+          "taggar",
+          "taggarna"
+        ],
+        "english": "a thorn"
+      },
+      {
+        "word": "ont",
+        "forms": [
+          "ont",
+          "onda",
+          "värre ont"
+        ],
+        "english": "pain"
+      },
+      {
+        "word": "skada",
+        "forms": [
+          "skadar",
+          "skadade",
+          "skadat"
+        ],
+        "english": "to injure"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "koppling": "Sweet and bitter",
+    "words": [
+      {
+        "word": "söt",
+        "forms": [
+          "sött",
+          "söta",
+          "sötare"
+        ],
+        "english": "sweet"
+      },
+      {
+        "word": "bitter",
+        "forms": [
+          "bittert",
+          "bittra",
+          "mer bitter"
+        ],
+        "english": "bitter"
+      },
+      {
+        "word": "en choklad",
+        "forms": [
+          "chokladen",
+          "choklader",
+          "chokladerna"
+        ],
+        "english": "a chocolate"
+      },
+      {
+        "word": "en citron",
+        "forms": [
+          "citronen",
+          "citroner",
+          "citronerna"
+        ],
+        "english": "a lemon"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "koppling": "Heavy work",
+    "words": [
+      {
+        "word": "bära",
+        "forms": [
+          "bär",
+          "bar",
+          "burit"
+        ],
+        "english": "to carry"
+      },
+      {
+        "word": "lyfta",
+        "forms": [
+          "lyfter",
+          "lyfte",
+          "lyft"
+        ],
+        "english": "to lift"
+      },
+      {
+        "word": "tung",
+        "forms": [
+          "tungt",
+          "tunga",
+          "tyngre"
+        ],
+        "english": "heavy"
+      },
+      {
+        "word": "en säck",
+        "forms": [
+          "säcken",
+          "säckar",
+          "säckarna"
+        ],
+        "english": "a sack"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "koppling": "Silent morning",
+    "words": [
+      {
+        "word": "en dimma",
+        "forms": [
+          "dimman",
+          "dimmor",
+          "dimmorna"
+        ],
+        "english": "a fog"
+      },
+      {
+        "word": "tyst",
+        "forms": [
+          "tyst",
+          "tysta",
+          "tystare"
+        ],
+        "english": "quiet"
+      },
+      {
+        "word": "sakta",
+        "forms": [
+          "sakta",
+          "sakta",
+          "saktare"
+        ],
+        "english": "slowly"
+      },
+      {
+        "word": "gryning",
+        "forms": [
+          "gryningen",
+          "gryningar",
+          "gryningarna"
+        ],
+        "english": "dawn"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "koppling": "Quick reactions",
+    "words": [
+      {
+        "word": "hoppa",
+        "forms": [
+          "hoppar",
+          "hoppade",
+          "hoppat"
+        ],
+        "english": "to jump"
+      },
+      {
+        "word": "ducka",
+        "forms": [
+          "duckar",
+          "duckade",
+          "dukat"
+        ],
+        "english": "to duck"
+      },
+      {
+        "word": "snabb",
+        "forms": [
+          "snabbt",
+          "snabba",
+          "snabbare"
+        ],
+        "english": "fast"
+      },
+      {
+        "word": "rycka",
+        "forms": [
+          "rycker",
+          "ryckte",
+          "ryckt"
+        ],
+        "english": "to jerk / yank"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "koppling": "Old memories",
+    "words": [
+      {
+        "word": "ett foto",
+        "forms": [
+          "fotot",
+          "foton",
+          "fotona"
+        ],
+        "english": "a photo"
+      },
+      {
+        "word": "ett minne",
+        "forms": [
+          "minnet",
+          "minnen",
+          "minnena"
+        ],
+        "english": "a memory"
+      },
+      {
+        "word": "glömma",
+        "forms": [
+          "glömmer",
+          "glömde",
+          "glömt"
+        ],
+        "english": "to forget"
+      },
+      {
+        "word": "gammal",
+        "forms": [
+          "gammalt",
+          "gamla",
+          "äldre"
+        ],
+        "english": "old"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "koppling": "Sharp edges",
+    "words": [
+      {
+        "word": "en kniv",
+        "forms": [
+          "kniven",
+          "knivar",
+          "knivarna"
+        ],
+        "english": "a knife"
+      },
+      {
+        "word": "vass",
+        "forms": [
+          "vasst",
+          "vassa",
+          "vassare"
+        ],
+        "english": "sharp"
+      },
+      {
+        "word": "skära",
+        "forms": [
+          "skär",
+          "skar",
+          "skurit"
+        ],
+        "english": "to cut"
+      },
+      {
+        "word": "ett rakblad",
+        "forms": [
+          "rakbladet",
+          "rakblad",
+          "rakbladen"
+        ],
+        "english": "a razor blade"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "koppling": "Hidden places",
+    "words": [
+      {
+        "word": "en grotta",
+        "forms": [
+          "grottan",
+          "grottor",
+          "grottorna"
+        ],
+        "english": "a cave"
+      },
+      {
+        "word": "ett gömställe",
+        "forms": [
+          "gömstället",
+          "gömställen",
+          "gömställena"
+        ],
+        "english": "a hiding place"
+      },
+      {
+        "word": "hemlig",
+        "forms": [
+          "hemligt",
+          "hemliga",
+          "hemligare"
+        ],
+        "english": "secret"
+      },
+      {
+        "word": "gömma",
+        "forms": [
+          "gömmer",
+          "gömde",
+          "gömt"
+        ],
+        "english": "to hide"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "koppling": "Frozen world",
+    "words": [
+      {
+        "word": "isig",
+        "forms": [
+          "isigt",
+          "isiga",
+          "mer isig"
+        ],
+        "english": "icy"
+      },
+      {
+        "word": "snö",
+        "forms": [
+          "snön",
+          "snöar",
+          "snöarna"
+        ],
+        "english": "snow"
+      },
+      {
+        "word": "frysa",
+        "forms": [
+          "fryser",
+          "frös",
+          "frusit"
+        ],
+        "english": "to freeze"
+      },
+      {
+        "word": "en is",
+        "forms": [
+          "isen",
+          "isar",
+          "isarna"
+        ],
+        "english": "ice"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "koppling": "Bright morning",
+    "words": [
+      {
+        "word": "en soluppgång",
+        "forms": [
+          "soluppgången",
+          "soluppgångar",
+          "soluppgångarna"
+        ],
+        "english": "a sunrise"
+      },
+      {
+        "word": "klar",
+        "forms": [
+          "klart",
+          "klara",
+          "klarare"
+        ],
+        "english": "clear / bright"
+      },
+      {
+        "word": "en himmel",
+        "forms": [
+          "himlen",
+          "himlar",
+          "himlarna"
+        ],
+        "english": "a sky"
+      },
+      {
+        "word": "vakna",
+        "forms": [
+          "vaknar",
+          "vaknade",
+          "vaknat"
+        ],
+        "english": "to wake up"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "koppling": "Strong feelings",
+    "words": [
+      {
+        "word": "ilska",
+        "forms": [
+          "ilskan",
+          "ilska",
+          "ilskorna"
+        ],
+        "english": "anger"
+      },
+      {
+        "word": "älska",
+        "forms": [
+          "älskar",
+          "älskade",
+          "älskat"
+        ],
+        "english": "to love"
+      },
+      {
+        "word": "glädje",
+        "forms": [
+          "glädjen",
+          "glädjer",
+          "glädjerna"
+        ],
+        "english": "joy"
+      },
+      {
+        "word": "sorg",
+        "forms": [
+          "sorgen",
+          "sorger",
+          "sorgerna"
+        ],
+        "english": "sorrow"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "koppling": "Metal and stone",
+    "words": [
+      {
+        "word": "järn",
+        "forms": [
+          "järnet",
+          "järn",
+          "järnen"
+        ],
+        "english": "iron"
+      },
+      {
+        "word": "en sten",
+        "forms": [
+          "stenen",
+          "stenar",
+          "stenarna"
+        ],
+        "english": "a stone"
+      },
+      {
+        "word": "hård",
+        "forms": [
+          "hårt",
+          "hårda",
+          "hårdare"
+        ],
+        "english": "hard"
+      },
+      {
+        "word": "en hammare",
+        "forms": [
+          "hammaren",
+          "hammare",
+          "hammarna"
+        ],
+        "english": "a hammer"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "koppling": "Light footsteps",
+    "words": [
+      {
+        "word": "smiga",
+        "forms": [
+          "smiger",
+          "smög",
+          "smugit"
+        ],
+        "english": "to sneak"
+      },
+      {
+        "word": "ett steg",
+        "forms": [
+          "steget",
+          "steg",
+          "stegen"
+        ],
+        "english": "a step"
+      },
+      {
+        "word": "tyst",
+        "forms": [
+          "tyst",
+          "tysta",
+          "tystare"
+        ],
+        "english": "silent"
+      },
+      {
+        "word": "lätt",
+        "forms": [
+          "lätt",
+          "lätta",
+          "lättare"
+        ],
+        "english": "light (not heavy)"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "koppling": "Voices in the wind",
+    "words": [
+      {
+        "word": "sus",
+        "forms": [
+          "suset",
+          "sus",
+          "susen"
+        ],
+        "english": "a whispering sound"
+      },
+      {
+        "word": "ropa",
+        "forms": [
+          "ropar",
+          "ropade",
+          "ropat"
+        ],
+        "english": "to shout"
+      },
+      {
+        "word": "vissla",
+        "forms": [
+          "visslar",
+          "visslade",
+          "visslat"
+        ],
+        "english": "to whistle"
+      },
+      {
+        "word": "tala",
+        "forms": [
+          "talar",
+          "talade",
+          "talat"
+        ],
+        "english": "to speak"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "koppling": "Colors of metal",
+    "words": [
+      {
+        "word": "brons",
+        "forms": [
+          "bronsen",
+          "brons",
+          "bronsen"
+        ],
+        "english": "bronze"
+      },
+      {
+        "word": "silver",
+        "forms": [
+          "silvret",
+          "silver",
+          "silvren"
+        ],
+        "english": "silver"
+      },
+      {
+        "word": "guld",
+        "forms": [
+          "guldet",
+          "guld",
+          "gulden"
+        ],
+        "english": "gold"
+      },
+      {
+        "word": "koppar",
+        "forms": [
+          "kopparen",
+          "koppar",
+          "kopparna"
+        ],
+        "english": "copper"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "koppling": "Games of chance",
+    "words": [
+      {
+        "word": "ett kort",
+        "forms": [
+          "kortet",
+          "kort",
+          "korten"
+        ],
+        "english": "a card"
+      },
+      {
+        "word": "en tärning",
+        "forms": [
+          "tärningen",
+          "tärningar",
+          "tärningarna"
+        ],
+        "english": "a dice"
+      },
+      {
+        "word": "spela",
+        "forms": [
+          "spelar",
+          "spelade",
+          "spelat"
+        ],
+        "english": "to play"
+      },
+      {
+        "word": "satsa",
+        "forms": [
+          "satsar",
+          "satsade",
+          "satsat"
+        ],
+        "english": "to bet"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "koppling": "Tastes of the sea",
+    "words": [
+      {
+        "word": "en fisk",
+        "forms": [
+          "fisken",
+          "fiskar",
+          "fiskarna"
+        ],
+        "english": "a fish"
+      },
+      {
+        "word": "salt",
+        "forms": [
+          "saltet",
+          "salta",
+          "salterna"
+        ],
+        "english": "salt"
+      },
+      {
+        "word": "en tång",
+        "forms": [
+          "tången",
+          "tångar",
+          "tångarna"
+        ],
+        "english": "seaweed"
+      },
+      {
+        "word": "en räka",
+        "forms": [
+          "räkan",
+          "räkor",
+          "räkorna"
+        ],
+        "english": "a shrimp"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "koppling": "Running out of time",
+    "words": [
+      {
+        "word": "slut",
+        "forms": [
+          "slutet",
+          "slut",
+          "sluten"
+        ],
+        "english": "end"
+      },
+      {
+        "word": "bråttom",
+        "forms": [
+          "bråttom",
+          "bråttom",
+          "mer bråttom"
+        ],
+        "english": "in a hurry"
+      },
+      {
+        "word": "klocka",
+        "forms": [
+          "klockan",
+          "klockor",
+          "klockorna"
+        ],
+        "english": "a clock"
+      },
+      {
+        "word": "försena",
+        "forms": [
+          "försenar",
+          "försenade",
+          "försenat"
+        ],
+        "english": "to delay"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "koppling": "Upside down",
+    "words": [
+      {
+        "word": "vända",
+        "forms": [
+          "vänder",
+          "vände",
+          "vänt"
+        ],
+        "english": "to turn"
+      },
+      {
+        "word": "baklänges",
+        "forms": [
+          "baklänges",
+          "baklänges",
+          "mest baklänges"
+        ],
+        "english": "backwards"
+      },
+      {
+        "word": "upp och ner",
+        "forms": [
+          "upp och ner",
+          "upp och ner",
+          "upp och ner"
+        ],
+        "english": "upside down"
+      },
+      {
+        "word": "snurra",
+        "forms": [
+          "snurrar",
+          "snurrade",
+          "snurrat"
+        ],
+        "english": "to spin"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "koppling": "Made of glass",
+    "words": [
+      {
+        "word": "ett glas",
+        "forms": [
+          "glaset",
+          "glas",
+          "glasen"
+        ],
+        "english": "a glass"
+      },
+      {
+        "word": "en flaska",
+        "forms": [
+          "flaskan",
+          "flaskor",
+          "flaskorna"
+        ],
+        "english": "a bottle"
+      },
+      {
+        "word": "en spegel",
+        "forms": [
+          "spegeln",
+          "speglar",
+          "speglarna"
+        ],
+        "english": "a mirror"
+      },
+      {
+        "word": "kupa",
+        "forms": [
+          "kupan",
+          "kuvor",
+          "kuvorna"
+        ],
+        "english": "a dome"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "koppling": "Words of fear",
+    "words": [
+      {
+        "word": "rädsla",
+        "forms": [
+          "rädslan",
+          "rädslor",
+          "rädslorna"
+        ],
+        "english": "fear"
+      },
+      {
+        "word": "skräck",
+        "forms": [
+          "skräcken",
+          "skräck",
+          "skräcken"
+        ],
+        "english": "horror"
+      },
+      {
+        "word": "rädd",
+        "forms": [
+          "rädd",
+          "rädda",
+          "räddare"
+        ],
+        "english": "afraid"
+      },
+      {
+        "word": "darra",
+        "forms": [
+          "darrar",
+          "darrade",
+          "darrat"
+        ],
+        "english": "to tremble"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "koppling": "Breaking the silence",
+    "words": [
+      {
+        "word": "sjunga",
+        "forms": [
+          "sjunger",
+          "sjöng",
+          "sjungit"
+        ],
+        "english": "to sing"
+      },
+      {
+        "word": "en applåd",
+        "forms": [
+          "applåden",
+          "applåder",
+          "applåderna"
+        ],
+        "english": "an applause"
+      },
+      {
+        "word": "en röst",
+        "forms": [
+          "rösten",
+          "röster",
+          "rösterna"
+        ],
+        "english": "a voice"
+      },
+      {
+        "word": "ljud",
+        "forms": [
+          "ljudet",
+          "ljud",
+          "ljuden"
+        ],
+        "english": "a sound"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "koppling": "On thin ice",
+    "words": [
+      {
+        "word": "hal",
+        "forms": [
+          "halt",
+          "hala",
+          "halare"
+        ],
+        "english": "slippery"
+      },
+      {
+        "word": "is",
+        "forms": [
+          "isen",
+          "isar",
+          "isarna"
+        ],
+        "english": "ice"
+      },
+      {
+        "word": "ramla",
+        "forms": [
+          "ramlar",
+          "ramlade",
+          "ramlat"
+        ],
+        "english": "to fall"
+      },
+      {
+        "word": "försiktig",
+        "forms": [
+          "försiktigt",
+          "försiktiga",
+          "mer försiktig"
+        ],
+        "english": "careful"
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "koppling": "Hidden messages",
+    "words": [
+      {
+        "word": "ett brev",
+        "forms": [
+          "brevet",
+          "brev",
+          "breven"
+        ],
+        "english": "a letter"
+      },
+      {
+        "word": "hemlig",
+        "forms": [
+          "hemligt",
+          "hemliga",
+          "hemligare"
+        ],
+        "english": "secret"
+      },
+      {
+        "word": "koda",
+        "forms": [
+          "kodar",
+          "kodade",
+          "kodat"
+        ],
+        "english": "to encode"
+      },
+      {
+        "word": "ett tecken",
+        "forms": [
+          "tecknet",
+          "tecken",
+          "tecknen"
+        ],
+        "english": "a sign / symbol"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "koppling": "Running in circles",
+    "words": [
+      {
+        "word": "snurra",
+        "forms": [
+          "snurrar",
+          "snurrade",
+          "snurrat"
+        ],
+        "english": "to spin"
+      },
+      {
+        "word": "en cirkel",
+        "forms": [
+          "cirkeln",
+          "cirklar",
+          "cirklarna"
+        ],
+        "english": "a circle"
+      },
+      {
+        "word": "ett hjul",
+        "forms": [
+          "hjulet",
+          "hjul",
+          "hjulen"
+        ],
+        "english": "a wheel"
+      },
+      {
+        "word": "evig",
+        "forms": [
+          "evigt",
+          "eviga",
+          "mer evig"
+        ],
+        "english": "eternal"
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "koppling": "Echoes of stone",
+    "words": [
+      {
+        "word": "en grotta",
+        "forms": [
+          "grottan",
+          "grottor",
+          "grottorna"
+        ],
+        "english": "a cave"
+      },
+      {
+        "word": "ett berg",
+        "forms": [
+          "berget",
+          "berg",
+          "bergen"
+        ],
+        "english": "a mountain"
+      },
+      {
+        "word": "dån",
+        "forms": [
+          "dånet",
+          "dån",
+          "dånen"
+        ],
+        "english": "a roar/rumble"
+      },
+      {
+        "word": "ropa",
+        "forms": [
+          "ropar",
+          "ropade",
+          "ropat"
+        ],
+        "english": "to shout"
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "koppling": "Spilled secrets",
+    "words": [
+      {
+        "word": "viska",
+        "forms": [
+          "viskar",
+          "viskade",
+          "viskat"
+        ],
+        "english": "to whisper"
+      },
+      {
+        "word": "ett brev",
+        "forms": [
+          "brevet",
+          "brev",
+          "breven"
+        ],
+        "english": "a letter"
+      },
+      {
+        "word": "läcka",
+        "forms": [
+          "läcker",
+          "läckte",
+          "läckt"
+        ],
+        "english": "to leak"
+      },
+      {
+        "word": "rykte",
+        "forms": [
+          "ryktet",
+          "rykten",
+          "rykterna"
+        ],
+        "english": "a rumor"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "koppling": "Fading colors",
+    "words": [
+      {
+        "word": "blekna",
+        "forms": [
+          "bleknar",
+          "bleknade",
+          "bleknat"
+        ],
+        "english": "to fade"
+      },
+      {
+        "word": "grå",
+        "forms": [
+          "grått",
+          "gråa",
+          "gråare"
+        ],
+        "english": "gray"
+      },
+      {
+        "word": "ett fotografi",
+        "forms": [
+          "fotografiet",
+          "fotografier",
+          "fotografierna"
+        ],
+        "english": "a photograph"
+      },
+      {
+        "word": "skugga",
+        "forms": [
+          "skuggan",
+          "skuggor",
+          "skuggorna"
+        ],
+        "english": "a shadow"
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "koppling": "Broken promises",
+    "words": [
+      {
+        "word": "lova",
+        "forms": [
+          "lovar",
+          "lovade",
+          "lovat"
+        ],
+        "english": "to promise"
+      },
+      {
+        "word": "bryta",
+        "forms": [
+          "bryter",
+          "bröt",
+          "brutit"
+        ],
+        "english": "to break"
+      },
+      {
+        "word": "förtroende",
+        "forms": [
+          "förtroendet",
+          "förtroenden",
+          "förtroendena"
+        ],
+        "english": "trust"
+      },
+      {
+        "word": "svikare",
+        "forms": [
+          "svikaren",
+          "svikare",
+          "svikarna"
+        ],
+        "english": "traitor"
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "koppling": "Invisible hands",
+    "words": [
+      {
+        "word": "styra",
+        "forms": [
+          "styr",
+          "styrde",
+          "styrt"
+        ],
+        "english": "to control"
+      },
+      {
+        "word": "dra i trådar",
+        "forms": [
+          "drar i trådar",
+          "drog i trådar",
+          "dragit i trådar"
+        ],
+        "english": "to pull strings"
+      },
+      {
+        "word": "en skugga",
+        "forms": [
+          "skuggan",
+          "skuggor",
+          "skuggorna"
+        ],
+        "english": "a shadow"
+      },
+      {
+        "word": "osynlig",
+        "forms": [
+          "osynligt",
+          "osynliga",
+          "mer osynlig"
+        ],
+        "english": "invisible"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "koppling": "Rust and ruin",
+    "words": [
+      {
+        "word": "rost",
+        "forms": [
+          "rosten",
+          "rostar",
+          "rostarna"
+        ],
+        "english": "rust"
+      },
+      {
+        "word": "förfalla",
+        "forms": [
+          "förfaller",
+          "förföll",
+          "förfallit"
+        ],
+        "english": "to decay"
+      },
+      {
+        "word": "gammal",
+        "forms": [
+          "gammalt",
+          "gamla",
+          "äldre"
+        ],
+        "english": "old"
+      },
+      {
+        "word": "en ruin",
+        "forms": [
+          "ruinen",
+          "ruiner",
+          "ruinerna"
+        ],
+        "english": "a ruin"
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "koppling": "Chasing shadows",
+    "words": [
+      {
+        "word": "jaga",
+        "forms": [
+          "jagar",
+          "jagade",
+          "jagat"
+        ],
+        "english": "to chase"
+      },
+      {
+        "word": "springa",
+        "forms": [
+          "springer",
+          "sprang",
+          "sprungit"
+        ],
+        "english": "to run"
+      },
+      {
+        "word": "en skugga",
+        "forms": [
+          "skuggan",
+          "skuggor",
+          "skuggorna"
+        ],
+        "english": "a shadow"
+      },
+      {
+        "word": "försvinna",
+        "forms": [
+          "försvinner",
+          "försvann",
+          "försvunnit"
+        ],
+        "english": "to disappear"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "koppling": "Silent agreements",
+    "words": [
+      {
+        "word": "nicka",
+        "forms": [
+          "nickar",
+          "nickade",
+          "nickat"
+        ],
+        "english": "to nod"
+      },
+      {
+        "word": "ett avtal",
+        "forms": [
+          "avtalet",
+          "avtal",
+          "avtalen"
+        ],
+        "english": "an agreement"
+      },
+      {
+        "word": "hemlig",
+        "forms": [
+          "hemligt",
+          "hemliga",
+          "hemligare"
+        ],
+        "english": "secret"
+      },
+      {
+        "word": "ett tecken",
+        "forms": [
+          "tecknet",
+          "tecken",
+          "tecknen"
+        ],
+        "english": "a sign"
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "koppling": "Dreams in pieces",
+    "words": [
+      {
+        "word": "drömma",
+        "forms": [
+          "drömmer",
+          "drömde",
+          "drömt"
+        ],
+        "english": "to dream"
+      },
+      {
+        "word": "en bit",
+        "forms": [
+          "biten",
+          "bitar",
+          "bitarna"
+        ],
+        "english": "a piece"
+      },
+      {
+        "word": "splittra",
+        "forms": [
+          "splittrar",
+          "splittrade",
+          "splittrat"
+        ],
+        "english": "to shatter"
+      },
+      {
+        "word": "hopp",
+        "forms": [
+          "hoppet",
+          "hopp",
+          "hoppen"
+        ],
+        "english": "hope"
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "koppling": "Voices of the crowd",
+    "words": [
+      {
+        "word": "ropa",
+        "forms": [
+          "ropar",
+          "ropade",
+          "ropat"
+        ],
+        "english": "to shout"
+      },
+      {
+        "word": "jubel",
+        "forms": [
+          "jubelet",
+          "jubel",
+          "jubelen"
+        ],
+        "english": "cheer"
+      },
+      {
+        "word": "en kör",
+        "forms": [
+          "kören",
+          "körer",
+          "körerna"
+        ],
+        "english": "a choir"
+      },
+      {
+        "word": "en folkmassa",
+        "forms": [
+          "folkmassan",
+          "folkmassor",
+          "folkmassorna"
+        ],
+        "english": "a crowd"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "koppling": "Fire and ashes",
+    "words": [
+      {
+        "word": "brinna",
+        "forms": [
+          "brinner",
+          "brann",
+          "brunnit"
+        ],
+        "english": "to burn"
+      },
+      {
+        "word": "en gnista",
+        "forms": [
+          "gnistan",
+          "gnistor",
+          "gnistorna"
+        ],
+        "english": "a spark"
+      },
+      {
+        "word": "aska",
+        "forms": [
+          "askan",
+          "askor",
+          "askorna"
+        ],
+        "english": "ash"
+      },
+      {
+        "word": "rök",
+        "forms": [
+          "röken",
+          "rökar",
+          "rökarna"
+        ],
+        "english": "smoke"
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "koppling": "Lies and masks",
+    "words": [
+      {
+        "word": "ljuga",
+        "forms": [
+          "ljuger",
+          "ljög",
+          "ljugit"
+        ],
+        "english": "to lie"
+      },
+      {
+        "word": "falsk",
+        "forms": [
+          "falskt",
+          "falska",
+          "falskare"
+        ],
+        "english": "false"
+      },
+      {
+        "word": "en mask",
+        "forms": [
+          "masken",
+          "masker",
+          "maskerna"
+        ],
+        "english": "a mask"
+      },
+      {
+        "word": "dölja",
+        "forms": [
+          "döljer",
+          "dolde",
+          "dolt"
+        ],
+        "english": "to conceal"
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "koppling": "Teeth of time",
+    "words": [
+      {
+        "word": "tid",
+        "forms": [
+          "tiden",
+          "tider",
+          "tiderna"
+        ],
+        "english": "time"
+      },
+      {
+        "word": "slita",
+        "forms": [
+          "sliter",
+          "slet",
+          "slitit"
+        ],
+        "english": "to wear down"
+      },
+      {
+        "word": "äta",
+        "forms": [
+          "äter",
+          "åt",
+          "ätit"
+        ],
+        "english": "to eat"
+      },
+      {
+        "word": "ett spår",
+        "forms": [
+          "spåret",
+          "spår",
+          "spåren"
+        ],
+        "english": "a trace"
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "koppling": "Dancing furniture",
+    "words": [
+      {
+        "word": "ett bord",
+        "forms": [
+          "bordet",
+          "bord",
+          "borden"
+        ],
+        "english": "a table"
+      },
+      {
+        "word": "en stol",
+        "forms": [
+          "stolen",
+          "stolar",
+          "stolarna"
+        ],
+        "english": "a chair"
+      },
+      {
+        "word": "snurra",
+        "forms": [
+          "snurrar",
+          "snurrade",
+          "snurrat"
+        ],
+        "english": "to spin"
+      },
+      {
+        "word": "gunga",
+        "forms": [
+          "gungar",
+          "gungade",
+          "gungat"
+        ],
+        "english": "to sway"
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "koppling": "Arguments at breakfast",
+    "words": [
+      {
+        "word": "ett ägg",
+        "forms": [
+          "ägget",
+          "ägg",
+          "äggen"
+        ],
+        "english": "an egg"
+      },
+      {
+        "word": "en brödskiva",
+        "forms": [
+          "brödskivan",
+          "brödskivor",
+          "brödskivorna"
+        ],
+        "english": "a slice of bread"
+      },
+      {
+        "word": "bråka",
+        "forms": [
+          "bråkar",
+          "bråkade",
+          "bråkat"
+        ],
+        "english": "to quarrel"
+      },
+      {
+        "word": "ropa",
+        "forms": [
+          "ropar",
+          "ropade",
+          "ropat"
+        ],
+        "english": "to shout"
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "koppling": "Forgotten machines",
+    "words": [
+      {
+        "word": "en klocka",
+        "forms": [
+          "klockan",
+          "klockor",
+          "klockorna"
+        ],
+        "english": "a clock"
+      },
+      {
+        "word": "en nyckel",
+        "forms": [
+          "nyckeln",
+          "nycklar",
+          "nycklarna"
+        ],
+        "english": "a key"
+      },
+      {
+        "word": "rosta",
+        "forms": [
+          "rostar",
+          "rostade",
+          "rostat"
+        ],
+        "english": "to rust"
+      },
+      {
+        "word": "tystna",
+        "forms": [
+          "tystnar",
+          "tystnade",
+          "tystnat"
+        ],
+        "english": "to fall silent"
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "koppling": "Library of smells",
+    "words": [
+      {
+        "word": "en bok",
+        "forms": [
+          "boken",
+          "böcker",
+          "böckerna"
+        ],
+        "english": "a book"
+      },
+      {
+        "word": "lukta",
+        "forms": [
+          "luktar",
+          "luktade",
+          "luktat"
+        ],
+        "english": "to smell"
+      },
+      {
+        "word": "dammig",
+        "forms": [
+          "dammigt",
+          "dammiga",
+          "mer dammig"
+        ],
+        "english": "dusty"
+      },
+      {
+        "word": "ett minne",
+        "forms": [
+          "minnet",
+          "minnen",
+          "minnena"
+        ],
+        "english": "a memory"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "koppling": "Paper soldiers",
+    "words": [
+      {
+        "word": "ett papper",
+        "forms": [
+          "pappret",
+          "papper",
+          "pappren"
+        ],
+        "english": "a paper"
+      },
+      {
+        "word": "vika",
+        "forms": [
+          "viker",
+          "vek",
+          "vikt"
+        ],
+        "english": "to fold"
+      },
+      {
+        "word": "en figur",
+        "forms": [
+          "figuren",
+          "figurer",
+          "figurerna"
+        ],
+        "english": "a figure"
+      },
+      {
+        "word": "stå",
+        "forms": [
+          "står",
+          "stod",
+          "stått"
+        ],
+        "english": "to stand"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "koppling": "Whispers of metal",
+    "words": [
+      {
+        "word": "skrapa",
+        "forms": [
+          "skrapar",
+          "skrapade",
+          "skrapat"
+        ],
+        "english": "to scrape"
+      },
+      {
+        "word": "gnissla",
+        "forms": [
+          "gnisslar",
+          "gnisslade",
+          "gnisslat"
+        ],
+        "english": "to squeak"
+      },
+      {
+        "word": "järn",
+        "forms": [
+          "järnet",
+          "järn",
+          "järnen"
+        ],
+        "english": "iron"
+      },
+      {
+        "word": "en spik",
+        "forms": [
+          "spiken",
+          "spikar",
+          "spikarna"
+        ],
+        "english": "a nail"
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "koppling": "Midnight animals",
+    "words": [
+      {
+        "word": "en uggla",
+        "forms": [
+          "ugglan",
+          "ugglor",
+          "ugglorna"
+        ],
+        "english": "an owl"
+      },
+      {
+        "word": "en fladdermus",
+        "forms": [
+          "fladdermusen",
+          "fladdermöss",
+          "fladdermössen"
+        ],
+        "english": "a bat"
+      },
+      {
+        "word": "en räv",
+        "forms": [
+          "räven",
+          "rävar",
+          "rävarna"
+        ],
+        "english": "a fox"
+      },
+      {
+        "word": "smyga",
+        "forms": [
+          "smyger",
+          "smög",
+          "smugit"
+        ],
+        "english": "to sneak"
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "koppling": "Songs of stone",
+    "words": [
+      {
+        "word": "en sten",
+        "forms": [
+          "stenen",
+          "stenar",
+          "stenarna"
+        ],
+        "english": "a stone"
+      },
+      {
+        "word": "sjunga",
+        "forms": [
+          "sjunger",
+          "sjöng",
+          "sjungit"
+        ],
+        "english": "to sing"
+      },
+      {
+        "word": "dunka",
+        "forms": [
+          "dunkar",
+          "dunkade",
+          "dunkat"
+        ],
+        "english": "to thump"
+      },
+      {
+        "word": "eko",
+        "forms": [
+          "ekot",
+          "eko",
+          "eko"
+        ],
+        "english": "an echo"
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "koppling": "Burning letters",
+    "words": [
+      {
+        "word": "ett brev",
+        "forms": [
+          "brevet",
+          "brev",
+          "breven"
+        ],
+        "english": "a letter"
+      },
+      {
+        "word": "bränna",
+        "forms": [
+          "bränner",
+          "brände",
+          "bränt"
+        ],
+        "english": "to burn"
+      },
+      {
+        "word": "aska",
+        "forms": [
+          "askan",
+          "askor",
+          "askorna"
+        ],
+        "english": "ash"
+      },
+      {
+        "word": "hemlig",
+        "forms": [
+          "hemligt",
+          "hemliga",
+          "hemligare"
+        ],
+        "english": "secret"
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "koppling": "Machines that laugh",
+    "words": [
+      {
+        "word": "ett hjul",
+        "forms": [
+          "hjulet",
+          "hjul",
+          "hjulen"
+        ],
+        "english": "a wheel"
+      },
+      {
+        "word": "en motor",
+        "forms": [
+          "motorn",
+          "motorer",
+          "motorerna"
+        ],
+        "english": "an engine"
+      },
+      {
+        "word": "skratta",
+        "forms": [
+          "skrattar",
+          "skrattade",
+          "skrattat"
+        ],
+        "english": "to laugh"
+      },
+      {
+        "word": "vibrera",
+        "forms": [
+          "vibrerar",
+          "vibrerade",
+          "vibrerat"
+        ],
+        "english": "to vibrate"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "koppling": "Invisible ink",
+    "words": [
+      {
+        "word": "skriva",
+        "forms": [
+          "skriver",
+          "skrev",
+          "skrivit"
+        ],
+        "english": "to write"
+      },
+      {
+        "word": "ett bläck",
+        "forms": [
+          "bläcket",
+          "bläck",
+          "bläcken"
+        ],
+        "english": "ink"
+      },
+      {
+        "word": "osynlig",
+        "forms": [
+          "osynligt",
+          "osynliga",
+          "mer osynlig"
+        ],
+        "english": "invisible"
+      },
+      {
+        "word": "ett papper",
+        "forms": [
+          "pappret",
+          "papper",
+          "pappren"
+        ],
+        "english": "a paper"
+      }
+    ]
+  }
+]
