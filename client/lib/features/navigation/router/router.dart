@@ -1,4 +1,6 @@
 import 'package:client/features/authentication/widgets/pages/page_auth.dart';
+import 'package:client/features/koppling/classes/game_koppling.dart';
+import 'package:client/features/koppling/widgets/pages/page_koppling.dart';
 import 'package:client/features/koppling_selection/widgets/pages/page_koppling_selection.dart';
 import 'package:go_router/go_router.dart';
 
@@ -21,6 +23,11 @@ class KopplingRouter {
       GoRoute(
         path: '/selection',
         builder: (context, state) => PageKopplingSelection(),
+      ),
+      GoRoute(
+        path: '/koppling',
+        builder: (context, state) =>
+            PageKoppling(koppling: state.extra as GameKoppling),
       ),
     ],
   );

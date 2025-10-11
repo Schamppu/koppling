@@ -1,5 +1,6 @@
 import 'package:client/features/koppling/classes/game_koppling.dart';
 import 'package:client/features/koppling/classes/koppling.dart';
+import 'package:client/features/navigation/router/router.dart';
 import 'package:client/features/networking/functions/networking.dart';
 import 'package:client/features/networking/functions/urls.dart';
 import 'package:client/features/words/classes/words.dart';
@@ -101,7 +102,7 @@ class _KopplingListingViewState extends ConsumerState<KopplingListingView> {
                 ],
               ),
               onTap: () {
-                // Handle koppling selection
+                router.push('/koppling', extra: item);
               },
             ),
           ),
