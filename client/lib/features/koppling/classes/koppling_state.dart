@@ -4,7 +4,15 @@ part 'koppling_state.mapper.dart';
 
 @MappableClass()
 class KopplingState with KopplingStateMappable {
-  KopplingState({required this.words});
+  KopplingState({
+    required this.words,
+    required this.selectedWords,
+    required this.completedWords,
+    required this.misses,
+  });
 
   List<Word> words;
+  List<Word> selectedWords;
+  List<Words> completedWords;
+  int misses;
 }

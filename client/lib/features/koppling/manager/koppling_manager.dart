@@ -4,14 +4,19 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 part 'koppling_manager.g.dart';
 
-KopplingManager get auth => KopplingManager();
+KopplingManager get koppling => KopplingManager();
 
 class KopplingManager {
   KopplingManager._privateConstructor();
 
   static final KopplingManager _instance =
       KopplingManager._privateConstructor();
-  KopplingState state = KopplingState(words: []);
+  KopplingState state = KopplingState(
+    words: [],
+    selectedWords: [],
+    completedWords: [],
+    misses: 0,
+  );
   StreamController<KopplingState> stream =
       StreamController<KopplingState>.broadcast();
 
@@ -38,7 +43,7 @@ class Koppling extends _$Koppling {
 
   void init(KopplingState initialState) {
     state = initialState;
-    auth.stream.stream.listen((state) => update(state));
+    koppling.stream.stream.listen((state) => update(state));
   }
 
   void update(KopplingState newState) {

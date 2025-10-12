@@ -1,4 +1,5 @@
 import 'package:client/features/authentication/manager/auth_manager.dart';
+import 'package:client/features/koppling/manager/koppling_manager.dart';
 import 'package:client/features/navigation/router/router.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
@@ -48,6 +49,7 @@ Future<void> managerInit(WidgetRef ref) async {
     hasInitializedManagers = true;
     Future.delayed(Duration.zero, () async {
       auth.init(ref);
+      koppling.init(ref);
     });
   }
 }

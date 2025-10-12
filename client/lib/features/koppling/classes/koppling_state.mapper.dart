@@ -15,6 +15,7 @@ class KopplingStateMapper extends ClassMapperBase<KopplingState> {
     if (_instance == null) {
       MapperContainer.globals.use(_instance = KopplingStateMapper._());
       WordMapper.ensureInitialized();
+      WordsMapper.ensureInitialized();
     }
     return _instance!;
   }
@@ -27,12 +28,34 @@ class KopplingStateMapper extends ClassMapperBase<KopplingState> {
     'words',
     _$words,
   );
+  static List<Word> _$selectedWords(KopplingState v) => v.selectedWords;
+  static const Field<KopplingState, List<Word>> _f$selectedWords = Field(
+    'selectedWords',
+    _$selectedWords,
+  );
+  static List<Words> _$completedWords(KopplingState v) => v.completedWords;
+  static const Field<KopplingState, List<Words>> _f$completedWords = Field(
+    'completedWords',
+    _$completedWords,
+  );
+  static int _$misses(KopplingState v) => v.misses;
+  static const Field<KopplingState, int> _f$misses = Field('misses', _$misses);
 
   @override
-  final MappableFields<KopplingState> fields = const {#words: _f$words};
+  final MappableFields<KopplingState> fields = const {
+    #words: _f$words,
+    #selectedWords: _f$selectedWords,
+    #completedWords: _f$completedWords,
+    #misses: _f$misses,
+  };
 
   static KopplingState _instantiate(DecodingData data) {
-    return KopplingState(words: data.dec(_f$words));
+    return KopplingState(
+      words: data.dec(_f$words),
+      selectedWords: data.dec(_f$selectedWords),
+      completedWords: data.dec(_f$completedWords),
+      misses: data.dec(_f$misses),
+    );
   }
 
   @override
@@ -98,7 +121,14 @@ extension KopplingStateValueCopy<$R, $Out>
 abstract class KopplingStateCopyWith<$R, $In extends KopplingState, $Out>
     implements ClassCopyWith<$R, $In, $Out> {
   ListCopyWith<$R, Word, WordCopyWith<$R, Word, Word>> get words;
-  $R call({List<Word>? words});
+  ListCopyWith<$R, Word, WordCopyWith<$R, Word, Word>> get selectedWords;
+  ListCopyWith<$R, Words, WordsCopyWith<$R, Words, Words>> get completedWords;
+  $R call({
+    List<Word>? words,
+    List<Word>? selectedWords,
+    List<Words>? completedWords,
+    int? misses,
+  });
   KopplingStateCopyWith<$R2, $In, $Out2> $chain<$R2, $Out2>(Then<$Out2, $R2> t);
 }
 
@@ -118,11 +148,40 @@ class _KopplingStateCopyWithImpl<$R, $Out>
         (v) => call(words: v),
       );
   @override
-  $R call({List<Word>? words}) =>
-      $apply(FieldCopyWithData({if (words != null) #words: words}));
+  ListCopyWith<$R, Word, WordCopyWith<$R, Word, Word>> get selectedWords =>
+      ListCopyWith(
+        $value.selectedWords,
+        (v, t) => v.copyWith.$chain(t),
+        (v) => call(selectedWords: v),
+      );
   @override
-  KopplingState $make(CopyWithData data) =>
-      KopplingState(words: data.get(#words, or: $value.words));
+  ListCopyWith<$R, Words, WordsCopyWith<$R, Words, Words>> get completedWords =>
+      ListCopyWith(
+        $value.completedWords,
+        (v, t) => v.copyWith.$chain(t),
+        (v) => call(completedWords: v),
+      );
+  @override
+  $R call({
+    List<Word>? words,
+    List<Word>? selectedWords,
+    List<Words>? completedWords,
+    int? misses,
+  }) => $apply(
+    FieldCopyWithData({
+      if (words != null) #words: words,
+      if (selectedWords != null) #selectedWords: selectedWords,
+      if (completedWords != null) #completedWords: completedWords,
+      if (misses != null) #misses: misses,
+    }),
+  );
+  @override
+  KopplingState $make(CopyWithData data) => KopplingState(
+    words: data.get(#words, or: $value.words),
+    selectedWords: data.get(#selectedWords, or: $value.selectedWords),
+    completedWords: data.get(#completedWords, or: $value.completedWords),
+    misses: data.get(#misses, or: $value.misses),
+  );
 
   @override
   KopplingStateCopyWith<$R2, KopplingState, $Out2> $chain<$R2, $Out2>(
