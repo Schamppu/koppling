@@ -1,5 +1,6 @@
 import 'dart:async';
 import 'package:client/features/koppling/classes/koppling_state.dart';
+import 'package:client/features/koppling/classes/koppling.dart' as k;
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 part 'koppling_manager.g.dart';
@@ -31,6 +32,22 @@ class KopplingManager {
   void update(KopplingState newState) {
     state = newState;
     stream.add(state);
+  }
+
+  k.Koppling get toKoppling {
+    print('Words IDs: ${state.gameKoppling!.words.map((e) => e.id).toList()}');
+    print(
+      'Completed Words IDs: ${state.completedWords.map((e) => e.id).toList()}',
+    );
+    return k.Koppling(
+      id: state.gameKoppling!.id,
+      words: state.completedWords.map((words) => words.id).toList(),
+      createdAt: state.gameKoppling!.createdAt,
+      misses: state.misses,
+      completed: state.gameKoppling!.completed,
+      solved: state.gameKoppling!.solved,
+      correctGroups: state.completedWords.map((words) => words.id).toList(),
+    );
   }
 }
 

@@ -2,6 +2,8 @@ import 'dart:io';
 
 import 'package:drift/drift.dart';
 import 'package:drift/native.dart';
+import 'package:server/db/tables/kopplings.dart';
+import 'package:server/db/tables/user_kopplings.dart';
 import 'package:server/db/tables/users.dart';
 
 part 'database.g.dart';
@@ -26,7 +28,7 @@ class DatabaseManager {
   }
 }
 
-@DriftDatabase(tables: [UsersTable])
+@DriftDatabase(tables: [UsersTable, KopplingsTable, UserKopplingsTable])
 class Database extends _$Database {
   Database(super.e);
 

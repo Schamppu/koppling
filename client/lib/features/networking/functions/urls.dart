@@ -6,3 +6,4 @@ const String loginEndpoint = '$authEndpoint/login';
 const String registerEndpoint = '$authEndpoint/register';
 const String kopplingsEndpoint = '/kopplings';
 const String kopplingsLoadEndpoint = '$kopplingsEndpoint/load';
+const String kopplingsUpdateEndpoint = '$kopplingsEndpoint/update';

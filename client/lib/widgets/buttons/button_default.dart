@@ -10,24 +10,32 @@ class ButtonDefault extends ConsumerWidget {
     this.icon,
     this.paddingSize = PaddingSize.medium,
     required this.onPressed,
+    this.disabled = false,
+    this.color,
+    this.textColor,
   });
   final String? label;
   final IconData? icon;
   final PaddingSize paddingSize;
   final VoidCallback onPressed;
+  final bool disabled;
+  final Color? color;
+  final Color? textColor;
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     return ElevatedButton(
       style: ElevatedButton.styleFrom(
-        backgroundColor: context.theme.colors.buttonBackground,
+        backgroundColor: disabled
+            ? context.theme.colors.disabled
+            : context.theme.colors.buttonBackground,
         foregroundColor: context.theme.colors.onButton,
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8.0)),
         elevation: 0,
         padding: EdgeInsets.zero,
         shadowColor: Colors.transparent,
       ),
-      onPressed: () => onPressed(),
+      onPressed: disabled ? null : () => onPressed(),
       child: Padding(
         padding: EdgeInsets.all(
           paddingSize == PaddingSize.small

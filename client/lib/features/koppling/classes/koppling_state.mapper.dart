@@ -14,6 +14,7 @@ class KopplingStateMapper extends ClassMapperBase<KopplingState> {
   static KopplingStateMapper ensureInitialized() {
     if (_instance == null) {
       MapperContainer.globals.use(_instance = KopplingStateMapper._());
+      GameKopplingMapper.ensureInitialized();
       WordMapper.ensureInitialized();
       WordsMapper.ensureInitialized();
     }
@@ -23,6 +24,12 @@ class KopplingStateMapper extends ClassMapperBase<KopplingState> {
   @override
   final String id = 'KopplingState';
 
+  static GameKoppling? _$gameKoppling(KopplingState v) => v.gameKoppling;
+  static const Field<KopplingState, GameKoppling> _f$gameKoppling = Field(
+    'gameKoppling',
+    _$gameKoppling,
+    opt: true,
+  );
   static List<Word> _$words(KopplingState v) => v.words;
   static const Field<KopplingState, List<Word>> _f$words = Field(
     'words',
@@ -43,6 +50,7 @@ class KopplingStateMapper extends ClassMapperBase<KopplingState> {
 
   @override
   final MappableFields<KopplingState> fields = const {
+    #gameKoppling: _f$gameKoppling,
     #words: _f$words,
     #selectedWords: _f$selectedWords,
     #completedWords: _f$completedWords,
@@ -51,6 +59,7 @@ class KopplingStateMapper extends ClassMapperBase<KopplingState> {
 
   static KopplingState _instantiate(DecodingData data) {
     return KopplingState(
+      gameKoppling: data.dec(_f$gameKoppling),
       words: data.dec(_f$words),
       selectedWords: data.dec(_f$selectedWords),
       completedWords: data.dec(_f$completedWords),
@@ -120,10 +129,12 @@ extension KopplingStateValueCopy<$R, $Out>
 
 abstract class KopplingStateCopyWith<$R, $In extends KopplingState, $Out>
     implements ClassCopyWith<$R, $In, $Out> {
+  GameKopplingCopyWith<$R, GameKoppling, GameKoppling>? get gameKoppling;
   ListCopyWith<$R, Word, WordCopyWith<$R, Word, Word>> get words;
   ListCopyWith<$R, Word, WordCopyWith<$R, Word, Word>> get selectedWords;
   ListCopyWith<$R, Words, WordsCopyWith<$R, Words, Words>> get completedWords;
   $R call({
+    GameKoppling? gameKoppling,
     List<Word>? words,
     List<Word>? selectedWords,
     List<Words>? completedWords,
@@ -140,6 +151,9 @@ class _KopplingStateCopyWithImpl<$R, $Out>
   @override
   late final ClassMapperBase<KopplingState> $mapper =
       KopplingStateMapper.ensureInitialized();
+  @override
+  GameKopplingCopyWith<$R, GameKoppling, GameKoppling>? get gameKoppling =>
+      $value.gameKoppling?.copyWith.$chain((v) => call(gameKoppling: v));
   @override
   ListCopyWith<$R, Word, WordCopyWith<$R, Word, Word>> get words =>
       ListCopyWith(
@@ -163,12 +177,14 @@ class _KopplingStateCopyWithImpl<$R, $Out>
       );
   @override
   $R call({
+    Object? gameKoppling = $none,
     List<Word>? words,
     List<Word>? selectedWords,
     List<Words>? completedWords,
     int? misses,
   }) => $apply(
     FieldCopyWithData({
+      if (gameKoppling != $none) #gameKoppling: gameKoppling,
       if (words != null) #words: words,
       if (selectedWords != null) #selectedWords: selectedWords,
       if (completedWords != null) #completedWords: completedWords,
@@ -177,6 +193,7 @@ class _KopplingStateCopyWithImpl<$R, $Out>
   );
   @override
   KopplingState $make(CopyWithData data) => KopplingState(
+    gameKoppling: data.get(#gameKoppling, or: $value.gameKoppling),
     words: data.get(#words, or: $value.words),
     selectedWords: data.get(#selectedWords, or: $value.selectedWords),
     completedWords: data.get(#completedWords, or: $value.completedWords),

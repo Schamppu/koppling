@@ -1,3 +1,4 @@
+import 'package:client/features/authentication/manager/auth_manager.dart';
 import 'package:client/features/koppling/classes/game_koppling.dart';
 import 'package:client/features/koppling/classes/koppling.dart';
 import 'package:client/features/koppling_selection/widgets/components/koppling_list_tile_widget.dart';
@@ -20,7 +21,11 @@ class _KopplingListingViewState extends ConsumerState<KopplingListingView> {
   Future<List<GameKoppling>> fetchKopplings(int pageKey) async {
     final response = await net.get(
       kopplingsLoadEndpoint,
-      queryParameters: {'page': pageKey - 1, 'pageSize': 10},
+      queryParameters: {
+        'user': auth.state.username,
+        'page': pageKey - 1,
+        'pageSize': 10,
+      },
     );
     if (response.statusCode == 200) {
       final List<dynamic> kopplingsData = response.data['kopplings'];
@@ -42,6 +47,10 @@ class _KopplingListingViewState extends ConsumerState<KopplingListingView> {
             id: koppling.id,
             words: kopplingWords,
             createdAt: koppling.createdAt,
+            misses: koppling.misses,
+            completed: koppling.completed,
+            solved: koppling.solved,
+            correctGroups: koppling.correctGroups,
           ),
         );
       }
@@ -73,8 +82,10 @@ class _KopplingListingViewState extends ConsumerState<KopplingListingView> {
           state: state,
           fetchNextPage: fetchNextPage,
           builderDelegate: PagedChildBuilderDelegate(
-            itemBuilder: (context, item, index) =>
-                KopplingListTileWidget(gameKoppling: item),
+            itemBuilder: (context, item, index) => Padding(
+              padding: const EdgeInsets.only(bottom: 8.0),
+              child: KopplingListTileWidget(gameKoppling: item),
+            ),
           ),
         ),
   );

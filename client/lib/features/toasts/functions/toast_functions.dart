@@ -7,6 +7,7 @@ Future<void> showSuccess({
   required String title,
   String? message,
   IconData? icon,
+  Color? iconColor,
 }) async {
   toastification.show(
     title: Text(title, style: ktheme.fonts.primaryOnPrimary),
@@ -14,7 +15,7 @@ Future<void> showSuccess({
         ? Text(message, style: ktheme.fonts.primaryOnPrimary)
         : null,
     icon: icon != null
-        ? Icon(icon, color: ktheme.colors.buttonBackground)
+        ? Icon(icon, color: iconColor ?? ktheme.colors.buttonBackground)
         : null,
     alignment: Alignment.bottomCenter,
     backgroundColor: ktheme.colors.primary,

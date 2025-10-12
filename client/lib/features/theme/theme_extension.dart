@@ -24,6 +24,12 @@ class KopplingFonts {
     color: KopplingColors().title,
     letterSpacing: 6,
   );
+  final subTitle = TextStyle(
+    fontSize: 20,
+    fontStyle: FontStyle.normal,
+    fontWeight: FontWeight.w600,
+    color: KopplingColors().primary,
+  );
   final primary = TextStyle(
     fontSize: 16,
     fontStyle: FontStyle.normal,
@@ -57,6 +63,7 @@ class KopplingColors {
   final error = const Color.fromARGB(255, 177, 54, 54);
   final onError = Colors.white;
   final lightError = const Color.fromARGB(255, 255, 164, 164);
+  final disabled = const Color.fromARGB(255, 138, 103, 138);
 }
 
 class KopplingShadows {

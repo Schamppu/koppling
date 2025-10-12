@@ -34,12 +34,42 @@ class GameKopplingMapper extends ClassMapperBase<GameKoppling> {
     'createdAt',
     _$createdAt,
   );
+  static int _$misses(GameKoppling v) => v.misses;
+  static const Field<GameKoppling, int> _f$misses = Field(
+    'misses',
+    _$misses,
+    opt: true,
+    def: 0,
+  );
+  static bool _$completed(GameKoppling v) => v.completed;
+  static const Field<GameKoppling, bool> _f$completed = Field(
+    'completed',
+    _$completed,
+    opt: true,
+    def: false,
+  );
+  static bool _$solved(GameKoppling v) => v.solved;
+  static const Field<GameKoppling, bool> _f$solved = Field(
+    'solved',
+    _$solved,
+    opt: true,
+    def: false,
+  );
+  static List<int> _$correctGroups(GameKoppling v) => v.correctGroups;
+  static const Field<GameKoppling, List<int>> _f$correctGroups = Field(
+    'correctGroups',
+    _$correctGroups,
+  );
 
   @override
   final MappableFields<GameKoppling> fields = const {
     #id: _f$id,
     #words: _f$words,
     #createdAt: _f$createdAt,
+    #misses: _f$misses,
+    #completed: _f$completed,
+    #solved: _f$solved,
+    #correctGroups: _f$correctGroups,
   };
 
   static GameKoppling _instantiate(DecodingData data) {
@@ -47,6 +77,10 @@ class GameKopplingMapper extends ClassMapperBase<GameKoppling> {
       id: data.dec(_f$id),
       words: data.dec(_f$words),
       createdAt: data.dec(_f$createdAt),
+      misses: data.dec(_f$misses),
+      completed: data.dec(_f$completed),
+      solved: data.dec(_f$solved),
+      correctGroups: data.dec(_f$correctGroups),
     );
   }
 
@@ -113,7 +147,16 @@ extension GameKopplingValueCopy<$R, $Out>
 abstract class GameKopplingCopyWith<$R, $In extends GameKoppling, $Out>
     implements ClassCopyWith<$R, $In, $Out> {
   ListCopyWith<$R, Words, WordsCopyWith<$R, Words, Words>> get words;
-  $R call({int? id, List<Words>? words, DateTime? createdAt});
+  ListCopyWith<$R, int, ObjectCopyWith<$R, int, int>> get correctGroups;
+  $R call({
+    int? id,
+    List<Words>? words,
+    DateTime? createdAt,
+    int? misses,
+    bool? completed,
+    bool? solved,
+    List<int>? correctGroups,
+  });
   GameKopplingCopyWith<$R2, $In, $Out2> $chain<$R2, $Out2>(Then<$Out2, $R2> t);
 }
 
@@ -133,11 +176,30 @@ class _GameKopplingCopyWithImpl<$R, $Out>
         (v) => call(words: v),
       );
   @override
-  $R call({int? id, List<Words>? words, DateTime? createdAt}) => $apply(
+  ListCopyWith<$R, int, ObjectCopyWith<$R, int, int>> get correctGroups =>
+      ListCopyWith(
+        $value.correctGroups,
+        (v, t) => ObjectCopyWith(v, $identity, t),
+        (v) => call(correctGroups: v),
+      );
+  @override
+  $R call({
+    int? id,
+    List<Words>? words,
+    DateTime? createdAt,
+    int? misses,
+    bool? completed,
+    bool? solved,
+    List<int>? correctGroups,
+  }) => $apply(
     FieldCopyWithData({
       if (id != null) #id: id,
       if (words != null) #words: words,
       if (createdAt != null) #createdAt: createdAt,
+      if (misses != null) #misses: misses,
+      if (completed != null) #completed: completed,
+      if (solved != null) #solved: solved,
+      if (correctGroups != null) #correctGroups: correctGroups,
     }),
   );
   @override
@@ -145,6 +207,10 @@ class _GameKopplingCopyWithImpl<$R, $Out>
     id: data.get(#id, or: $value.id),
     words: data.get(#words, or: $value.words),
     createdAt: data.get(#createdAt, or: $value.createdAt),
+    misses: data.get(#misses, or: $value.misses),
+    completed: data.get(#completed, or: $value.completed),
+    solved: data.get(#solved, or: $value.solved),
+    correctGroups: data.get(#correctGroups, or: $value.correctGroups),
   );
 
   @override

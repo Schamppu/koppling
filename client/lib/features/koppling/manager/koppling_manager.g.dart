@@ -41,7 +41,7 @@ final class KopplingProvider
   }
 }
 
-String _$kopplingHash() => r'317a35ece21e8abc03a19210fd4dc324916d4a68';
+String _$kopplingHash() => r'acd3b4f7a56e65b388caeb6ed2f229f3be358651';
 
 abstract class _$Koppling extends $Notifier<KopplingState> {
   KopplingState build();
