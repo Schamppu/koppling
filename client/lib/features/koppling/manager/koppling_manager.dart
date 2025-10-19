@@ -25,7 +25,7 @@ class KopplingManager {
     return _instance;
   }
 
-  void init(WidgetRef ref) {
+  Future<void> init(WidgetRef ref) async {
     ref.read(kopplingProvider.notifier).init(state);
   }
 

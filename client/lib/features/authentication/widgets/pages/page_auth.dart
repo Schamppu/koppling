@@ -17,6 +17,9 @@ class PageAuth extends ConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
+    final authInitialized = ref.watch(
+      authProvider.select((state) => state.initialized),
+    );
     return ScaffoldDefault(
       child: Column(
         spacing: 8,
@@ -38,100 +41,102 @@ class PageAuth extends ConsumerWidget {
             ),
           ),
           const SizedBox(height: 24),
-          CardDefault(
-            child: Column(
-              spacing: 16,
-              children: [
-                Text('Login', style: context.theme.fonts.primary),
-                FieldDefault(
-                  label: 'Username',
-                  icon: Icons.person,
-                  onChanged: (text) {
-                    auth.update(auth.state.copyWith(username: text));
-                  },
-                ),
-                FieldDefault(
-                  label: 'Password',
-                  icon: Icons.lock,
-                  isPassword: true,
-                  onChanged: (text) {
-                    auth.update(auth.state.copyWith(password: text));
-                  },
-                ),
-                Wrap(
-                  spacing: 16,
-                  runSpacing: 16,
-                  children: [
-                    ButtonDefault(
-                      label: 'Login',
-                      icon: Icons.login,
-                      onPressed: () async {
-                        final response = await net.post(
-                          loginEndpoint,
-                          data: {
-                            'username': auth.state.username,
-                            'password': auth.state.password,
-                          },
-                        );
-                        if (response.statusCode == 200) {
-                          auth.update(
-                            auth.state.copyWith(
-                              authenticated: true,
-                              username: auth.state.username,
-                              password: auth.state.password,
-                            ),
-                          );
-                        }
-                        if (!context.mounted) return;
-                        showSuccess(
-                          title: 'Login Successful',
-                          message:
-                              'Welcome ${auth.state.username}. Time to learn some Swedish! 💪',
-                          icon: Icons.check_circle,
-                        );
-                        router.replace('/selection');
-                      },
-                    ),
-                    ButtonDefault(
-                      label: 'Sign Up',
-                      icon: Icons.person_add,
-                      onPressed: () async {
-                        final response = await net.post(
-                          registerEndpoint,
-                          data: {
-                            'username': auth.state.username,
-                            'password': auth.state.password,
-                          },
-                        );
-                        if (response.statusCode == 200) {
-                          auth.update(
-                            auth.state.copyWith(
-                              authenticated: true,
-                              username: auth.state.username,
-                              password: auth.state.password,
-                            ),
-                          );
-                        }
-                        if (!context.mounted) return;
-                        showSuccess(
-                          title: 'Registration Successful',
-                          message:
-                              'Hell yeah 🤘! Welcome ${auth.state.username}. Time to learn some Swedish! 💪',
-                          icon: Icons.check_circle,
-                        );
-                        router.replace('/selection');
-                      },
-                    ),
-                    ButtonDefault(
-                      label: 'Continue as Guest',
-                      icon: Icons.person_outline,
-                      onPressed: () {},
-                    ),
-                  ],
-                ),
-              ],
-            ),
-          ),
+          authInitialized
+              ? CardDefault(
+                  child: Column(
+                    spacing: 16,
+                    children: [
+                      Text('Login', style: context.theme.fonts.primary),
+                      FieldDefault(
+                        label: 'Username',
+                        icon: Icons.person,
+                        onChanged: (text) {
+                          auth.update(auth.state.copyWith(username: text));
+                        },
+                      ),
+                      FieldDefault(
+                        label: 'Password',
+                        icon: Icons.lock,
+                        isPassword: true,
+                        onChanged: (text) {
+                          auth.update(auth.state.copyWith(password: text));
+                        },
+                      ),
+                      Wrap(
+                        spacing: 16,
+                        runSpacing: 16,
+                        children: [
+                          ButtonDefault(
+                            label: 'Login',
+                            icon: Icons.login,
+                            onPressed: () async {
+                              final response = await net.post(
+                                loginEndpoint,
+                                data: {
+                                  'username': auth.state.username,
+                                  'password': auth.state.password,
+                                },
+                              );
+                              if (response.statusCode == 200) {
+                                auth.update(
+                                  auth.state.copyWith(
+                                    authenticated: true,
+                                    username: auth.state.username,
+                                    password: auth.state.password,
+                                  ),
+                                );
+                              }
+                              if (!context.mounted) return;
+                              showSuccess(
+                                title: 'Login Successful',
+                                message:
+                                    'Welcome ${auth.state.username}. Time to learn some Swedish! 💪',
+                                icon: Icons.check_circle,
+                              );
+                              router.replace('/selection');
+                            },
+                          ),
+                          ButtonDefault(
+                            label: 'Sign Up',
+                            icon: Icons.person_add,
+                            onPressed: () async {
+                              final response = await net.post(
+                                registerEndpoint,
+                                data: {
+                                  'username': auth.state.username,
+                                  'password': auth.state.password,
+                                },
+                              );
+                              if (response.statusCode == 200) {
+                                auth.update(
+                                  auth.state.copyWith(
+                                    authenticated: true,
+                                    username: auth.state.username,
+                                    password: auth.state.password,
+                                  ),
+                                );
+                              }
+                              if (!context.mounted) return;
+                              showSuccess(
+                                title: 'Registration Successful',
+                                message:
+                                    'Hell yeah 🤘! Welcome ${auth.state.username}. Time to learn some Swedish! 💪',
+                                icon: Icons.check_circle,
+                              );
+                              router.replace('/selection');
+                            },
+                          ),
+                          ButtonDefault(
+                            label: 'Continue as Guest',
+                            icon: Icons.person_outline,
+                            onPressed: () {},
+                          ),
+                        ],
+                      ),
+                    ],
+                  ),
+                )
+              : CircularProgressIndicator(),
         ],
       ),
     );

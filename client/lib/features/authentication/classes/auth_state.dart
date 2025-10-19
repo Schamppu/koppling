@@ -3,9 +3,15 @@ part 'auth_state.mapper.dart';
 
 @MappableClass()
 class AuthState with AuthStateMappable {
-  AuthState({this.authenticated = false, this.username, this.password});
+  AuthState({
+    this.authenticated = false,
+    this.username,
+    this.password,
+    this.initialized = false,
+  });
 
   bool authenticated;
   String? username;
   String? password;
+  bool initialized;
 }

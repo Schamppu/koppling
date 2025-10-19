@@ -1,6 +1,8 @@
 import 'dart:async';
 
+import 'package:client/db/storage_manager.dart';
 import 'package:client/features/authentication/classes/auth_state.dart';
+import 'package:client/features/navigation/router/router.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 part 'auth_manager.g.dart';
@@ -18,13 +20,27 @@ class AuthManager {
     return _instance;
   }
 
-  void init(WidgetRef ref) {
+  Future<void> init(WidgetRef ref) async {
     ref.read(authProvider.notifier).init(state);
+    try {
+      final savedState = await storage.load(
+        key: 'authState',
+        fromJson: (json) => AuthStateMapper.fromJson(json),
+      );
+      update(savedState);
+      print('Loaded saved auth state: ${savedState.toJson()}');
+      if (savedState.authenticated) {
+        router.replace('/selection');
+      }
+    } catch (e) {
+      print('No saved auth state found: $e');
+    }
   }
 
   void update(AuthState newState) {
     state = newState;
     stream.add(state);
+    storage.save(key: 'authState', data: newState);
   }
 }
 

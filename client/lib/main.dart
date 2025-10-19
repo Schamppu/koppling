@@ -1,3 +1,4 @@
+import 'package:client/db/storage_manager.dart';
 import 'package:client/features/authentication/manager/auth_manager.dart';
 import 'package:client/features/koppling/manager/koppling_manager.dart';
 import 'package:client/features/navigation/router/router.dart';
@@ -8,6 +9,8 @@ import 'package:toastification/toastification.dart';
 bool hasInitializedManagers = false;
 
 Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await storage.init();
   runApp(const ProviderScope(child: KopplingApp()));
 }
 
@@ -48,8 +51,8 @@ Future<void> managerInit(WidgetRef ref) async {
   if (hasInitializedManagers == false) {
     hasInitializedManagers = true;
     Future.delayed(Duration.zero, () async {
-      auth.init(ref);
-      koppling.init(ref);
+      await auth.init(ref);
+      await koppling.init(ref);
     });
   }
 }

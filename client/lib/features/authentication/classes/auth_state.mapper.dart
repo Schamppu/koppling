@@ -40,12 +40,20 @@ class AuthStateMapper extends ClassMapperBase<AuthState> {
     _$password,
     opt: true,
   );
+  static bool _$initialized(AuthState v) => v.initialized;
+  static const Field<AuthState, bool> _f$initialized = Field(
+    'initialized',
+    _$initialized,
+    opt: true,
+    def: false,
+  );
 
   @override
   final MappableFields<AuthState> fields = const {
     #authenticated: _f$authenticated,
     #username: _f$username,
     #password: _f$password,
+    #initialized: _f$initialized,
   };
 
   static AuthState _instantiate(DecodingData data) {
@@ -53,6 +61,7 @@ class AuthStateMapper extends ClassMapperBase<AuthState> {
       authenticated: data.dec(_f$authenticated),
       username: data.dec(_f$username),
       password: data.dec(_f$password),
+      initialized: data.dec(_f$initialized),
     );
   }
 
@@ -115,7 +124,12 @@ extension AuthStateValueCopy<$R, $Out> on ObjectCopyWith<$R, AuthState, $Out> {
 
 abstract class AuthStateCopyWith<$R, $In extends AuthState, $Out>
     implements ClassCopyWith<$R, $In, $Out> {
-  $R call({bool? authenticated, String? username, String? password});
+  $R call({
+    bool? authenticated,
+    String? username,
+    String? password,
+    bool? initialized,
+  });
   AuthStateCopyWith<$R2, $In, $Out2> $chain<$R2, $Out2>(Then<$Out2, $R2> t);
 }
 
@@ -132,11 +146,13 @@ class _AuthStateCopyWithImpl<$R, $Out>
     bool? authenticated,
     Object? username = $none,
     Object? password = $none,
+    bool? initialized,
   }) => $apply(
     FieldCopyWithData({
       if (authenticated != null) #authenticated: authenticated,
       if (username != $none) #username: username,
       if (password != $none) #password: password,
+      if (initialized != null) #initialized: initialized,
     }),
   );
   @override
@@ -144,6 +160,7 @@ class _AuthStateCopyWithImpl<$R, $Out>
     authenticated: data.get(#authenticated, or: $value.authenticated),
     username: data.get(#username, or: $value.username),
     password: data.get(#password, or: $value.password),
+    initialized: data.get(#initialized, or: $value.initialized),
   );
 
   @override
