@@ -28,12 +28,11 @@ class AuthManager {
         fromJson: (json) => AuthStateMapper.fromJson(json),
       );
       update(savedState);
-      print('Loaded saved auth state: ${savedState.toJson()}');
       if (savedState.authenticated) {
         router.replace('/selection');
       }
     } catch (e) {
-      print('No saved auth state found: $e');
+      //
     }
   }
 

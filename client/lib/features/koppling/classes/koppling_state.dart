@@ -11,10 +11,12 @@ class KopplingState with KopplingStateMappable {
     required this.selectedWords,
     required this.completedWords,
     required this.misses,
+    this.id = 0,
   });
   GameKoppling? gameKoppling;
   List<Word> words;
   List<Word> selectedWords;
   List<Words> completedWords;
   int misses;
+  int id;
 }

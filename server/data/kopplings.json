@@ -7,7 +7,11 @@
       3,
       4
     ],
-    "createdAt": "2025-09-29T00:00:00Z"
+    "createdAt": "2025-09-29T00:00:00.000Z",
+    "correctGroups": [],
+    "misses": 0,
+    "completed": false,
+    "solved": false
   },
   {
     "id": 2,
@@ -17,7 +21,11 @@
       7,
       8
     ],
-    "createdAt": "2025-09-30T00:00:00Z"
+    "createdAt": "2025-09-30T00:00:00.000Z",
+    "correctGroups": [],
+    "misses": 0,
+    "completed": false,
+    "solved": false
   },
   {
     "id": 3,
@@ -27,6 +35,108 @@
       11,
       12
     ],
-    "createdAt": "2025-10-01T00:00:00Z"
+    "createdAt": "2025-10-01T00:00:00.000Z",
+    "correctGroups": [],
+    "misses": 0,
+    "completed": false,
+    "solved": false
+  },
+  {
+    "id": 4,
+    "words": [
+      44,
+      134,
+      19,
+      219
+    ],
+    "createdAt": "2025-10-19T15:57:13.472464Z",
+    "correctGroups": [],
+    "misses": 0,
+    "completed": false,
+    "solved": false
+  },
+  {
+    "id": 5,
+    "words": [
+      98,
+      194,
+      199,
+      189
+    ],
+    "createdAt": "2025-10-19T16:25:02.297220Z",
+    "correctGroups": [],
+    "misses": 0,
+    "completed": false,
+    "solved": false
+  },
+  {
+    "id": 6,
+    "words": [
+      226,
+      193,
+      231,
+      164
+    ],
+    "createdAt": "2025-10-19T16:25:04.698217Z",
+    "correctGroups": [],
+    "misses": 0,
+    "completed": false,
+    "solved": false
+  },
+  {
+    "id": 7,
+    "words": [
+      107,
+      223,
+      190,
+      165
+    ],
+    "createdAt": "2025-10-19T16:25:07.065283Z",
+    "correctGroups": [],
+    "misses": 0,
+    "completed": false,
+    "solved": false
+  },
+  {
+    "id": 8,
+    "words": [
+      6,
+      226,
+      125,
+      84
+    ],
+    "createdAt": "2025-10-19T16:28:31.090027Z",
+    "correctGroups": [],
+    "misses": 0,
+    "completed": false,
+    "solved": false
+  },
+  {
+    "id": 9,
+    "words": [
+      81,
+      170,
+      6,
+      10
+    ],
+    "createdAt": "2025-10-19T16:28:32.562636Z",
+    "correctGroups": [],
+    "misses": 0,
+    "completed": false,
+    "solved": false
+  },
+  {
+    "id": 10,
+    "words": [
+      13,
+      121,
+      48,
+      113
+    ],
+    "createdAt": "2025-10-19T16:28:34.620171Z",
+    "correctGroups": [],
+    "misses": 0,
+    "completed": false,
+    "solved": false
   }
 ]

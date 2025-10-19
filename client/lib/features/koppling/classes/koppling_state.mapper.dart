@@ -47,6 +47,13 @@ class KopplingStateMapper extends ClassMapperBase<KopplingState> {
   );
   static int _$misses(KopplingState v) => v.misses;
   static const Field<KopplingState, int> _f$misses = Field('misses', _$misses);
+  static int _$id(KopplingState v) => v.id;
+  static const Field<KopplingState, int> _f$id = Field(
+    'id',
+    _$id,
+    opt: true,
+    def: 0,
+  );
 
   @override
   final MappableFields<KopplingState> fields = const {
@@ -55,6 +62,7 @@ class KopplingStateMapper extends ClassMapperBase<KopplingState> {
     #selectedWords: _f$selectedWords,
     #completedWords: _f$completedWords,
     #misses: _f$misses,
+    #id: _f$id,
   };
 
   static KopplingState _instantiate(DecodingData data) {
@@ -64,6 +72,7 @@ class KopplingStateMapper extends ClassMapperBase<KopplingState> {
       selectedWords: data.dec(_f$selectedWords),
       completedWords: data.dec(_f$completedWords),
       misses: data.dec(_f$misses),
+      id: data.dec(_f$id),
     );
   }
 
@@ -139,6 +148,7 @@ abstract class KopplingStateCopyWith<$R, $In extends KopplingState, $Out>
     List<Word>? selectedWords,
     List<Words>? completedWords,
     int? misses,
+    int? id,
   });
   KopplingStateCopyWith<$R2, $In, $Out2> $chain<$R2, $Out2>(Then<$Out2, $R2> t);
 }
@@ -182,6 +192,7 @@ class _KopplingStateCopyWithImpl<$R, $Out>
     List<Word>? selectedWords,
     List<Words>? completedWords,
     int? misses,
+    int? id,
   }) => $apply(
     FieldCopyWithData({
       if (gameKoppling != $none) #gameKoppling: gameKoppling,
@@ -189,6 +200,7 @@ class _KopplingStateCopyWithImpl<$R, $Out>
       if (selectedWords != null) #selectedWords: selectedWords,
       if (completedWords != null) #completedWords: completedWords,
       if (misses != null) #misses: misses,
+      if (id != null) #id: id,
     }),
   );
   @override
@@ -198,6 +210,7 @@ class _KopplingStateCopyWithImpl<$R, $Out>
     selectedWords: data.get(#selectedWords, or: $value.selectedWords),
     completedWords: data.get(#completedWords, or: $value.completedWords),
     misses: data.get(#misses, or: $value.misses),
+    id: data.get(#id, or: $value.id),
   );
 
   @override

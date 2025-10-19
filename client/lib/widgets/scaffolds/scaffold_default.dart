@@ -7,15 +7,24 @@ class ScaffoldDefault extends ConsumerWidget {
     super.key,
     required this.child,
     this.padding = const EdgeInsets.all(16.0),
+    this.onPop,
   });
   final Widget child;
   final EdgeInsets padding;
+  final VoidCallback? onPop;
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     return Scaffold(
-      body: SafeArea(
-        child: Padding(padding: padding, child: child),
+      body: PopScope(
+        onPopInvokedWithResult: (didPop, result) {
+          if (onPop != null) {
+            onPop!();
+          }
+        },
+        child: SafeArea(
+          child: Padding(padding: padding, child: child),
+        ),
       ),
       backgroundColor: context.theme.colors.background,
     );

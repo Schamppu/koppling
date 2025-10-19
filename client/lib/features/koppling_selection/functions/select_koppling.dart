@@ -10,12 +10,6 @@ Future<void> selectKoppling({required GameKoppling gameKoppling}) async {
   final completedWords = gameKoppling.words
       .where((w) => gameKoppling.correctGroups.contains(w.id))
       .toList();
-  print(
-    'Word IDs in gameKoppling: ${gameKoppling.words.map((e) => e.id).toList()}',
-  );
-  print(
-    'Correct groups: ${gameKoppling.correctGroups}, Completed words: ${completedWords.map((e) => e.words.map((e) => e.word).toList()).toList()}',
-  );
   // Put the completed ones at the start of the list
   final List<Word> wordList = [];
   for (final group in completedWords) {
@@ -32,6 +26,7 @@ Future<void> selectKoppling({required GameKoppling gameKoppling}) async {
       misses: gameKoppling.misses,
       selectedWords: [],
       completedWords: completedWords,
+      id: koppling.state.id + 1,
     ),
   );
   router.push('/koppling', extra: gameKoppling);

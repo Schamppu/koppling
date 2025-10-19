@@ -20,9 +20,7 @@ class DatabaseManager {
       DatabaseManager._privateConstructor();
 
   Future<void> init() async {
-    print('Initializing database...');
     db = constructDb();
-    print('Database initialized.');
   }
 }
 

@@ -35,10 +35,6 @@ class KopplingManager {
   }
 
   k.Koppling get toKoppling {
-    print('Words IDs: ${state.gameKoppling!.words.map((e) => e.id).toList()}');
-    print(
-      'Completed Words IDs: ${state.completedWords.map((e) => e.id).toList()}',
-    );
     return k.Koppling(
       id: state.gameKoppling!.id,
       words: state.completedWords.map((words) => words.id).toList(),
