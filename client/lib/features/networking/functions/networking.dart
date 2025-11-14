@@ -1,3 +1,4 @@
+//import 'package:client/features/networking/functions/interceptor.dart';
 import 'package:client/features/networking/functions/urls.dart';
 import 'package:client/features/toasts/functions/toast_functions.dart';
 import 'package:dio/dio.dart';
@@ -21,7 +22,13 @@ class Networking {
       connectTimeout: const Duration(seconds: 10),
       receiveTimeout: const Duration(seconds: 10),
     ),
-  );
+  )
+  /*
+    [A02 Cryptographic Failures]
+    Adding the CryptoInterceptor here would enable AES256 encryption
+    ..interceptors.add(CryptoInterceptor())
+  */
+  ;
 
   Future<Response> get(
     String path, {

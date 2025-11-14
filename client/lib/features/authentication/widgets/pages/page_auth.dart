@@ -126,11 +126,6 @@ class PageAuth extends ConsumerWidget {
                               router.replace('/selection');
                             },
                           ),
-                          ButtonDefault(
-                            label: 'Continue as Guest',
-                            icon: Icons.person_outline,
-                            onPressed: () {},
-                          ),
                         ],
                       ),
                     ],

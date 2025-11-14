@@ -1,9 +1,6 @@
-import 'dart:io';
-
 import 'package:client/db/storage.dart';
 import 'package:drift/drift.dart';
-import 'package:drift/native.dart';
-
+import 'package:drift_flutter/drift_flutter.dart';
 part 'database.g.dart';
 
 late Database db;
@@ -32,13 +29,17 @@ class Database extends _$Database {
   int get schemaVersion => 1;
 
   static QueryExecutor openConnection() {
-    return constructDb().executor;
+    return driftDatabase(
+      name: 'koppling_db',
+      web: DriftWebOptions(
+        sqlite3Wasm: Uri.parse('sqlite3.wasm'),
+        driftWorker: Uri.parse('drift_worker.dart.js'),
+      ),
+    );
   }
 }
 
 Database constructDb() {
-  final db = LazyDatabase(() async {
-    return NativeDatabase.createInBackground(File('db'));
-  });
+  final db = Database.openConnection();
   return Database(db);
 }

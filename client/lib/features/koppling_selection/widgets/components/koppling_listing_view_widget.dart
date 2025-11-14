@@ -5,6 +5,7 @@ import 'package:client/features/koppling_selection/widgets/components/koppling_l
 import 'package:client/features/networking/functions/networking.dart';
 import 'package:client/features/networking/functions/urls.dart';
 import 'package:client/features/words/classes/words.dart';
+import 'package:collection/collection.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
@@ -19,44 +20,52 @@ class KopplingListingView extends ConsumerStatefulWidget {
 
 class _KopplingListingViewState extends ConsumerState<KopplingListingView> {
   Future<List<GameKoppling>> fetchKopplings(int pageKey) async {
-    final response = await net.get(
-      kopplingsLoadEndpoint,
-      queryParameters: {
-        'user': auth.state.username,
-        'page': pageKey - 1,
-        'pageSize': 10,
-      },
-    );
-    if (response.statusCode == 200) {
-      final List<dynamic> kopplingsData = response.data['kopplings'];
-      final List<dynamic> wordsData = response.data['words'];
-      final kopplings = kopplingsData
-          .map((json) => KopplingMapper.fromJson(json))
-          .toList();
-      final words = wordsData
-          .map((json) => WordsMapper.fromJson(json))
-          .toList();
-      hasNextPage = kopplingsData.length == 10;
-      final List<GameKoppling> gameKopplings = [];
-      for (final koppling in kopplings) {
-        final kopplingWords = koppling.words
-            .map((wordId) => words.firstWhere((word) => word.id == wordId))
+    try {
+      final response = await net.get(
+        kopplingsLoadEndpoint,
+        queryParameters: {
+          'user': auth.state.username,
+          'page': pageKey - 1,
+          'pageSize': 10,
+        },
+      );
+      if (response.statusCode == 200) {
+        final List<dynamic> kopplingsData = response.data['kopplings'];
+        final List<dynamic> wordsData = response.data['words'];
+        final kopplings = kopplingsData
+            .map((json) => KopplingMapper.fromJson(json))
             .toList();
-        gameKopplings.add(
-          GameKoppling(
-            id: koppling.id,
-            words: kopplingWords,
-            createdAt: koppling.createdAt,
-            misses: koppling.misses,
-            completed: koppling.completed,
-            solved: koppling.solved,
-            correctGroups: koppling.correctGroups,
-          ),
-        );
+        final words = wordsData
+            .map((json) => WordsMapper.fromJson(json))
+            .toList();
+        hasNextPage = kopplingsData.length == 10;
+        final List<GameKoppling> gameKopplings = [];
+        for (final koppling in kopplings) {
+          final kopplingWords = koppling.words
+              .map(
+                (wordId) => words.firstWhereOrNull((word) => word.id == wordId),
+              )
+              .toList();
+          gameKopplings.add(
+            GameKoppling(
+              id: koppling.id,
+              words: kopplingWords.nonNulls.toList(),
+              createdAt: koppling.createdAt,
+              misses: koppling.misses,
+              completed: koppling.completed,
+              solved: koppling.solved,
+              correctGroups: koppling.correctGroups,
+            ),
+          );
+        }
+        return gameKopplings;
+      } else {
+        print('Failed to load kopplings: ${response.statusCode}');
+        throw Exception('Failed to load kopplings');
       }
-      return gameKopplings;
-    } else {
-      throw Exception('Failed to load kopplings');
+    } catch (e, s) {
+      print('Error fetching kopplings: $e $s');
+      throw Exception('Error parsing kopplings: $e');
     }
   }
 

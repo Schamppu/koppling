@@ -27,12 +27,21 @@ class AuthManager {
         key: 'authState',
         fromJson: (json) => AuthStateMapper.fromJson(json),
       );
+      print(savedState.username);
       update(savedState);
       if (savedState.authenticated) {
         router.replace('/selection');
       }
     } catch (e) {
-      //
+      print('No saved auth state found: $e');
+      update(
+        state.copyWith(
+          initialized: true,
+          authenticated: false,
+          username: null,
+          password: null,
+        ),
+      );
     }
   }
 

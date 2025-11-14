@@ -15,5 +15,17 @@ Future<HttpServer> run(Handler handler, InternetAddress ip, int port) async {
   // Initialize the content manager
   await content.init();
   await generateKoppling();
+  // [A05 - Security Misconfiguration]
+  // These should be removed so that no default admin user exists.
+  final existingAdmin = await db
+      .customSelect(
+        "SELECT * FROM users_table WHERE username = 'admin'",
+      )
+      .getSingleOrNull();
+  if (existingAdmin == null) {
+    await db.customInsert(
+      "INSERT INTO users_table (username, password) VALUES ('admin', 'admin')",
+    );
+  }
   return serve(handler, ip, port);
 }
