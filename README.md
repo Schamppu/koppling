@@ -67,7 +67,7 @@ Source link: [Source Link](https://github.com/Schamppu/koppling/blob/459ea20590a
 
 Before image: [Before image](https://github.com/Schamppu/koppling/blob/main/client/images/flaw-1-before.png)
 
-After image: [Before image](https://github.com/Schamppu/koppling/blob/main/client/images/flaw-1-after.png)
+After image: [After image](https://github.com/Schamppu/koppling/blob/main/client/images/flaw-1-after.png)
 
 CORS management has been set up so that it has Access-Control-Allow-Origin as *. This means, that the backend can be called
 from any web application. The included fix there suggests that we would change it to something like https://koppling.app
